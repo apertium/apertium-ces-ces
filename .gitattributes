@@ -1,0 +1,20 @@
+* text=auto !eol
+/Makefile.am -text
+/apertium-ces-ces.ces-ces_han.dix -text
+/apertium-ces-ces.ces-ces_han.t1x -text
+/apertium-ces-ces.ces-ces_han.t2x -text
+/apertium-ces-ces.ces-ces_han.t3x -text
+/apertium-ces-ces.ces.acx -text
+/apertium-ces-ces.ces.dix -text
+/apertium-ces-ces.ces.tsx -text
+/apertium-ces-ces.ces_han-ces.t1x -text
+/apertium-ces-ces.ces_han-ces.t2x -text
+/apertium-ces-ces.ces_han-ces.t3x -text
+/apertium-ces-ces.ces_han.acx -text
+/apertium-ces-ces.ces_han.dix -text
+/apertium-ces-ces.ces_han.tsx -text
+/apertium-ces-ces.post-ces.dix -text
+/apertium-ces-ces.post-ces_han.dix -text
+/ces-ces_han.prob -text
+/ces_han-ces.prob -text svneol=unset#unset
+/modes.xml -text
