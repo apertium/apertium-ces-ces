@@ -11,7 +11,7 @@
 /apertium-ces-ces.ces_han-ces.t2x -text
 /apertium-ces-ces.ces_han-ces.t3x -text
 /apertium-ces-ces.ces_han.acx -text
-/apertium-ces-ces.ces_han.dix -text
+/apertium-ces-ces.ces_han.dix -text svneol=unset#unset
 /apertium-ces-ces.ces_han.tsx -text
 /apertium-ces-ces.post-ces.dix -text
 /apertium-ces-ces.post-ces_han.dix -text
