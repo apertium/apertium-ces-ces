@@ -1237,6 +1237,107 @@
     </pardef>
 
 
+    <pardef n="hřich__n">
+    <e>
+      <p>
+        <l></l>
+        <r><s n="n"/><s n="mi"/><s n="sg"/><s n="nom"/></r>
+      </p>
+    </e>
+
+    <e>
+      <p>
+        <l>ê</l>
+        <r><s n="n"/><s n="mi"/><s n="pl"/><s n="nom"/></r>
+      </p>
+    </e>
+
+    <e>
+      <p>
+        <l>ô</l>
+        <r><s n="n"/><s n="mi"/><s n="sg"/><s n="gen"/></r>
+      </p>
+    </e>
+
+    <e>
+      <p>
+        <l>u</l>
+        <r><s n="n"/><s n="mi"/><s n="pl"/><s n="gen"/></r>
+      </p>
+    </e>
+
+    <e>
+      <p>
+        <l>ô</l>
+        <r><s n="n"/><s n="mi"/><s n="sg"/><s n="dat"/></r>
+      </p>
+    </e>
+
+    <e>
+      <p>
+        <l>um</l>
+        <r><s n="n"/><s n="mi"/><s n="pl"/><s n="dat"/></r>
+      </p>
+    </e>
+
+    <e>
+      <p>
+        <l></l>
+        <r><s n="n"/><s n="mi"/><s n="sg"/><s n="acc"/></r>
+      </p>
+    </e>
+
+    <e>
+      <p>
+        <l>ê</l>
+        <r><s n="n"/><s n="mi"/><s n="pl"/><s n="acc"/></r>
+      </p>
+    </e>
+
+    <e>
+      <p>
+        <l>ô</l>
+        <r><s n="n"/><s n="mi"/><s n="sg"/><s n="voc"/></r>
+      </p>
+    </e>
+
+    <e>
+      <p>
+        <l>ê</l>
+        <r><s n="n"/><s n="mi"/><s n="pl"/><s n="voc"/></r>
+      </p>
+    </e>
+
+    <e>
+      <p>
+        <l>ô</l>
+        <r><s n="n"/><s n="mi"/><s n="sg"/><s n="loc"/></r>
+      </p>
+    </e>
+
+    <e>
+      <p>
+        <l>ách</l>
+        <r><s n="n"/><s n="mi"/><s n="pl"/><s n="loc"/></r>
+      </p>
+    </e>
+
+    <e>
+      <p>
+        <l>em</l>
+        <r><s n="n"/><s n="mi"/><s n="sg"/><s n="ins"/></r>
+      </p>
+    </e>
+
+    <e>
+      <p>
+        <l>ama</l>
+        <r><s n="n"/><s n="mi"/><s n="pl"/><s n="ins"/></r>
+      </p>
+    </e>
+    </pardef>
+
+
     <pardef n="ok/no__n">
     <e>
       <p>
@@ -2474,13 +2575,6 @@
 
     <e>
       <p>
-        <l>kê</l>
-        <r><s n="f"/><s n="sg"/><s n="loc"/></r>
-      </p>
-    </e>
-
-    <e>
-      <p>
         <l>kách</l>
         <r><s n="f"/><s n="pl"/><s n="loc"/></r>
       </p>
@@ -2509,6 +2603,132 @@
         <r>ka<s n="n"/></r>
       </p>
         <par n="BASE__polivka"/> 
+    </e>
+
+    <e>
+      <p>
+        <l>kê</l>
+        <r>ka<s n="n"/><s n="f"/><s n="sg"/><s n="loc"/></r>
+      </p>
+    </e>
+    </pardef>
+
+
+    <pardef n="vidlêč/ka__n">
+    <e>
+      <p>
+        <l></l>
+        <r>ka<s n="n"/></r>
+      </p>
+        <par n="BASE__polivka"/> 
+    </e>
+
+    <e>
+      <p>
+        <l>ce</l>
+        <r>ka<s n="n"/><s n="f"/><s n="sg"/><s n="loc"/></r>
+      </p>
+    </e>
+    </pardef>
+
+
+    <pardef n="bečêc/a__n">
+    <e>
+      <p>
+        <l>a</l>
+        <r>a<s n="f"/><s n="sg"/><s n="nom"/></r>
+      </p>
+    </e>
+
+    <e>
+      <p>
+        <l>e</l>
+        <r>a<s n="f"/><s n="pl"/><s n="nom"/></r>
+      </p>
+    </e>
+
+    <e>
+      <p>
+        <l>e</l>
+        <r>a<s n="f"/><s n="sg"/><s n="gen"/></r>
+      </p>
+    </e>
+
+    <e>
+      <p>
+        <l></l>
+        <r>a<s n="f"/><s n="pl"/><s n="gen"/></r>
+      </p>
+    </e>
+
+    <e>
+      <p>
+        <l>e</l>
+        <r>a<s n="f"/><s n="sg"/><s n="dat"/></r>
+      </p>
+    </e>
+
+    <e>
+      <p>
+        <l>ám</l>
+        <r>a<s n="f"/><s n="pl"/><s n="dat"/></r>
+      </p>
+    </e>
+
+    <e>
+      <p>
+        <l>ô</l>
+        <r>a<s n="f"/><s n="sg"/><s n="acc"/></r>
+      </p>
+    </e>
+
+    <e>
+      <p>
+        <l>e</l>
+        <r>a<s n="f"/><s n="pl"/><s n="acc"/></r>
+      </p>
+    </e>
+
+    <e>
+      <p>
+        <l>o</l>
+        <r>a<s n="f"/><s n="sg"/><s n="voc"/></r>
+      </p>
+    </e>
+
+    <e>
+      <p>
+        <l>e</l>
+        <r>a<s n="f"/><s n="pl"/><s n="voc"/></r>
+      </p>
+    </e>
+
+    <e>
+      <p>
+        <l>ê</l>
+        <r>a<s n="f"/><s n="sg"/><s n="loc"/></r>
+      </p>
+    </e>
+
+    <e>
+      <p>
+        <l>ách</l>
+        <r>a<s n="f"/><s n="pl"/><s n="loc"/></r>
+      </p>
+    </e>
+
+    <e>
+      <p>
+        <l>ó</l>
+        <r>a<s n="f"/><s n="sg"/><s n="ins"/></r>
+      </p>
+    </e>
+
+    <e>
+      <p>
+        <l>ama</l>
+        <r>a<s n="f"/><s n="pl"/><s n="ins"/></r>
+      </p>
     </e>
     </pardef>
 
@@ -9969,97 +10189,97 @@
 
 
 
-    <pardef n="/bet__vbser">
+    <pardef n="/bêt__vbser">
     <e>
       <p>
-        <l>bet</l>
-        <r>bet<s n="vbser"/><s n="inf"/></r>
+        <l>bêt</l>
+        <r>bêt<s n="vbser"/><s n="inf"/></r>
       </p>
     </e>
 
     <e>
       <p>
-        <l>so</l>
-        <r>bet<s n="vbser"/><s n="pres"/><s n="p1"/><s n="sg"/></r>
+        <l>sô</l>
+        <r>bêt<s n="vbser"/><s n="pres"/><s n="p1"/><s n="sg"/></r>
       </p>
     </e>
 
     <e>
       <p>
         <l>seš</l>
-        <r>bet<s n="vbser"/><s n="pres"/><s n="p2"/><s n="sg"/></r>
+        <r>bêt<s n="vbser"/><s n="pres"/><s n="p2"/><s n="sg"/></r>
       </p>
     </e>
 
     <e>
       <p>
-        <l>sme</l>
-        <r>bet<s n="vbser"/><s n="pres"/><s n="p1"/><s n="pl"/></r>
+        <l>zmê</l>
+        <r>bêt<s n="vbser"/><s n="pres"/><s n="p1"/><s n="pl"/></r>
       </p>
     </e>
 
     <e>
       <p>
         <l>ste</l>
-        <r>bet<s n="vbser"/><s n="pres"/><s n="p2"/><s n="pl"/></r>
+        <r>bêt<s n="vbser"/><s n="pres"/><s n="p2"/><s n="pl"/></r>
       </p>
     </e>
 
     <e>
       <p>
         <l>só</l>
-        <r>bet<s n="vbser"/><s n="pres"/><s n="p3"/><s n="pl"/></r>
+        <r>bêt<s n="vbser"/><s n="pres"/><s n="p3"/><s n="pl"/></r>
       </p>
     </e>
 
 
     <e>
       <p>
-        <l>bodo</l>
-        <r>bet<s n="vbser"/><s n="fut"/><s n="p1"/><s n="sg"/></r>
+        <l>bôdô</l>
+        <r>bêt<s n="vbser"/><s n="fut"/><s n="p1"/><s n="sg"/></r>
       </p>
     </e>
 
     <e>
       <p>
-        <l>bodeš</l>
-        <r>bet<s n="vbser"/><s n="fut"/><s n="p2"/><s n="sg"/></r>
+        <l>bôdeš</l>
+        <r>bêt<s n="vbser"/><s n="fut"/><s n="p2"/><s n="sg"/></r>
       </p>
     </e>
 
     <e>
       <p>
-        <l>bode</l>
-        <r>bet<s n="vbser"/><s n="fut"/><s n="p3"/><s n="sg"/></r>
+        <l>bôde</l>
+        <r>bêt<s n="vbser"/><s n="fut"/><s n="p3"/><s n="sg"/></r>
       </p>
     </e>
 
     <e>
       <p>
-        <l>bodeme</l>
-        <r>bet<s n="vbser"/><s n="fut"/><s n="p1"/><s n="pl"/></r>
+        <l>bôdeme</l>
+        <r>bêt<s n="vbser"/><s n="fut"/><s n="p1"/><s n="pl"/></r>
       </p>
     </e>
 
     <e>
       <p>
-        <l>bodete</l>
-        <r>bet<s n="vbser"/><s n="fut"/><s n="p2"/><s n="pl"/></r>
+        <l>bôdete</l>
+        <r>bêt<s n="vbser"/><s n="fut"/><s n="p2"/><s n="pl"/></r>
       </p>
     </e>
 
     <e>
       <p>
-        <l>bodó</l>
-        <r>bet<s n="vbser"/><s n="fut"/><s n="p3"/><s n="pl"/></r>
+        <l>bôdó</l>
+        <r>bêt<s n="vbser"/><s n="fut"/><s n="p3"/><s n="pl"/></r>
       </p>
     </e>
 
 
     <e>
       <p>
-        <l>bel</l>
-        <r>bet<s n="vbser"/><s n="past"/></r>
+        <l>bêl</l>
+        <r>bêt<s n="vbser"/><s n="past"/></r>
       </p>
         <par n="BASE__četl"/> 
     </e>
@@ -10067,15 +10287,15 @@
     <e>
       <p>
         <l>sóc</l>
-        <r>bet<s n="vbser"/><s n="pprs"/><s n="adj"/></r>
+        <r>bêt<s n="vbser"/><s n="pprs"/><s n="adj"/></r>
       </p>
         <par n="BASE__dalši"/>
     </e>
 
     <e>
       <p>
-        <l>boď</l>
-        <r>bet<s n="vbser"/></r>
+        <l>bôď</l>
+        <r>bêt<s n="vbser"/></r>
       </p>
         <par n="BASE__održ"/>
     </e>
@@ -10083,7 +10303,7 @@
     <e>
       <p>
         <l>js</l>
-        <r>bet<s n="vbser"/></r>
+        <r>bêt<s n="vbser"/></r>
       </p>
         <par n="BASE__sa"/>
     </e>
@@ -61845,6 +62065,7 @@
     <e lm="pád"><i>pád</i><par n="byt__n"/></e>
     <e lm="pán"><i>pán</i><par n="man__n"/></e>
     <e lm="pánev"><i>pán</i><par n="kr/ev__n"/></e>
+    <e lm="pentlička"><i>pentlič</i><par n="dív/ka__n"/></e>
     <e lm="pár"><i>pár</i><par n="arak__n"/></e>
     <e lm="párek"><i>pár</i><par n="rên/ek__n"/></e>
     <e lm="páska"><i>pás</i><par n="dív/ka__n"/></e>
@@ -67409,9 +67630,9 @@
     <e lm="příliš"><i>příliš</i><par n="příliš__preadv"/></e>
 
     <!-- Verbs -->
-    <e lm="bet"><par n="v_neg"/><i></i><par n="/bet__vbser"/></e>
-    <e><p><l>je</l><r>bet<s n="vbser"/><s n="pres"/><s n="p3"/><s n="sg"/></r></p></e>
-    <e><p><l>neni</l><r>ne<s n="adv"/><j/>bet<s n="vbser"/><s n="pres"/><s n="p3"/><s n="sg"/></r></p></e>
+    <e lm="bêt"><par n="v_neg"/><i></i><par n="/bêt__vbser"/></e>
+    <e><p><l>je</l><r>bêt<s n="vbser"/><s n="pres"/><s n="p3"/><s n="sg"/></r></p></e>
+    <e><p><l>neni</l><r>ne<s n="adv"/><j/>bêt<s n="vbser"/><s n="pres"/><s n="p3"/><s n="sg"/></r></p></e>
     <e lm="mět"><par n="v_neg"/><i>m</i><par n="m/ět__vbhaver"/></e>
     <e lm="přijít"><par n="v_neg"/><i>při</i><par n="do/jít__vblex"/></e>
     <e lm="počkat"><par n="v_neg"/><i>počk</i><par n="uvít/at__vblex"/></e>
