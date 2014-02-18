@@ -2377,6 +2377,9 @@
 		<e><p><l>sluchátko<s n="n"/><s n="f"/></l><r>sluchátko<s n="n"/><s n="f"/></r></p></e>
 		<e><p><l>slovičko<s n="n"/><s n="nt"/></l><r>slovičko<s n="n"/><s n="nt"/></r></p></e>
 		<e><p><l>spodek<s n="n"/><s n="nt"/></l><r>spodek<s n="n"/><s n="mi"/></r></p></e>
+		<e><p><l>spodnice<s n="n"/><s n="f"/></l><r>spodnice<s n="n"/><s n="f"/></r></p></e>
+		<e><p><l>světice<s n="n"/><s n="f"/></l><r>světice<s n="n"/><s n="f"/></r></p></e>
+		<e><p><l>špice<s n="n"/><s n="f"/></l><r>špice<s n="n"/><s n="f"/></r></p></e>
 		<!-- @LF	<e><p><l>tableta<s n="n"/><s n="f"/></l><r>tableta<s n="n"/><s n="f"/></r></p></e> -->
 		<e><p><l>tango<s n="n"/><s n="nt"/></l><r>tango<s n="n"/><s n="nt"/></r></p></e>
 		<e><p><l>tření<s n="n"/><s n="f"/></l><r>tření<s n="n"/><s n="f"/></r></p></e>
@@ -2414,8 +2417,8 @@
 		<!-- @LF	<e><p><l>verbena<s n="n"/><s n="f"/></l><r>verbena<s n="n"/><s n="f"/></r></p></e> -->
 		<e><p><l>ověření<s n="n"/><s n="f"/></l><r>ověření<s n="n"/><s n="f"/></r></p></e>
 		<e><p><l>veto<s n="n"/><s n="nt"/></l><r>veto<s n="n"/><s n="nt"/></r></p></e>
-		<e><p><l>vinice<s n="n"/><s n="f"/></l><r>vinica		<e><p><l>víno<s n="n"/><s n="nt"/></l><r>víno<s n="n"/><s n="nt"/></r></p></e>
-<s n="n"/><s n="f"/></r></p></e>
+		<e><p><l>vinice<s n="n"/><s n="f"/></l><r>vinica<s n="n"/><s n="f"/></r></p></e>
+		<e><p><l>víno<s n="n"/><s n="nt"/></l><r>víno<s n="n"/><s n="nt"/></r></p></e>
 		<e><p><l>víno<s n="n"/><s n="nt"/></l><r>víno<s n="n"/><s n="nt"/></r></p></e>
 		<e><p><l>předvolání<s n="n"/><s n="nt"/></l><r>předvolání<s n="n"/><s n="nt"/></r></p></e>
 		<e><p><l>věnec<s n="n"/><s n="mi"/></l><r>věnec<s n="n"/><s n="mi"/></r></p></e>
@@ -7934,6 +7937,7 @@
 		<e><p><l>plíseň<s n="n"/><s n="f"/></l><r>plíseň<s n="n"/><s n="f"/></r></p></e>
 		<e><p><l>poručík<s n="n"/><s n="ma"/></l><r>poručík<s n="n"/><s n="ma"/></r></p></e>
 		<e><p><l>polonium<s n="n"/><s n="mi"/></l><r>polonium<s n="n"/><s n="mi"/></r></p></e>
+		<e><p><l>pranice<s n="n"/><s n="f"/></l><r>pranice<s n="n"/><s n="f"/></r></p></e>
 		<e><p><l>praseodym<s n="n"/><s n="mi"/></l><r>praseodym<s n="n"/><s n="mi"/></r></p></e>
 		<e><p><l>prekognice<s n="n"/><s n="f"/></l><r>prekognice<s n="n"/><s n="f"/></r></p></e>
 		<e><p><l>humus<s n="n"/><s n="f"/></l><r>humus<s n="n"/><s n="f"/></r></p></e>
