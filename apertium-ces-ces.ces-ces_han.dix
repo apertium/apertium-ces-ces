@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!--
 	Dictionary:
 	Sections: 4
@@ -421,10 +421,10 @@
 		<e r="LR"><p><l>váš<s n="det"/><s n="pos"/><s n="ma"/></l><r>vaš<s n="det"/><s n="pos"/><s n="ma"/></r></p></e>
 		<e><p><l>oba<s n="det"/><s n="ind"/></l><r>oba<s n="det"/><s n="ind"/></r></p></e>
 		<e r="LR"><p><l>oba<s n="det"/><s n="ind"/><s n="ma"/></l><r>oba<s n="det"/><s n="ind"/><s n="ma"/></r></p></e>
-		<e><p><l>kolik<s n="det"/><s n="qnt"/><s n="ma"/></l><r>kolek<s n="det"/><s n="qnt"/><s n="ma"/></r></p></e>
+		<e><p><l>kolik<s n="det"/><s n="qnt"/><s n="ma"/></l><r>kolêk<s n="det"/><s n="qnt"/><s n="ma"/></r></p></e>
 		<e><p><l>mnoho<s n="det"/><s n="qnt"/></l><r>mnoho<s n="det"/><s n="qnt"/></r></p></e>
 		<e><p><l>tolik<s n="det"/><s n="qnt"/></l><r>toli<s n="det"/><s n="qnt"/></r></p></e>
-		<e><p><l>několik<s n="det"/><s n="qnt"/><s n="nm"/></l><r>nekolek<s n="det"/><s n="qnt"/><s n="nm"/></r></p></e>
+		<e><p><l>několik<s n="det"/><s n="qnt"/><s n="nm"/></l><r>nekolêk<s n="det"/><s n="qnt"/><s n="nm"/></r></p></e>
 		<e><p><l>mnoho<s n="det"/><s n="qnt"/><s n="nm"/></l><r>mnoho<s n="det"/><s n="qnt"/><s n="nm"/></r></p></e>
 
 		<e><p><l>to<s n="det"/><s n="dem"/></l><r>to<s n="det"/><s n="dem"/></r></p></e>
@@ -1094,7 +1094,7 @@
 		<e><p><l>etanol<s n="n"/><s n="mi"/></l><r>etanol<s n="n"/><s n="mi"/></r></p></e>
 		<e><p><l>ethanol<s n="n"/><s n="mi"/></l><r>ethanol<s n="n"/><s n="mi"/></r></p></e>
 		<e><p><l>úvazek<s n="n"/><s n="mi"/></l><r>óvazek<s n="n"/><s n="mi"/></r></p></e>
-		<e><p><l>blahovičník<s n="n"/><s n="mi"/></l><r>blahovičník<s n="n"/><s n="mi"/></r></p></e>-->
+		<e><p><l>blahovičník<s n="n"/><s n="mi"/></l><r>blahovičník<s n="n"/><s n="mi"/></r></p></e>
 		<e><p><l>eukalypt<s n="n"/><s n="mi"/></l><r>eukalypt<s n="n"/><s n="mi"/></r></p></e>
 		<e c="mp-mi!wtf!"><p><l>eunuch<s n="n"/><s n="mi"/></l><r>eunuch<s n="n"/><s n="mi"/></r></p></e>
 		<e><p><l>falanga<s n="n"/><s n="f"/></l><r>falanga<s n="n"/><s n="f"/></r></p></e>
@@ -3280,7 +3280,7 @@
 		<e r="LR"><p><l>bekhend<s n="n"/><s n="mi"/></l><r>bekhend<s n="n"/><s n="mi"/></r></p></e>
 		<e><p><l>bandáž<s n="n"/><s n="mi"/></l><r>bandáž<s n="n"/><s n="mi"/></r></p></e>
 		<e><p><l>obvaz<s n="n"/><s n="mi"/></l><r>óvazek<s n="n"/><s n="mi"/></r></p></e>
-		<e><p><l>baculka<s n="n"/><s n="t"/></l><r>bacôlka<s n="n"/><s n="f"/></r></p></e>
+		<e><p><l>baculka<s n="n"/><s n="f"/></l><r>bacôlka<s n="n"/><s n="f"/></r></p></e>
 		<e><p><l>bandita<s n="n"/><s n="ma"/></l><r>bandita<s n="n"/><s n="ma"/></r></p></e>
 		<e><p><l>baráž<s n="n"/><s n="mi"/></l><r>baráž<s n="n"/><s n="mi"/></r></p></e>
 		<e><p><l>baron<s n="n"/><s n="ma"/></l><r>barón<s n="n"/><s n="ma"/></r></p></e>
@@ -5272,7 +5272,6 @@
 		<e><p><l>slovník<s n="n"/><s n="mi"/></l><r>slovník<s n="n"/><s n="mi"/></r></p></e>
 		<e><p><l>koncil<s n="n"/><s n="mi"/></l><r>koncil<s n="n"/><s n="mi"/></r></p></e>
 		<e><p><l>čočka<s n="n"/><s n="f"/></l><r>čečuvka<s n="n"/><s n="f"/></r></p></e>
-		<e r="LF"><p><l>čočka<s n="n"/><s n="f"/></l><r>čočka<s n="n"/><s n="f"/></r></p></e>
 		<e><p><l>solidarita<s n="n"/><s n="f"/></l><r>solidarita<s n="n"/><s n="f"/></r></p></e>
 		<e><p><l>dědictví<s n="n"/><s n="mi"/></l><r>dědictvi<s n="n"/><s n="mi"/></r></p></e>
 		<e><p><l>pád<s n="n"/><s n="mi"/></l><r>pád<s n="n"/><s n="mi"/></r></p></e>
@@ -12042,7 +12041,7 @@
 		<e r="LR"><p><l>odkud<s n="adv"/><s n="itg"/></l><r>odkáď<s n="adv"/><s n="itg"/></r></p></e>
 		<e><p><l>kdy<s n="adv"/><s n="itg"/></l><r>kdy<s n="adv"/><s n="itg"/></r></p></e>
 		<e><p><l>kudy<s n="adv"/><s n="itg"/></l><r>kadêma<s n="adv"/><s n="itg"/></r></p></e>
-		<e><p><l>kolikrát<s n="adv"/><s n="itg"/></l><r>kolekráť<s n="adv"/><s n="itg"/></r></p></e>
+		<e><p><l>kolikrát<s n="adv"/><s n="itg"/></l><r>kolêkráť<s n="adv"/><s n="itg"/></r></p></e>
 
   
  		<e><p><l>chladně<s n="adv"/><s n="sint"/></l><r>chlaďně<s n="adv"/><s n="sint"/></r></p></e>

@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!--
 	Dictionary:
 	Sections: 4
@@ -5673,7 +5673,7 @@
 
     <e>
       <p>
-        <l>te</l>
+        <l>tê</l>
         <r>prpers<s n="prn"/><s n="p2"/><s n="mf"/><s n="sg"/><s n="nom"/></r>
       </p>
     </e>
@@ -5701,14 +5701,14 @@
 
     <e>
       <p>
-        <l>me</l>
+        <l>mê</l>
         <r>prpers<s n="prn"/><s n="p1"/><s n="mf"/><s n="pl"/><s n="nom"/></r>
       </p>
     </e>
 
     <e>
       <p>
-        <l>ve</l>
+        <l>vê</l>
         <r>prpers<s n="prn"/><s n="p2"/><s n="mf"/><s n="pl"/><s n="nom"/></r>
       </p>
     </e>
@@ -57641,7 +57641,7 @@
     <e lm="kdykolê"><i>kdykolê</i><par n="nekde__prn"/></e>
     <e lm="kdykolêv"><i>kdykolêv</i><par n="nekde__prn"/></e>
     <e lm="kolêk"><i>kolêk</i><par n="kolek__prn"/></e>
-    <e lm="kolêkkolêv"><i>kolêk</i><par n="kolêk/koliv__prn"/></e>
+    <e lm="kolêkkolêv"><i>kolêk</i><par n="kolik/koliv__prn"/></e>
     <e lm="keré"><i>ke</i><par n="ke/ré__prn"/></e>
     <e lm="kerékolêv"><i>ke</i><par n="kte/rékolev__prn"/></e>
     <e lm="kerékolê"><i>ke</i><par n="kte/rékole__prn"/></e>
