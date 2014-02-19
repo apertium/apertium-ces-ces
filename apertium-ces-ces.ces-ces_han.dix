@@ -9,7 +9,7 @@
 
 -->
 <dictionary>	
-  <alphabet>AÁBCČDĎEÉĚFGHIÍJKLMNŇOÓPQRŘSŠTŤUÚŮVWXYÝZŽaábcčdďeéěêfghiíjklmnňoóôpqrřsštťuúůvwxyýzžĄĆĘŃŚŻŹŁąćęńśżźł</alphabet>
+  <alphabet>AÁBCČDĎEÉĚÊFGHIÍJKLMNŇOÓÔPQRŘSŠTŤUÚŮVWXYÝZŽaábcčdďeéěêfghiíjklmnňoóôpqrřsštťuúůvwxyýzžĄĆĘŃŚŻŹŁąćęńśżźł</alphabet>
   <sdefs>
     <sdef n="n" /> 
     <sdef n="np" />
@@ -115,7 +115,7 @@
 		<e><p><l>a<s n="cnjcoo"/></l><r>a<s n="cnjcoo"/></r></p></e>
 		<e><p><l>a<b/>také<s n="cnjcoo"/></l><r>a<b/>takê<s n="cnjcoo"/></r></p></e>
 		<e r="LR"><p><l>a<s n="cnjcoo"/></l><r>a<s n="cnjcoo"/></r></p></e>
-		<e r="RL"><p><l>i<s n="cnjcoo"/></l><r>ê<s n="cnjcoo"/></r></p></e>
+		<e><p><l>i<s n="cnjcoo"/></l><r>ê<s n="cnjcoo"/></r></p></e>
 		<e><p><l>než<s n="cnjcoo"/></l><r>než<s n="cnjcoo"/></r></p></e>
 		<e><p><l>nebo<s n="cnjcoo"/></l><r>nebo<s n="cnjcoo"/></r></p></e>
 		<e r="RL"><p><l>anebo<s n="cnjcoo"/></l><r>alebo<s n="cnjcoo"/></r></p></e>
@@ -12063,7 +12063,7 @@
 		<e r="LR"><p><l>vpravo<s n="adv"/></l><r>vpravo<s n="adv"/></r></p></e>
 		<e><p><l>vpravo<s n="adv"/></l><r>vpravo<s n="adv"/></r></p></e>
 		<e><p><l>přibližně<s n="adv"/></l><r>přibližně<s n="adv"/></r></p></e>
-		<e><p><l>tak<b/>i<b/>onak<s n="adv"/></l><r>tak<b/>i<b/>onak<s n="adv"/></r></p></e>
+		<e><p><l>tak<b/>i<b/>onak<s n="adv"/></l><r>tak<b/>ê<b/>onak<s n="adv"/></r></p></e>
 		<e r="LR"><p><l>tak<b/>či<b/>onak<s n="adv"/></l><r>tak<b/>či<b/>onak<s n="adv"/></r></p></e>
 		<e><p><l>tak<b/>či<b/>onak<s n="adv"/></l><r>tak<b/>či<b/>onak<s n="adv"/></r></p></e>
 		<e r="RL"><p><l>tak<b/>nebo<b/>tak<s n="adv"/></l><r>tak<b/>nebo<b/>tak<s n="adv"/></r></p></e>
