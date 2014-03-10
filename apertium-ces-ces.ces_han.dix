@@ -68876,7 +68876,7 @@
     <e lm="vêčerpané"><par n="né__adv"/><i>vêčerpan</i><par n="nov/é__adj"/></e>
     <e lm="vêčerpatelné"><par n="né__adv"/><i>vêčerpateln</i><par n="nov/é__adj"/></e>
     <e lm="vêchlazené"><par n="né__adv"/><i>vêchlazen</i><par n="nov/é__adj"/></e>
-    <e lm="vêčeščené"><par n="né__adv"/><i>vêčeščen</i><par n="nov/é__adj"/></e>
+    <e lm="vêčêščené"><par n="né__adv"/><i>vêčêščen</i><par n="nov/é__adj"/></e>
     <e lm="vêcvičené"><par n="né__adv"/><i>vêcvičen</i><par n="nov/é__adj"/></e>
     <e lm="vydražený"><par n="né__adv"/><i>vydražen</i><par n="nov/ý__adj"/></e>
     <e lm="vyhlášený"><par n="né__adv"/><i>vyhlášen</i><par n="nov/ý__adj"/></e>
@@ -69047,5 +69047,8 @@
     <e lm="dík"><i>dík</i><par n="ahoj__ij"/></e>
 
   </section>
+  -->
+
+  <!-- additional words
   -->
 </dictionary>
