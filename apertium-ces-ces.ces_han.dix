@@ -3067,6 +3067,13 @@
     <pardef n="BASE__dalši">
     <e>
       <p>
+        <l>i</l>
+        <r><s n="ma"/><s n="sg"/><s n="nom"/></r>
+      </p>
+    </e>
+
+    <e>
+      <p>
         <l>iho</l>
         <r><s n="ma"/><s n="sg"/><s n="gen"/></r>
       </p>
@@ -3088,15 +3095,15 @@
 
     <e>
       <p>
-        <l>im</l>
-        <r><s n="ma"/><s n="sg"/><s n="loc"/></r>
+        <l>i</l>
+        <r><s n="ma"/><s n="sg"/><s n="voc"/></r>
       </p>
     </e>
 
     <e>
       <p>
-        <l>i</l>
-        <r><s n="ma"/><s n="sg"/><s n="voc"/></r>
+        <l>im</l>
+        <r><s n="ma"/><s n="sg"/><s n="loc"/></r>
       </p>
     </e>
 
@@ -3110,7 +3117,7 @@
     <e>
       <p>
         <l>i</l>
-        <r><s n="ma"/><s n="sg"/><s n="nom"/></r>
+        <r><s n="ma"/><s n="pl"/><s n="nom"/></r>
       </p>
     </e>
 
@@ -3137,13 +3144,6 @@
 
     <e>
       <p>
-        <l>ich</l>
-        <r><s n="ma"/><s n="pl"/><s n="loc"/></r>
-      </p>
-    </e>
-
-    <e>
-      <p>
         <l>i</l>
         <r><s n="ma"/><s n="pl"/><s n="voc"/></r>
       </p>
@@ -3151,7 +3151,14 @@
 
     <e>
       <p>
-        <l>imi</l>
+        <l>ich</l>
+        <r><s n="ma"/><s n="pl"/><s n="loc"/></r>
+      </p>
+    </e>
+
+    <e>
+      <p>
+        <l>ima</l>
         <r><s n="ma"/><s n="pl"/><s n="ins"/></r>
       </p>
     </e>
@@ -3159,7 +3166,7 @@
     <e>
       <p>
         <l>i</l>
-        <r><s n="ma"/><s n="pl"/><s n="nom"/></r>
+        <r><s n="mi"/><s n="sg"/><s n="nom"/></r>
       </p>
     </e>
 
@@ -3179,15 +3186,8 @@
 
     <e>
       <p>
-        <l>i</l>
+        <l>iho</l>
         <r><s n="mi"/><s n="sg"/><s n="acc"/></r>
-      </p>
-    </e>
-
-    <e>
-      <p>
-        <l>im</l>
-        <r><s n="mi"/><s n="sg"/><s n="loc"/></r>
       </p>
     </e>
 
@@ -3201,6 +3201,13 @@
     <e>
       <p>
         <l>im</l>
+        <r><s n="mi"/><s n="sg"/><s n="loc"/></r>
+      </p>
+    </e>
+
+    <e>
+      <p>
+        <l>im</l>
         <r><s n="mi"/><s n="sg"/><s n="ins"/></r>
       </p>
     </e>
@@ -3208,7 +3215,7 @@
     <e>
       <p>
         <l>i</l>
-        <r><s n="mi"/><s n="sg"/><s n="nom"/></r>
+        <r><s n="mi"/><s n="pl"/><s n="nom"/></r>
       </p>
     </e>
 
@@ -3235,13 +3242,6 @@
 
     <e>
       <p>
-        <l>ich</l>
-        <r><s n="mi"/><s n="pl"/><s n="loc"/></r>
-      </p>
-    </e>
-
-    <e>
-      <p>
         <l>i</l>
         <r><s n="mi"/><s n="pl"/><s n="voc"/></r>
       </p>
@@ -3249,7 +3249,14 @@
 
     <e>
       <p>
-        <l>imi</l>
+        <l>ich</l>
+        <r><s n="mi"/><s n="pl"/><s n="loc"/></r>
+      </p>
+    </e>
+
+    <e>
+      <p>
+        <l>ima</l>
         <r><s n="mi"/><s n="pl"/><s n="ins"/></r>
       </p>
     </e>
@@ -3257,7 +3264,7 @@
     <e>
       <p>
         <l>i</l>
-        <r><s n="mi"/><s n="pl"/><s n="nom"/></r>
+        <r><s n="f"/><s n="sg"/><s n="nom"/></r>
       </p>
     </e>
 
@@ -3285,14 +3292,14 @@
     <e>
       <p>
         <l>i</l>
-        <r><s n="f"/><s n="sg"/><s n="loc"/></r>
+        <r><s n="f"/><s n="sg"/><s n="voc"/></r>
       </p>
     </e>
 
     <e>
       <p>
         <l>i</l>
-        <r><s n="f"/><s n="sg"/><s n="voc"/></r>
+        <r><s n="f"/><s n="sg"/><s n="loc"/></r>
       </p>
     </e>
 
@@ -3306,7 +3313,7 @@
     <e>
       <p>
         <l>i</l>
-        <r><s n="f"/><s n="sg"/><s n="nom"/></r>
+        <r><s n="f"/><s n="pl"/><s n="nom"/></r>
       </p>
     </e>
 
@@ -3333,13 +3340,6 @@
 
     <e>
       <p>
-        <l>ich</l>
-        <r><s n="f"/><s n="pl"/><s n="loc"/></r>
-      </p>
-    </e>
-
-    <e>
-      <p>
         <l>i</l>
         <r><s n="f"/><s n="pl"/><s n="voc"/></r>
       </p>
@@ -3347,7 +3347,14 @@
 
     <e>
       <p>
-        <l>imi</l>
+        <l>ich</l>
+        <r><s n="f"/><s n="pl"/><s n="loc"/></r>
+      </p>
+    </e>
+
+    <e>
+      <p>
+        <l>ima</l>
         <r><s n="f"/><s n="pl"/><s n="ins"/></r>
       </p>
     </e>
@@ -3355,7 +3362,7 @@
     <e>
       <p>
         <l>i</l>
-        <r><s n="f"/><s n="pl"/><s n="nom"/></r>
+        <r><s n="nt"/><s n="sg"/><s n="nom"/></r>
       </p>
     </e>
 
@@ -3382,15 +3389,15 @@
 
     <e>
       <p>
-        <l>im</l>
-        <r><s n="nt"/><s n="sg"/><s n="loc"/></r>
+        <l>i</l>
+        <r><s n="nt"/><s n="sg"/><s n="voc"/></r>
       </p>
     </e>
 
     <e>
       <p>
-        <l>i</l>
-        <r><s n="nt"/><s n="sg"/><s n="voc"/></r>
+        <l>im</l>
+        <r><s n="nt"/><s n="sg"/><s n="loc"/></r>
       </p>
     </e>
 
@@ -3404,7 +3411,7 @@
     <e>
       <p>
         <l>i</l>
-        <r><s n="nt"/><s n="sg"/><s n="nom"/></r>
+        <r><s n="nt"/><s n="pl"/><s n="nom"/></r>
       </p>
     </e>
 
@@ -3431,13 +3438,6 @@
 
     <e>
       <p>
-        <l>ich</l>
-        <r><s n="nt"/><s n="pl"/><s n="loc"/></r>
-      </p>
-    </e>
-
-    <e>
-      <p>
         <l>i</l>
         <r><s n="nt"/><s n="pl"/><s n="voc"/></r>
       </p>
@@ -3445,15 +3445,15 @@
 
     <e>
       <p>
-        <l>imi</l>
-        <r><s n="nt"/><s n="pl"/><s n="ins"/></r>
+        <l>ich</l>
+        <r><s n="nt"/><s n="pl"/><s n="loc"/></r>
       </p>
     </e>
 
     <e>
       <p>
-        <l>i</l>
-        <r><s n="nt"/><s n="pl"/><s n="nom"/></r>
+        <l>ima</l>
+        <r><s n="nt"/><s n="pl"/><s n="ins"/></r>
       </p>
     </e>
     </pardef>
@@ -3490,22 +3490,22 @@
 
     <e>
       <p>
-        <l>rym</l>
-        <r><s n="ma"/><s n="sg"/><s n="ins"/></r>
+        <l>ré</l>
+        <r><s n="ma"/><s n="sg"/><s n="voc"/></r>
       </p>
     </e>
 
     <e>
       <p>
-        <l>rém</l>
+        <l>rym</l>
         <r><s n="ma"/><s n="sg"/><s n="loc"/></r>
       </p>
     </e>
 
     <e>
       <p>
-        <l>ré</l>
-        <r><s n="ma"/><s n="sg"/><s n="voc"/></r>
+        <l>rym</l>
+        <r><s n="ma"/><s n="sg"/><s n="ins"/></r>
       </p>
     </e>
 
@@ -3525,7 +3525,7 @@
 
     <e>
       <p>
-        <l>réch</l>
+        <l>rém</l>
         <r><s n="ma"/><s n="pl"/><s n="dat"/></r>
       </p>
     </e>
@@ -3534,6 +3534,13 @@
       <p>
         <l>ry</l>
         <r><s n="ma"/><s n="pl"/><s n="acc"/></r>
+      </p>
+    </e>
+
+    <e>
+      <p>
+        <l>ři</l>
+        <r><s n="ma"/><s n="pl"/><s n="voc"/></r>
       </p>
     </e>
 
@@ -3548,13 +3555,6 @@
       <p>
         <l>réch</l>
         <r><s n="ma"/><s n="pl"/><s n="loc"/></r>
-      </p>
-    </e>
-
-    <e>
-      <p>
-        <l>ři</l>
-        <r><s n="ma"/><s n="pl"/><s n="voc"/></r>
       </p>
     </e>
 
@@ -3581,22 +3581,8 @@
 
     <e>
       <p>
-        <l>ryho</l>
+        <l>ré</l>
         <r><s n="mi"/><s n="sg"/><s n="acc"/></r>
-      </p>
-    </e>
-
-    <e>
-      <p>
-        <l>rym</l>
-        <r><s n="mi"/><s n="sg"/><s n="ins"/></r>
-      </p>
-    </e>
-
-    <e>
-      <p>
-        <l>rém</l>
-        <r><s n="mi"/><s n="sg"/><s n="loc"/></r>
       </p>
     </e>
 
@@ -3604,6 +3590,20 @@
       <p>
         <l>ry</l>
         <r><s n="mi"/><s n="sg"/><s n="voc"/></r>
+      </p>
+    </e>
+
+    <e>
+      <p>
+        <l>rym</l>
+        <r><s n="mi"/><s n="sg"/><s n="loc"/></r>
+      </p>
+    </e>
+
+    <e>
+      <p>
+        <l>rym</l>
+        <r><s n="mi"/><s n="sg"/><s n="ins"/></r>
       </p>
     </e>
 
@@ -3623,7 +3623,7 @@
 
     <e>
       <p>
-        <l>réch</l>
+        <l>rém</l>
         <r><s n="mi"/><s n="pl"/><s n="dat"/></r>
       </p>
     </e>
@@ -3637,8 +3637,8 @@
 
     <e>
       <p>
-        <l>réma</l>
-        <r><s n="mi"/><s n="pl"/><s n="ins"/></r>
+        <l>ry</l>
+        <r><s n="mi"/><s n="pl"/><s n="voc"/></r>
       </p>
     </e>
 
@@ -3651,8 +3651,8 @@
 
     <e>
       <p>
-        <l>ry</l>
-        <r><s n="mi"/><s n="pl"/><s n="voc"/></r>
+        <l>réma</l>
+        <r><s n="mi"/><s n="pl"/><s n="ins"/></r>
       </p>
     </e>
 
@@ -3686,8 +3686,8 @@
 
     <e>
       <p>
-        <l>ró</l>
-        <r><s n="f"/><s n="sg"/><s n="ins"/></r>
+        <l>rá</l>
+        <r><s n="f"/><s n="sg"/><s n="voc"/></r>
       </p>
     </e>
 
@@ -3700,8 +3700,8 @@
 
     <e>
       <p>
-        <l>rá</l>
-        <r><s n="f"/><s n="sg"/><s n="voc"/></r>
+        <l>ró</l>
+        <r><s n="f"/><s n="sg"/><s n="ins"/></r>
       </p>
     </e>
 
@@ -3721,7 +3721,7 @@
 
     <e>
       <p>
-        <l>réch</l>
+        <l>rém</l>
         <r><s n="f"/><s n="pl"/><s n="dat"/></r>
       </p>
     </e>
@@ -3735,8 +3735,8 @@
 
     <e>
       <p>
-        <l>réma</l>
-        <r><s n="f"/><s n="pl"/><s n="ins"/></r>
+        <l>ry</l>
+        <r><s n="f"/><s n="pl"/><s n="voc"/></r>
       </p>
     </e>
 
@@ -3749,8 +3749,8 @@
 
     <e>
       <p>
-        <l>ry</l>
-        <r><s n="f"/><s n="pl"/><s n="voc"/></r>
+        <l>réma</l>
+        <r><s n="f"/><s n="pl"/><s n="ins"/></r>
       </p>
     </e>
 
@@ -3784,25 +3784,24 @@
 
     <e>
       <p>
-        <l>rym</l>
-        <r><s n="nt"/><s n="sg"/><s n="ins"/></r>
+        <l>ry</l>
+        <r><s n="nt"/><s n="sg"/><s n="voc"/></r>
       </p>
     </e>
 
     <e>
       <p>
-        <l>rém</l>
+        <l>rym</l>
         <r><s n="nt"/><s n="sg"/><s n="loc"/></r>
       </p>
     </e>
 
     <e>
       <p>
-        <l>ry</l>
-        <r><s n="nt"/><s n="sg"/><s n="voc"/></r>
+        <l>rym</l>
+        <r><s n="nt"/><s n="sg"/><s n="ins"/></r>
       </p>
     </e>
-
     <e>
       <p>
         <l>ry</l>
@@ -3819,7 +3818,7 @@
 
     <e>
       <p>
-        <l>réch</l>
+        <l>rém</l>
         <r><s n="nt"/><s n="pl"/><s n="dat"/></r>
       </p>
     </e>
@@ -3833,8 +3832,8 @@
 
     <e>
       <p>
-        <l>réma</l>
-        <r><s n="nt"/><s n="pl"/><s n="ins"/></r>
+        <l>ry</l>
+        <r><s n="nt"/><s n="pl"/><s n="voc"/></r>
       </p>
     </e>
 
@@ -3847,8 +3846,8 @@
 
     <e>
       <p>
-        <l>ry</l>
-        <r><s n="nt"/><s n="pl"/><s n="voc"/></r>
+        <l>réma</l>
+        <r><s n="nt"/><s n="pl"/><s n="ins"/></r>
       </p>
     </e>
     </pardef>
