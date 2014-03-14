@@ -64447,7 +64447,7 @@
     <e lm="řídký"><i>řídk</i><par n="mal/ý__adj"/></e>
     <e lm="říční"><i>říčn</i><par n="právn/í__adj"/></e>
     <e lm="ščedré"><i>ščed</i><par n="dob/ré__adj"/></e>
-    <e lm="šeroké"><i>šerok</i><par n="mal/é__adj"/></e>
+    <e lm="šêroké"><i>šêrok</i><par n="mal/é__adj"/></e>
     <e lm="žalódečni"><i>žalódečn</i><par n="dnešn/i__adj"/></e>
     <e lm="železniční"><i>železničn</i><par n="právn/í__adj"/></e>
     <e lm="žádoucí"><i>žádouc</i><par n="právn/í__adj"/></e>
@@ -66682,6 +66682,7 @@
     <e lm="zdravé"><par n="né__adv"/><i>zdrav</i><par n="nov/é__adj"/></e>
     <e lm="zdravotní"><par n="né__adv"/><i>zdravotn</i><par n="finančn/í__adj"/></e>
     <e lm="zdrojový"><par n="né__adv"/><i>zdrojov</i><par n="nov/ý__adj"/></e>
+    <e lm="zdvořêlé"><par n="né__adv"/><i>zdvořêl</i><par n="nov/é__adj"/></e>
     <e lm="zejména"><i>zejména</i><par n="tehdá__adv"/></e>
     <e lm="zelené"><par n="né__adv"/><i>zelen</i><par n="nov/é__adj"/></e>
     <e lm="zemské"><par n="né__adv"/><i>zem</i><par n="morav/ské__adj"/></e>
@@ -66806,7 +66807,7 @@
     <e lm="řimské"><par n="né__adv"/><i>řim</i><par n="morav/ské__adj"/></e>
     <e lm="šachový"><par n="né__adv"/><i>šachov</i><par n="nov/ý__adj"/></e>
     <e lm="šarlatánský"><par n="né__adv"/><i>šarlatán</i><par n="če/ský__adj"/></e>
-    <e lm="šeroké"><par n="né__adv"/><p><l>šerš</l><r>šeroké</r></p><par n="dnešn/i__adj"/></e>
+    <e lm="šêroké"><par n="né__adv"/><p><l>šêrš</l><r>šêroké</r></p><par n="dnešn/i__adj"/></e>
     <e lm="šetlandský"><par n="né__adv"/><i>šetland</i><par n="če/ský__adj"/></e>
     <e lm="škodné"><par n="né__adv"/><i>škodn</i><par n="nov/é__adj"/></e>
     <e lm="školni"><par n="né__adv"/><i>školn</i><par n="dnešn/i__adj"/></e>
