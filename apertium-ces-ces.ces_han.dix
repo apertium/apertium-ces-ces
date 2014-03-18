@@ -2945,14 +2945,13 @@
     </pardef>
 
       
-    <pardef n="BASE__úterý">
+    <pardef n="BASE__utery">
     <e>
       <p>
         <l></l>
         <r><s n="nt"/><s n="sg"/><s n="nom"/></r>
       </p>
     </e>
-
 
     <e>
       <p>
@@ -2961,14 +2960,12 @@
       </p>
     </e>
 
-
     <e>
       <p>
         <l></l>
         <r><s n="nt"/><s n="sg"/><s n="gen"/></r>
       </p>
     </e>
-
 
     <e>
       <p>
@@ -2977,14 +2974,12 @@
       </p>
     </e>
 
-
     <e>
       <p>
         <l></l>
         <r><s n="nt"/><s n="sg"/><s n="dat"/></r>
       </p>
     </e>
-
 
     <e>
       <p>
@@ -2993,14 +2988,12 @@
       </p>
     </e>
 
-
     <e>
       <p>
         <l></l>
         <r><s n="nt"/><s n="sg"/><s n="acc"/></r>
       </p>
     </e>
-
 
     <e>
       <p>
@@ -3009,14 +3002,12 @@
       </p>
     </e>
 
-
     <e>
       <p>
         <l></l>
         <r><s n="nt"/><s n="sg"/><s n="voc"/></r>
       </p>
     </e>
-
 
     <e>
       <p>
@@ -3025,14 +3016,12 @@
       </p>
     </e>
 
-
     <e>
       <p>
         <l></l>
         <r><s n="nt"/><s n="sg"/><s n="loc"/></r>
       </p>
     </e>
-
 
     <e>
       <p>
@@ -3041,7 +3030,6 @@
       </p>
     </e>
 
-
     <e>
       <p>
         <l>m</l>
@@ -3049,16 +3037,24 @@
       </p>
     </e>
 
-
     <e>
       <p>
-        <l>mi</l>
+        <l>ma</l>
         <r><s n="nt"/><s n="pl"/><s n="ins"/></r>
       </p>
     </e>
     </pardef>
 
 
+    <pardef n="utery__n">
+    <e>
+      <p>
+        <l></l>
+        <r><s n="n"/></r>
+      </p>
+        <par n="BASE__utery"/> 
+    </e>
+    </pardef>
 
 
 <!-- Adjective bases -->
@@ -8537,7 +8533,7 @@
         <l>edeni</l>
         <r>yst<s n="vblex"/><s n="perf"/><s n="ger"/></r>
       </p>
-        <par n="BASE__úterý"/>
+        <par n="BASE__utery"/>
     </e>
 
     <e>
@@ -8603,7 +8599,7 @@
         <l>eseni</l>
         <r>yst<s n="vblex"/><s n="perf"/><s n="ger"/></r>
       </p>
-        <par n="BASE__úterý"/>
+        <par n="BASE__utery"/>
     </e>
 
     <e>
@@ -8701,7 +8697,7 @@
         <l>tění</l>
         <r>ist<s n="vblex"/><s n="imperf"/><s n="ger"/></r>
       </p>
-        <par n="BASE__úterý"/> 
+        <par n="BASE__utery"/> 
     </e>
 
     <e>
@@ -8783,7 +8779,7 @@
         <l>eni</l>
         <r>est<s n="vblex"/><s n="imperf"/><s n="ger"/></r>
       </p>
-        <par n="BASE__úterý"/>
+        <par n="BASE__utery"/>
     </e>
     </pardef>
 
@@ -9053,7 +9049,7 @@
         <l>yti</l>
         <r>et<s n="vblex"/><s n="imperf"/><s n="ger"/></r>
       </p>
-        <par n="BASE__úterý"/>
+        <par n="BASE__utery"/>
     </e>
 
     <e>
@@ -9259,7 +9255,7 @@
         <l>ěni</l>
         <r>ět<s n="vblex"/><s n="imperf"/><s n="ger"/></r>
       </p>
-        <par n="BASE__úterý"/>
+        <par n="BASE__utery"/>
     </e>
 
     <e>
@@ -9431,7 +9427,7 @@
         <l>eni</l>
         <r>et<s n="vblex"/><s n="imperf"/><s n="ger"/></r>
       </p>
-        <par n="BASE__úterý"/>
+        <par n="BASE__utery"/>
     </e>
 
     <e>
@@ -9547,7 +9543,7 @@
         <l>eni</l>
         <r>et<s n="vblex"/><s n="imperf"/><s n="ger"/></r>
       </p>
-        <par n="BASE__úterý"/> 
+        <par n="BASE__utery"/> 
     </e>
 
     <e>
@@ -9647,7 +9643,7 @@
         <l>áni</l>
         <r>at<s n="vblex"/><s n="imperf"/><s n="ger"/></r>
       </p>
-        <par n="BASE__úterý"/>
+        <par n="BASE__utery"/>
     </e>
 
     <e>
@@ -9754,7 +9750,7 @@
         <l>eni</l>
         <r>et<s n="vblex"/><s n="imperf"/><s n="ger"/></r>
       </p>
-        <par n="BASE__úterý"/>
+        <par n="BASE__utery"/>
     </e>
 
     <e>
@@ -9968,7 +9964,7 @@
         <l>ani</l>
         <r>it<s n="vblex"/><s n="imperf"/><s n="ger"/></r>
       </p>
-        <par n="BASE__úterý"/>
+        <par n="BASE__utery"/>
     </e>
 
     <e>
@@ -10083,7 +10079,7 @@
         <l>ováni</l>
         <r>ovat<s n="vblex"/><s n="imperf"/><s n="ger"/></r>
       </p>
-        <par n="BASE__úterý"/>
+        <par n="BASE__utery"/>
     </e>
 
     <e>
@@ -10258,7 +10254,7 @@
         <l>eti</l>
         <r>et<s n="vblex"/><s n="imperf"/><s n="ger"/></r>
       </p>
-        <par n="BASE__úterý"/> 
+        <par n="BASE__utery"/> 
     </e>
 
     <e>
@@ -10882,7 +10878,7 @@
         <l>deni</l>
         <r>dět<s n="vblex"/><s n="imperf"/><s n="ger"/></r>
       </p>
-        <par n="BASE__úterý"/> 
+        <par n="BASE__utery"/> 
     </e>
 
     <e>
@@ -43587,7 +43583,7 @@
         <l></l>
         <r><s n="n"/></r>
       </p>
-        <par n="BASE__úterý"/> 
+        <par n="BASE__utery"/> 
     </e>
 
 
@@ -50175,7 +50171,7 @@
         <l>jití</l>
         <r>jít<s n="vblex"/><s n="perf"/><s n="ger"/></r>
       </p>
-        <par n="BASE__úterý"/> 
+        <par n="BASE__utery"/> 
     </e>
 
 
@@ -50220,7 +50216,7 @@
         <l>tění</l>
         <r>íst<s n="vblex"/><s n="imperf"/><s n="ger"/></r>
       </p>
-        <par n="BASE__úterý"/> 
+        <par n="BASE__utery"/> 
     </e>
     <e>
       <p>
@@ -50284,7 +50280,7 @@
         <l>zání</l>
         <r>zat<s n="vblex"/><s n="imperf"/><s n="ger"/></r>
       </p>
-        <par n="BASE__úterý"/> 
+        <par n="BASE__utery"/> 
     </e>
     <e>
       <p>
@@ -50358,7 +50354,7 @@
         <l>ení</l>
         <r>et<s n="vblex"/><s n="imperf"/><s n="ger"/></r>
       </p>
-        <par n="BASE__úterý"/> 
+        <par n="BASE__utery"/> 
     </e>
 
 
@@ -50432,7 +50428,7 @@
         <l>tění</l>
         <r>íst<s n="vblex"/><s n="perf"/><s n="ger"/></r>
       </p>
-        <par n="BASE__úterý"/> 
+        <par n="BASE__utery"/> 
     </e>
 
 
@@ -50527,7 +50523,7 @@
         <l>ení</l>
         <r>íst<s n="vblex"/><s n="imperf"/><s n="ger"/></r>
       </p>
-        <par n="BASE__úterý"/> 
+        <par n="BASE__utery"/> 
     </e>
     </pardef>
 
@@ -50630,7 +50626,7 @@
         <l>ytí</l>
         <r>ýt<s n="vblex"/><s n="imperf"/><s n="ger"/></r>
       </p>
-        <par n="BASE__úterý"/> 
+        <par n="BASE__utery"/> 
     </e>
 
 
@@ -50761,7 +50757,7 @@
         <l>ití</l>
         <r>ít<s n="vblex"/><s n="imperf"/><s n="ger"/></r>
       </p>
-        <par n="BASE__úterý"/> 
+        <par n="BASE__utery"/> 
     </e>
 
 
@@ -50826,7 +50822,7 @@
         <l>ení</l>
         <r>it<s n="vblex"/><s n="imperf"/><s n="ger"/></r>
       </p>
-        <par n="BASE__úterý"/> 
+        <par n="BASE__utery"/> 
     </e>
     <e>
       <p>
@@ -50950,7 +50946,7 @@
         <l>ení</l>
         <r>it<s n="vblex"/><s n="imperf"/><s n="ger"/></r>
       </p>
-        <par n="BASE__úterý"/> 
+        <par n="BASE__utery"/> 
     </e>
 
 
@@ -51090,7 +51086,7 @@
         <l>aní</l>
         <r>át<s n="vblex"/><s n="imperf"/><s n="ger"/></r>
       </p>
-        <par n="BASE__úterý"/> 
+        <par n="BASE__utery"/> 
     </e>
 
 
@@ -51183,7 +51179,7 @@
         <l>aní</l>
         <r>át<s n="vblex"/><s n="perf"/><s n="ger"/></r>
       </p>
-        <par n="BASE__úterý"/> 
+        <par n="BASE__utery"/> 
     </e>
 
 
@@ -51297,7 +51293,7 @@
         <l>hnaní</l>
         <r>hnát<s n="vblex"/><s n="imperf"/><s n="ger"/></r>
       </p>
-        <par n="BASE__úterý"/> 
+        <par n="BASE__utery"/> 
     </e>
 
 
@@ -51460,7 +51456,7 @@
         <l>šení</l>
         <r>sit<s n="vblex"/><s n="imperf"/><s n="ger"/></r>
       </p>
-        <par n="BASE__úterý"/> 
+        <par n="BASE__utery"/> 
     </e>
 
 
@@ -51911,7 +51907,7 @@
         <l>ědění</l>
         <r>ědět<s n="vblex"/><s n="imperf"/><s n="ger"/></r>
       </p>
-        <par n="BASE__úterý"/> 
+        <par n="BASE__utery"/> 
     </e>
 
 
@@ -52042,7 +52038,7 @@
         <l>ezení</l>
         <r>ézt<s n="vblex"/><s n="imperf"/><s n="ger"/></r>
       </p>
-        <par n="BASE__úterý"/> 
+        <par n="BASE__utery"/> 
     </e>
 
 
@@ -52182,7 +52178,7 @@
         <l>ění</l>
         <r>ět<s n="vblex"/><s n="imperf"/><s n="ger"/></r>
       </p>
-        <par n="BASE__úterý"/> 
+        <par n="BASE__utery"/> 
     </e>
 
 
@@ -52387,7 +52383,7 @@
         <l>ování</l>
         <r>ovat<s n="vblex"/><s n="perf"/><s n="ger"/></r>
       </p>
-        <par n="BASE__úterý"/> 
+        <par n="BASE__utery"/> 
     </e>
 
 
@@ -52510,7 +52506,7 @@
         <l>ání</l>
         <r>at<s n="vblex"/><s n="imperf"/><s n="ger"/></r>
       </p>
-        <par n="BASE__úterý"/> 
+        <par n="BASE__utery"/> 
     </e>
 
 
@@ -52707,7 +52703,7 @@
         <l>ečení</l>
         <r>éci<s n="vblex"/><s n="imperf"/><s n="ger"/></r>
       </p>
-        <par n="BASE__úterý"/> 
+        <par n="BASE__utery"/> 
     </e>
 
 
@@ -52914,7 +52910,7 @@
         <l>šlení</l>
         <r>slet<s n="vblex"/><s n="imperf"/><s n="ger"/></r>
       </p>
-        <par n="BASE__úterý"/> 
+        <par n="BASE__utery"/> 
     </e>
 
 
@@ -53270,7 +53266,7 @@
         <l>sání</l>
         <r>sát<s n="vblex"/><s n="imperf"/><s n="ger"/></r>
       </p>
-        <par n="BASE__úterý"/> 
+        <par n="BASE__utery"/> 
     </e>
 
 
@@ -53455,7 +53451,7 @@
         <l>ání</l>
         <r>at<s n="vblex"/><s n="perf"/><s n="ger"/></r>
       </p>
-        <par n="BASE__úterý"/> 
+        <par n="BASE__utery"/> 
     </e>
     <e>
       <p>
@@ -53515,7 +53511,7 @@
         <l>sání</l>
         <r>sat<s n="vblex"/><s n="perf"/><s n="ger"/></r>
       </p>
-        <par n="BASE__úterý"/> 
+        <par n="BASE__utery"/> 
     </e>
 
 
@@ -53588,7 +53584,7 @@
         <l>esení</l>
         <r>ést<s n="vblex"/><s n="perf"/><s n="ger"/></r>
       </p>
-        <par n="BASE__úterý"/> 
+        <par n="BASE__utery"/> 
     </e>
 
 
@@ -53661,7 +53657,7 @@
         <l>epsání</l>
         <r>epsat<s n="vblex"/><s n="perf"/><s n="ger"/></r>
       </p>
-        <par n="BASE__úterý"/> 
+        <par n="BASE__utery"/> 
     </e>
 
 
@@ -53801,7 +53797,7 @@
         <l>cení</l>
         <r>tit<s n="vblex"/><s n="perf"/><s n="ger"/></r>
       </p>
-        <par n="BASE__úterý"/> 
+        <par n="BASE__utery"/> 
     </e>
 
 
@@ -53963,7 +53959,7 @@
         <l>cení</l>
         <r>tit<s n="vblex"/><s n="imperf"/><s n="ger"/></r>
       </p>
-        <par n="BASE__úterý"/> 
+        <par n="BASE__utery"/> 
     </e>
 
 
@@ -54134,7 +54130,7 @@
         <l>ení</l>
         <r>et<s n="vblex"/><s n="imperf"/><s n="ger"/></r>
       </p>
-        <par n="BASE__úterý"/> 
+        <par n="BASE__utery"/> 
     </e>
 
 
@@ -54353,7 +54349,7 @@
         <l>ení</l>
         <r>it<s n="vblex"/><s n="imperf"/><s n="ger"/></r>
       </p>
-        <par n="BASE__úterý"/> 
+        <par n="BASE__utery"/> 
     </e>
 
 
@@ -54721,7 +54717,7 @@
         <l>ení</l>
         <r>at<s n="vblex"/><s n="imperf"/><s n="ger"/></r>
       </p>
-        <par n="BASE__úterý"/> 
+        <par n="BASE__utery"/> 
     </e>
 
 
@@ -54803,7 +54799,7 @@
         <l>aní</l>
         <r>at<s n="vblex"/><s n="imperf"/><s n="ger"/></r>
       </p>
-        <par n="BASE__úterý"/> 
+        <par n="BASE__utery"/> 
     </e>
 
 
@@ -54885,7 +54881,7 @@
         <l>dení</l>
         <r>dět<s n="vblex"/><s n="imperf"/><s n="ger"/></r>
       </p>
-        <par n="BASE__úterý"/> 
+        <par n="BASE__utery"/> 
     </e>
 
 
@@ -54923,7 +54919,7 @@
       <e><p>          <l></l><r>it<s n="vblex"/><s n="imperf"/></r></p><par n="BASE__čti"/></e>
       <e><p>          <l></l><r>it<s n="vblex"/><s n="imperf"/></r></p><par n="BASE__blázním"/></e>
       <e><p>          <l></l><r>it<s n="vblex"/><s n="imperf"/></r></p><par n="BASE__vidíce"/></e>
-      <e><p>          <l>ení</l><r>it<s n="vblex"/><s n="imperf"/><s n="ger"/></r></p><par n="BASE__úterý"/></e>
+      <e><p>          <l>ení</l><r>it<s n="vblex"/><s n="imperf"/><s n="ger"/></r></p><par n="BASE__utery"/></e>
       <e><p>          <l>íc</l><r>it<s n="vblex"/><s n="imperf"/><s n="pprs"/><s n="adj"/></r></p><par n="BASE__další"/></e>
       <e><p>          <l>en</l><r>it<s n="vblex"/><s n="imperf"/><s n="pp"/><s n="adj"/></r></p><par n="BASE__nov/ý"/></e>
       <e><p>          <l>ěn</l><r>it<s n="vblex"/><s n="imperf"/><s n="pp"/><s n="impers"/></r></p><par n="BASE__četl"/></e>
@@ -54988,7 +54984,7 @@
         <l>ázaní</l>
         <r>ázat<s n="vblex"/><s n="perf"/><s n="ger"/></r>
       </p>
-        <par n="BASE__úterý"/> 
+        <par n="BASE__utery"/> 
     </e>
 
 
@@ -55070,7 +55066,7 @@
         <l>ití</l>
         <r>ít<s n="vblex"/><s n="perf"/><s n="ger"/></r>
       </p>
-        <par n="BASE__úterý"/> 
+        <par n="BASE__utery"/> 
     </e>
 
 
@@ -55107,7 +55103,7 @@
         <l>aní</l>
         <r>at<s n="vblex"/><s n="perf"/><s n="ger"/></r>
       </p>
-        <par n="BASE__úterý"/> 
+        <par n="BASE__utery"/> 
     </e>
 
 
@@ -55204,7 +55200,7 @@
         <l>není</l>
         <r>nout<s n="vblex"/><s n="perf"/><s n="ger"/></r>
       </p>
-        <par n="BASE__úterý"/> 
+        <par n="BASE__utery"/> 
     </e>
     <e c="check">
       <p>
@@ -55234,7 +55230,7 @@
         <l>ení</l>
         <r>it<s n="vblex"/><s n="imperf"/><s n="ger"/></r>
       </p>
-        <par n="BASE__úterý"/> 
+        <par n="BASE__utery"/> 
     </e>
     <e>
       <p>
@@ -55309,7 +55305,7 @@
         <l>ení</l>
         <r>it<s n="vblex"/><s n="perf"/><s n="ger"/></r>
       </p>
-        <par n="BASE__úterý"/> 
+        <par n="BASE__utery"/> 
     </e>
 
 
@@ -55462,7 +55458,7 @@
         <l>štění</l>
         <r>stit<s n="vblex"/><s n="perf"/><s n="ger"/></r>
       </p>
-        <par n="BASE__úterý"/> 
+        <par n="BASE__utery"/> 
     </e>
 
 
@@ -55517,7 +55513,7 @@
         <l>ážení</l>
         <r>ážit<s n="vblex"/><s n="perf"/><s n="ger"/></r>
       </p>
-        <par n="BASE__úterý"/> 
+        <par n="BASE__utery"/> 
     </e>
 
 
@@ -55572,7 +55568,7 @@
         <l>ýšení</l>
         <r>ýšit<s n="vblex"/><s n="perf"/><s n="ger"/></r>
       </p>
-        <par n="BASE__úterý"/> 
+        <par n="BASE__utery"/> 
     </e>
 
 
