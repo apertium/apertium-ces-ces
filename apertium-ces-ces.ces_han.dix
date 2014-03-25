@@ -57795,7 +57795,7 @@
     <e r="LR" lm="agónie"><p><l>agoni</l><r>agóni</r></p><par n="alergi/e__n"/></e>
     <e lm="agregát"><i>agregát</i><par n="byt__n"/></e>
     <e lm="agrese"><i>agres</i><par n="alergi/e__n"/></e>
-    <e lm="agresivita" c="check"><i>agresivit</i><par n="dob/a__n"/></e>
+    <e lm="agresivita" c="check"><i>agresivit</i><par n="rêb/a__n"/></e>
     <e lm="agresor"><i>agreso</i><par n="amu/r__n"/></e>
     <e lm="agrofyzika"><i>agrofyzi</i><par n="dý/ka__n"/></e>
     <e lm="agrotechnika"><i>agrotechni</i><par n="dý/ka__n"/></e>
@@ -57826,7 +57826,7 @@
     <e lm="aktivace"><i>aktivac</i><par n="alergi/e__n"/></e>
     <e lm="aktivista"><i>aktivist</i><par n="nacist/a__n"/></e>
     <e lm="anarchista"><i>anarchist</i><par n="nacist/a__n"/></e>
-    <e lm="aktivita" c="check"><i>aktivit</i><par n="dob/a__n"/></e>
+    <e lm="aktivita" c="check"><i>aktivit</i><par n="rêb/a__n"/></e>
     <e lm="aktivizace"><i>aktivizac</i><par n="alergi/e__n"/></e>
     <e lm="aktovka"><i>aktov</i><par n="dív/ka__n"/></e>
     <e lm="aktualizace"><i>aktuali</i><par n="konver/zace__n"/></e>
@@ -57925,7 +57925,7 @@
     <e lm="anonym"><i>anonym</i><par n="arak__n"/></e>
     <e lm="anonym"><i>anonym</i><par n="man__n"/></e>
     <e lm="anonymizace"><i>anonymi</i><par n="konver/zace__n"/></e>
-    <e lm="anonymita" c="check"><i>anonymit</i><par n="dob/a__n"/></e>
+    <e lm="anonymita" c="check"><i>anonymit</i><par n="rêb/a__n"/></e>
     <e lm="anotace"><i>anotac</i><par n="alergi/e__n"/></e>
     <e lm="ansámbl"><i>ansámbl</i><par n="bor__n"/></e>
     <e lm="antigen"><i>antigen</i><par n="bor__n"/></e>
@@ -58013,7 +58013,7 @@
     <e lm="aréna"><i>arén</i><par n="rêb/a__n"/></e>
     <e lm="asambláž"><i>asambláž</i><par n="mříž__n"/></e>
 
-    <e lm="asertivita" c="check"><i>asertivit</i><par n="dob/a__n"/></e>
+    <e lm="asertivita" c="check"><i>asertivit</i><par n="rêb/a__n"/></e>
     <e lm="asfalt"><i>asfalt</i><par n="arak__n"/></e>
     <e lm="asfalt"><i>asfalt</i><par n="byt__n"/></e>
     <e lm="asimilace"><i>asimilac</i><par n="alergi/e__n"/></e>
@@ -59264,7 +59264,7 @@
     <e lm="evoluce"><i>evoluc</i><par n="alergi/e__n"/></e>
     <e lm="excelence"><i>excelenc</i><par n="alergi/e__n"/></e>
     <e r="LR" lm="excelence"><p><l>excellenc</l><r>excelenc</r></p><par n="alergi/e__n"/></e>
-    <e lm="excentricita" c="check"><i>excentricit</i><par n="dob/a__n"/></e>
+    <e lm="excentricita" c="check"><i>excentricit</i><par n="rêb/a__n"/></e>
     <e lm="exces"><i>exces</i><par n="bor__n"/></e>
     <e lm="exekutor"><i>exekuto</i><par n="amu/r__n"/></e>
     <e lm="exemplář"><i>exemplář</i><par n="keř__n"/></e>
@@ -60556,7 +60556,7 @@
     <e lm="kuřák"><i>kuřá</i><par n="chalupní/k__n"/></e>
     <e lm="kuša"><i>kuš</i><par n="doš/a__n"/></e>
     <e lm="kužel"><i>kužel</i><par n="keř__n"/></e>
-    <e lm="kvalita" c="check"><i>kvalit</i><par n="dob/a__n"/></e>
+    <e lm="kvalita" c="check"><i>kvalit</i><par n="rêb/a__n"/></e>
     <e lm="kvantita"><i>kvantit</i><par n="rêb/a__n"/></e>
     <e lm="kvantizace"><i>kvantizac</i><par n="alergi/e__n"/></e>
     <e lm="kvarteto"><i>kvartet</i><par n="práv/o__n"/></e>
@@ -61137,7 +61137,7 @@
     <e lm="nafta"><i>naft</i><par n="rêb/a__n"/></e>
     <e lm="nahota"><i>nahot</i><par n="rêb/a__n"/></e>
     <e lm="nahrávka"><i>nahráv</i><par n="dív/ka__n"/></e>
-    <e lm="naivita" c="check"><i>naivit</i><par n="dob/a__n"/></e>
+    <e lm="najivita" c="check"><i>najivit</i><par n="rêb/a__n"/></e>
     <e lm="nakladatelství"><i>nakladatelství</i><par n="hospodářství__n"/></e>
     <e r="LR" lm="nápověda"><p><l>napověd</l><r>nápověd</r></p><par n="dob/a__n"/></e>
     <e lm="napětí"><i>napětí</i><par n="hospodářství__n"/></e>
@@ -61204,7 +61204,7 @@
     <e lm="neutralêta" c="check"><i>neutralêt</i><par n="rêb/a__n"/></e>
     <e lm="neutralizace"><i>neutralizac</i><par n="alergi/e__n"/></e>
     <e lm="neutron"><i>neutron</i><par n="bor__n"/></e>
-    <e lm="nevina" c="check"><i>nevin</i><par n="dob/a__n"/></e>
+    <e lm="nevina" c="check"><i>nevin</i><par n="rêb/a__n"/></e>
     <e r="LR" lm="vlastník"><p><l>nevlastní</l><r>vlastní</r></p><par n="chalupní/k__n"/></e>
     <e lm="nevole"><i>nevol</i><par n="alergi/e__n"/></e>
     <e lm="nevolnictví"><i>nevolnictví</i><par n="hospodářství__n"/></e>
@@ -69052,5 +69052,6 @@
   -->
 
   <!-- additional words
+    <e lm="vémlôva"><i>vémlôv</i><par n="rêb/a__n"/></e>
   -->
 </dictionary>
