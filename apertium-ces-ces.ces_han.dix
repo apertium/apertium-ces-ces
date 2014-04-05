@@ -431,109 +431,109 @@
     </pardef>
 
 
-    <pardef n="dob__n">
+    <pardef n="dôb__n">
     <e>
       <p>
         <l></l>
-        <r><s n="n"/><s n="ma"/><s n="sg"/><s n="nom"/></r>
+        <r><s n="n"/><s n="mi"/><s n="sg"/><s n="nom"/></r>
       </p>
     </e>
 
     <e>
       <p>
-        <l>e</l>
-        <r><s n="n"/><s n="ma"/><s n="pl"/><s n="nom"/></r>
+        <l>ê</l>
+        <r><s n="n"/><s n="mi"/><s n="pl"/><s n="nom"/></r>
       </p>
     </e>
 
     <e>
       <p>
         <l>a</l>
-        <r><s n="n"/><s n="ma"/><s n="sg"/><s n="gen"/></r>
+        <r><s n="n"/><s n="mi"/><s n="sg"/><s n="gen"/></r>
       </p>
     </e>
 
     <e>
       <p>
         <l>u</l>
-        <r><s n="n"/><s n="ma"/><s n="pl"/><s n="gen"/></r>
+        <r><s n="n"/><s n="mi"/><s n="pl"/><s n="gen"/></r>
       </p>
     </e>
 
     <e>
       <p>
         <l>ô</l>
-        <r><s n="n"/><s n="ma"/><s n="sg"/><s n="dat"/></r>
+        <r><s n="n"/><s n="mi"/><s n="sg"/><s n="dat"/></r>
+      </p>
+    </e>
+
+    <e r="LR">
+      <p>
+        <l>um/l>
+        <r><s n="n"/><s n="mi"/><s n="pl"/><s n="dat"/></r>
       </p>
     </e>
 
     <e>
       <p>
         <l>om</l>
-        <r><s n="n"/><s n="ma"/><s n="pl"/><s n="dat"/></r>
+        <r><s n="n"/><s n="mi"/><s n="pl"/><s n="dat"/></r>
       </p>
     </e>
 
     <e>
       <p>
         <l></l>
-        <r><s n="n"/><s n="ma"/><s n="sg"/><s n="acc"/></r>
+        <r><s n="n"/><s n="mi"/><s n="sg"/><s n="acc"/></r>
+      </p>
+    </e>
+
+    <e>
+      <p>
+        <l>ê</l>
+        <r><s n="n"/><s n="mi"/><s n="pl"/><s n="acc"/></r>
       </p>
     </e>
 
     <e>
       <p>
         <l>e</l>
-        <r><s n="n"/><s n="ma"/><s n="pl"/><s n="acc"/></r>
+        <r><s n="n"/><s n="mi"/><s n="sg"/><s n="voc"/></r>
       </p>
     </e>
 
     <e>
       <p>
-        <l>e</l>
-        <r><s n="n"/><s n="ma"/><s n="sg"/><s n="voc"/></r>
-      </p>
-    </e>
-
-    <e>
-      <p>
-        <l>e</l>
-        <r><s n="n"/><s n="ma"/><s n="pl"/><s n="voc"/></r>
-      </p>
-    </e>
-
-    <e r="LR">
-      <p>
-        <l>ě</l>
-        <r><s n="n"/><s n="ma"/><s n="sg"/><s n="loc"/></r>
+        <l>ê</l>
+        <r><s n="n"/><s n="mi"/><s n="pl"/><s n="voc"/></r>
       </p>
     </e>
 
     <e>
       <p>
         <l>ô</l>
-        <r><s n="n"/><s n="ma"/><s n="sg"/><s n="loc"/></r>
+        <r><s n="n"/><s n="mi"/><s n="sg"/><s n="loc"/></r>
       </p>
     </e>
 
     <e>
       <p>
         <l>ech</l>
-        <r><s n="n"/><s n="ma"/><s n="pl"/><s n="loc"/></r>
+        <r><s n="n"/><s n="mi"/><s n="pl"/><s n="loc"/></r>
       </p>
     </e>
 
     <e>
       <p>
         <l>em</l>
-        <r><s n="n"/><s n="ma"/><s n="sg"/><s n="ins"/></r>
+        <r><s n="n"/><s n="mi"/><s n="sg"/><s n="ins"/></r>
       </p>
     </e>
 
     <e>
       <p>
         <l>ama</l>
-        <r><s n="n"/><s n="ma"/><s n="pl"/><s n="ins"/></r>
+        <r><s n="n"/><s n="mi"/><s n="pl"/><s n="ins"/></r>
       </p>
     </e>
     </pardef>
@@ -58069,7 +58069,7 @@
     <e lm="autismus"><i>autism</i><par n="ile/us__n"/></e>
     <e lm="autor"><i>auto</i><par n="amu/r__n"/></e>
     <e lm="autobiografie"><i>autobiografi</i><par n="alergi/e__n"/></e>
-    <e lm="aotobus"><i>aotobus</i><par n="dob__n"/></e>
+    <e lm="autobus"><i>autobus</i><par n="dôb__n"/></e>
     <e lm="autodesenzibilizace"><i>autodesenzibilizac</i><par n="alergi/e__n"/></e>
     <e lm="autogram"><i>autogram</i><par n="bor__n"/></e>
     <e lm="autokar"><i>autokar</i><par n="bor__n"/></e>
@@ -58800,7 +58800,7 @@
     <e lm="dům"><i>d</i><par n="d/ům__n"/></e>
     <e lm="dítě"><i>d</i><par n="d/ítě__n"/></e>
     <e lm="deň"><i>d</i><par n="d/eň__n"/></e>
-    <e lm="dyšť"><i>dyšť</i><par n="dob__n"/></e>
+    <e lm="dyšč"><i>dyšč</i><par n="dôb__n"/></e>
     <e lm="dadaismus"><i>dadaism</i><par n="ile/us__n"/></e>
     <e r="LR" lm="dadaismus"><p><l>dadaizm</l><r>dadaism</r></p><par n="ile/us__n"/></e>
     <e lm="dalajláma"><i>dalajlám</i><par n="nacist/a__n"/></e>
@@ -59073,7 +59073,7 @@
     <e lm="dualismus"><i>dualism</i><par n="ile/us__n"/></e>
     <e r="LR" lm="dualismus"><p><l>dualizm</l><r>dualism</r></p><par n="ile/us__n"/></e>
     <e lm="duben"><i>dub</i><par n="srp/en__n"/></e>
-    <e lm="dob"><i>dob</i><par n="dob__n"/></e>
+    <e lm="dôb"><i>dôb</i><par n="dôb__n"/></e>
     <e lm="dubnium"><i>dubni</i><par n="bary/um__n"/></e>
     <e lm="duhovka"><i>duhov</i><par n="dív/ka__n"/></e>
     <e lm="dukát"><i>dukát</i><par n="byt__n"/></e>
@@ -59109,7 +59109,7 @@
     <e lm="dóže"><i>dóž</i><par n="dóž/e__n"/></e>
     <e lm="dýka"><i>dý</i><par n="dý/ka__n"/></e>
     <e lm="dymka"><i>dym</i><par n="dív/ka__n"/></e>
-    <e lm="dym"><i>dym</i><par n="dob__n"/></e>
+    <e lm="dym"><i>dym</i><par n="dôb__n"/></e>
     <e lm="děd"><i>děd</i><par n="man__n"/></e>
     <e lm="dědic"><i>dědic</i><par n="mož__n"/></e>
     <e lm="dědictvi"><i>dědictvi</i><par n="úterý__n"/></e>
@@ -60582,7 +60582,7 @@
     <e lm="káva"><i>káv</i><par n="dob/a__n"/></e>
     <e lm="kód"><i>kód</i><par n="arak__n"/></e>
     <e lm="kód"><i>kód</i><par n="bor__n"/></e>
-    <e lm="kos"><i>kos</i><par n="dob__n"/></e>
+    <e lm="kôs"><i>kôs</i><par n="dôb__n"/></e>
     <e lm="kýbl"><i>kýbl</i><par n="arak__n"/></e>
     <e lm="kýč"><i>kýč</i><par n="keř__n"/></e>
     <e lm="křemenec"><i>křemen</i><par n="vál/ec__n"/></e>
@@ -62442,7 +62442,7 @@
     <e lm="robot"><i>robot</i><par n="man__n"/></e>
     <e lm="robotika"><i>roboti</i><par n="dý/ka__n"/></e>
     <e lm="robotizace"><i>robotizac</i><par n="alergi/e__n"/></e>
-    <e lm="rod"><i>rod</i><par n="dob__n"/></e>
+    <e lm="rod"><i>rod</i><par n="dôb__n"/></e>
     <e lm="rodina"><i>rodin</i><par n="rêb/a__n"/></e>
     <e lm="rodák"><i>rodá</i><par n="chalupní/k__n"/></e>
     <e lm="roentgenium"><i>roentgeni</i><par n="bary/um__n"/></e>
@@ -63754,7 +63754,7 @@
     <e lm="zrcadlo"><i>zrcad</i><par n="más/lo__n"/></e>
     <e lm="zrcadlovka"><i>zrcadlov</i><par n="dív/ka__n"/></e>
     <e lm="ztráta"><i>ztrát</i><par n="rêb/a__n"/></e>
-    <e lm="zob"><i>zob</i><par n="dob__n"/></e>
+    <e lm="zôb"><i>zôb</i><par n="dôb__n"/></e>
     <e lm="zvon"><i>zvon</i><par n="arak__n"/></e>
     <e lm="zvonek"><i>zvon</i><par n="rên/ek__n"/></e>
     <e lm="zvon"><i>zvon</i><par n="bor__n"/></e>
