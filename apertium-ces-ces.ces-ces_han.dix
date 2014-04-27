@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <!--
 	Dictionary:
 	Sections: 4
@@ -534,7 +534,7 @@
 		<e><p><l>leden<s n="n"/><s n="mi"/></l><r>leden<s n="n"/><s n="mi"/></r></p></e>
 		<e><p><l>únor<s n="n"/><s n="mi"/></l><r>unor<s n="n"/><s n="mi"/></r></p></e>
 		<e><p><l>březen<s n="n"/><s n="mi"/></l><r>březen<s n="n"/><s n="mi"/></r></p></e>
-		<e><p><l>duben<s n="n"/><s n="mi"/></l><r>duben<s n="n"/><s n="mi"/></r></p></e>
+		<e><p><l>duben<s n="n"/><s n="mi"/></l><r>dôben<s n="n"/><s n="mi"/></r></p></e>
 		<e><p><l>květen<s n="n"/><s n="mi"/></l><r>máj<s n="n"/><s n="mi"/></r></p></e>
 		<e><p><l>červen<s n="n"/><s n="mi"/></l><r>červen<s n="n"/><s n="mi"/></r></p></e>
 		<e><p><l>červenec<s n="n"/><s n="mi"/></l><r>červenec<s n="n"/><s n="mi"/></r></p></e>
