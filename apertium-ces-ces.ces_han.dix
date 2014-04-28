@@ -64453,7 +64453,7 @@
     <e lm="bazický"><par n="né__adv"/><i>bazi</i><par n="exotermi/cký__adj"/></e>
     <e lm="bazální"><par n="né__adv"/><i>bazáln</i><par n="finančn/í__adj"/></e>
     <e lm="baškirský"><par n="né__adv"/><i>baškir</i><par n="če/ský__adj"/></e>
-    <e lm="bedlivě"><i>bedlivě</i><par n="daleko__adv"/></e>
+    <e lm="bedlêvě"><i>bedlêvě</i><par n="daleko__adv"/></e>
     <e lm="bedlivě"><p><l>bedlivěji</l><r>bedlivě</r></p><par n="dál__adv"/></e>
     <e lm="beletristický"><par n="né__adv"/><i>beletristi</i><par n="exotermi/cký__adj"/></e>
     <e lm="belgický"><par n="né__adv"/><i>belgi</i><par n="exotermi/cký__adj"/></e>
@@ -64464,7 +64464,7 @@
     <e lm="bermudský"><par n="né__adv"/><i>bermud</i><par n="če/ský__adj"/></e>
     <e lm="bernský"><par n="né__adv"/><i>bern</i><par n="če/ský__adj"/></e>
     <e lm="bezpečné"><par n="né__adv"/><i>bezpečn</i><par n="nov/é__adj"/></e>
-    <e lm="bespečně"><i>bespečně</i><par n="daleko__adv"/></e>
+    <e lm="bezpečně"><i>bezpečně</i><par n="daleko__adv"/></e>
     <e lm="bespečně"><p><l>bespečněji</l><r>bespečně</r></p><par n="dál__adv"/></e>
     <e lm="bezplatné"><par n="né__adv"/><i>bezplatn</i><par n="nov/é__adj"/></e>
     <e lm="bezstarostné"><par n="né__adv"/><i>bezstarostn</i><par n="nov/é__adj"/></e>
@@ -64481,16 +64481,16 @@
     <e lm="bezdětné"><par n="né__adv"/><i>bezdětn</i><par n="nov/é__adj"/></e>
     <e lm="bezduvodné"><par n="né__adv"/><i>bezduvodn</i><par n="nov/é__adj"/></e>
     <e lm="bezesporô"><i>bezesporô</i><par n="tehdá__adv"/></e>
-    <e lm="bezmyšlenkovitě"><i>bezmyšlenkovitě</i><par n="daleko__adv"/></e>
+    <e lm="bezmêšlenkovitě"><i>bezmêšlenkovitě</i><par n="daleko__adv"/></e>
     <e lm="bezmyšlenkovitě"><p><l>bezmyšlenkovitěji</l><r>bezmyšlenkovitě</r></p><par n="dál__adv"/></e>
     <e lm="bezohledné"><par n="né__adv"/><i>bezohledn</i><par n="nov/é__adj"/></e>
     <e lm="bezolovnaté"><par n="né__adv"/><i>bezolovnat</i><par n="nov/é__adj"/></e>
-    <e lm="bezprostředně"><i>bezprostředně</i><par n="daleko__adv"/></e>
+    <e lm="bezprostřeďně"><i>bezprostřeďně</i><par n="daleko__adv"/></e>
     <e lm="bezprostředně"><p><l>bezprostředněji</l><r>bezprostředně</r></p><par n="dál__adv"/></e>
     <e lm="bezradné"><par n="né__adv"/><i>bezradn</i><par n="nov/é__adj"/></e>
     <e lm="bezôzdné"><par n="né__adv"/><i>bezôzdn</i><par n="nov/é__adj"/></e>
     <e lm="bezvadné"><par n="né__adv"/><i>bezvadn</i><par n="nov/é__adj"/></e>
-    <e lm="bezvadně"><i>bezvadně</i><par n="daleko__adv"/></e>
+    <e lm="bezvaďně"><i>bezvaďně</i><par n="daleko__adv"/></e>
     <e lm="bezvadně"><p><l>bezvadněji</l><r>bezvadně</r></p><par n="dál__adv"/></e>
     <e lm="bezvládné"><par n="né__adv"/><i>bezvládn</i><par n="nov/é__adj"/></e>
     <e lm="bezúhonný"><par n="né__adv"/><i>bezúhonn</i><par n="nov/ý__adj"/></e>
@@ -64568,7 +64568,7 @@
     <e lm="zemákové"><par n="né__adv"/><i>zemákov</i><par n="nov/é__adj"/></e>
 
 	<!-- Synthetic adverbs -->
-    <e lm="chladně"><i>chladně</i><par n="daleko__adv"/></e>
+    <e lm="chlaďně"><i>chlaďně</i><par n="daleko__adv"/></e>
     <e lm="chladně"><p><l>chladněji</l><r>chladně</r></p><par n="dál__adv"/></e>
     <e lm="chmurné"><par n="né__adv"/><i>chmurn</i><par n="nov/é__adj"/></e>
     <e lm="choroboplodné"><par n="né__adv"/><i>choroboplodn</i><par n="nov/é__adj"/></e>
@@ -64718,7 +64718,7 @@
     <e lm="dřiv"><p><l>dřiv</l><r>dřiv</r></p><par n="dál__adv"/></e>
     <e lm="duchodové"><par n="né__adv"/><i>duchodov</i><par n="nov/é__adj"/></e>
     <e lm="důkladný"><par n="né__adv"/><i>důkladn</i><par n="nov/ý__adj"/></e>
-    <e lm="důkladně"><i>důkladně</i><par n="daleko__adv"/></e>
+    <e lm="dukladně"><i>dukladně</i><par n="daleko__adv"/></e>
     <e lm="důkladně"><p><l>důkladněji</l><r>důkladně</r></p><par n="dál__adv"/></e>
     <e lm="duležité"><par n="né__adv"/><i>duležit</i><par n="nov/é__adj"/></e>
     <e lm="dustojné"><par n="né__adv"/><i>dustojn</i><par n="nov/é__adj"/></e>
@@ -64905,14 +64905,14 @@
     <e lm="hořlavé"><par n="né__adv"/><i>hořlav</i><par n="nov/é__adj"/></e>
     <e lm="hořký"><par n="né__adv"/><p><l>hořčejš</l><r>hořký</r></p><par n="menš/í__adj"/></e>
     <e lm="hromadný"><par n="né__adv"/><i>hromadn</i><par n="nov/ý__adj"/></e>
-    <e lm="hrozivě"><i>hrozivě</i><par n="daleko__adv"/></e>
+    <e lm="hrozêvě"><i>hrozêvě</i><par n="daleko__adv"/></e>
     <e lm="hrozivě"><p><l>hrozivěji</l><r>hrozivě</r></p><par n="dál__adv"/></e>
     <e lm="hrozný"><par n="né__adv"/><i>hrozn</i><par n="nov/ý__adj"/></e>
     <e lm="hrubý"><par n="né__adv"/><p><l>hrubš</l><r>hrubý</r></p><par n="menš/í__adj"/></e>
     <e lm="huculský"><par n="né__adv"/><i>hucul</i><par n="če/ský__adj"/></e>
     <e lm="hudební"><par n="né__adv"/><i>hudebn</i><par n="finančn/í__adj"/></e>
     <e lm="hôsté"><par n="né__adv"/><i>hôst</i><par n="nov/é__adj"/></e>
-    <e lm="hustě"><i>hustě</i><par n="daleko__adv"/></e>
+    <e lm="hôstě"><i>hôstě</i><par n="daleko__adv"/></e>
     <e lm="hustě"><p><l>hustěji</l><r>hustě</r></p><par n="dál__adv"/></e>
     <e lm="vězdicové"><par n="né__adv"/><i>vězdicov</i><par n="nov/é__adj"/></e>
     <e lm="vězdné"><par n="né__adv"/><i>vězdn</i><par n="nov/é__adj"/></e>
@@ -64924,7 +64924,7 @@
     <e lm="idejalestické"><par n="né__adv"/><i>idejalesti</i><par n="haná/cké__adj"/></e>
     <e lm="identický"><par n="né__adv"/><i>identi</i><par n="exotermi/cký__adj"/></e>
     <e lm="idejológické"><par n="né__adv"/><i>idejológi</i><par n="haná/cké__adj"/></e>
-    <e lm="ideově"><i>ideově</i><par n="daleko__adv"/></e>
+    <e lm="idejově"><i>idejově</i><par n="daleko__adv"/></e>
     <e lm="ideově"><p><l>ideověji</l><r>ideově</r></p><par n="dál__adv"/></e>
     <e lm="idejálni"><par n="né__adv"/><i>idejáln</i><par n="dnešn/i__adj"/></e>
     <e lm="hneď"><i>hneď</i><par n="tehdá__adv"/></e>
@@ -65086,7 +65086,7 @@
     <e lm="kompatibilní"><par n="né__adv"/><i>kompatibiln</i><par n="finančn/í__adj"/></e>
     <e lm="kompetentní"><par n="né__adv"/><i>kompetentn</i><par n="finančn/í__adj"/></e>
     <e lm="kompleťni"><par n="né__adv"/><i>kompleťn</i><par n="dnešn/i__adj"/></e>
-    <e lm="kompletně"><i>kompletně</i><par n="daleko__adv"/></e>
+    <e lm="kompleťně"><i>kompleťně</i><par n="daleko__adv"/></e>
     <e lm="kompletně"><p><l>kompletněji</l><r>kompletně</r></p><par n="dál__adv"/></e>
     <e lm="komplexni"><par n="né__adv"/><i>komplexn</i><par n="dnešn/i__adj"/></e>
     <e lm="kompromisni"><par n="né__adv"/><i>kompromisn</i><par n="dnešn/i__adj"/></e>
@@ -65385,7 +65385,7 @@
     <e r="LR" lm="muzejní"><par n="né__adv"/><p><l>musejn</l><r>muzejn</r></p><par n="finančn/í__adj"/></e>
     <e lm="muzejni"><par n="né__adv"/><i>muzejn</i><par n="dnešn/i__adj"/></e>
     <e lm="mužský"><par n="né__adv"/><i>muž</i><par n="če/ský__adj"/></e>
-    <e lm="mužně"><i>mužně</i><par n="daleko__adv"/></e>
+    <e lm="môžně"><i>môžně</i><par n="daleko__adv"/></e>
     <e lm="mužně"><p><l>mužněji</l><r>mužně</r></p><par n="dál__adv"/></e>
     <e lm="mylný"><par n="né__adv"/><i>myln</i><par n="nov/ý__adj"/></e>
     <e lm="mystický"><par n="né__adv"/><i>mysti</i><par n="exotermi/cký__adj"/></e>
@@ -65402,7 +65402,7 @@
     <e lm="měné"><par n="né__adv"/><i>měn</i><par n="nov/é__adj"/></e>
     <e lm="měnové"><par n="né__adv"/><i>měnov</i><par n="nov/é__adj"/></e>
     <e lm="městské"><par n="né__adv"/><i>měst</i><par n="morav/ské__adj"/></e>
-    <e lm="měsíčně"><i>měsíčně</i><par n="daleko__adv"/></e>
+    <e lm="měsičně"><i>měsičně</i><par n="daleko__adv"/></e>
     <e lm="měsíčně"><p><l>měsíčněji</l><r>měsíčně</r></p><par n="dál__adv"/></e>
     <e lm="měřêtelné"><par n="né__adv"/><i>měřêteln</i><par n="nov/é__adj"/></e>
     <e lm="na druhé straně"><i>na<b/>druhé<b/>straně</i><par n="tehdá__adv"/></e>
@@ -65581,7 +65581,7 @@
     <e lm="neodvratně"><i>neodvratně</i><par n="daleko__adv"/></e>
     <e lm="neodvratně"><p><l>neodvratněji</l><r>neodvratně</r></p><par n="dál__adv"/></e>
     <e lm="neomalený"><par n="né__adv"/><i>neomalen</i><par n="nov/ý__adj"/></e>
-    <e lm="neomylně"><i>neomylně</i><par n="daleko__adv"/></e>
+    <e lm="neomêlně"><i>neomêlně</i><par n="daleko__adv"/></e>
     <e lm="neomylně"><p><l>neomylněji</l><r>neomylně</r></p><par n="dál__adv"/></e>
     <e lm="neónové"><par n="né__adv"/><i>neónov</i><par n="nov/é__adj"/></e>
     <e lm="neposedný"><par n="né__adv"/><i>neposedn</i><par n="nov/ý__adj"/></e>
@@ -65647,7 +65647,7 @@
     <e lm="obnovitelné"><par n="né__adv"/><i>obnoviteln</i><par n="nov/é__adj"/></e>
     <e lm="obodritský"><par n="né__adv"/><i>obodrit</i><par n="če/ský__adj"/></e>
     <e lm="obósměrné"><par n="né__adv"/><i>obósměrn</i><par n="nov/é__adj"/></e>
-    <e lm="oboustranně"><i>oboustranně</i><par n="daleko__adv"/></e>
+    <e lm="obóstraně"><i>obóstraně</i><par n="daleko__adv"/></e>
     <e lm="oboustranně"><p><l>oboustranněji</l><r>oboustranně</r></p><par n="dál__adv"/></e>
     <e lm="obranný"><par n="né__adv"/><i>obrann</i><par n="nov/ý__adj"/></e>
     <e lm="obratný"><par n="né__adv"/><i>obratn</i><par n="nov/ý__adj"/></e>
@@ -65666,7 +65666,7 @@
     <e lm="občasný"><par n="né__adv"/><i>občasn</i><par n="nov/ý__adj"/></e>
     <e lm="obřadně"><i>obřadně</i><par n="daleko__adv"/></e>
     <e lm="obřadně"><p><l>obřadněji</l><r>obřadně</r></p><par n="dál__adv"/></e>
-    <e lm="obšírně"><i>obšírně</i><par n="daleko__adv"/></e>
+    <e lm="obširně"><i>obširně</i><par n="daleko__adv"/></e>
     <e lm="obšírně"><p><l>obšírněji</l><r>obšírně</r></p><par n="dál__adv"/></e>
     <e lm="obžalovaný"><par n="né__adv"/><i>obžalovan</i><par n="nov/ý__adj"/></e>
     <e lm="ocelové"><par n="né__adv"/><i>ocelov</i><par n="nov/é__adj"/></e>
@@ -65696,7 +65696,7 @@
     <e lm="ohnivé"><par n="né__adv"/><i>ohniv</i><par n="nov/é__adj"/></e>
     <e lm="ohromný"><par n="né__adv"/><i>ohromn</i><par n="nov/ý__adj"/></e>
     <e lm="ohňové"><par n="né__adv"/><i>ohňov</i><par n="nov/é__adj"/></e>
-    <e lm="okamžitě"><i>okamžitě</i><par n="daleko__adv"/></e>
+    <e lm="okamžêtě"><i>okamžêtě</i><par n="daleko__adv"/></e>
     <e lm="okamžitě"><p><l>okamžitěji</l><r>okamžitě</r></p><par n="dál__adv"/></e>
     <e lm="okrajově"><i>okrajově</i><par n="daleko__adv"/></e>
     <e lm="okrajově"><p><l>okrajověji</l><r>okrajově</r></p><par n="dál__adv"/></e>
@@ -65706,7 +65706,7 @@
     <e lm="olověný"><par n="né__adv"/><i>olověn</i><par n="nov/ý__adj"/></e>
     <e lm="olympijský"><par n="né__adv"/><i>olympij</i><par n="če/ský__adj"/></e>
     <e lm="omylný"><par n="né__adv"/><i>omyln</i><par n="nov/ý__adj"/></e>
-    <e lm="omylně"><i>omylně</i><par n="daleko__adv"/></e>
+    <e lm="omêlně"><i>omêlně</i><par n="daleko__adv"/></e>
     <e lm="omylně"><p><l>omylněji</l><r>omylně</r></p><par n="dál__adv"/></e>
     <e lm="onak"><i>onak</i><par n="tehdá__adv"/></e>
     <e lm="ontologický"><par n="né__adv"/><i>ontologi</i><par n="exotermi/cký__adj"/></e>
@@ -65798,7 +65798,7 @@
     <e lm="pesimistický"><par n="né__adv"/><i>pesimisti</i><par n="exotermi/cký__adj"/></e>
     <e lm="pestrý"><par n="né__adv"/><p><l>pestřejš</l><r>pestrý</r></p><par n="menš/í__adj"/></e>
     <e lm="petrolejový"><par n="né__adv"/><i>petrolejov</i><par n="nov/ý__adj"/></e>
-    <e lm="pečlivě"><i>pečlivě</i><par n="daleko__adv"/></e>
+    <e lm="pečlêvě"><i>pečlêvě</i><par n="daleko__adv"/></e>
     <e lm="pečlivě"><p><l>pečlivěji</l><r>pečlivě</r></p><par n="dál__adv"/></e>
     <e lm="piastovský"><par n="né__adv"/><i>piastov</i><par n="če/ský__adj"/></e>
     <e lm="pieninský"><par n="né__adv"/><i>pienin</i><par n="če/ský__adj"/></e>
@@ -65836,7 +65836,7 @@
     <e lm="poctivé"><par n="né__adv"/><i>poctiv</i><par n="nov/é__adj"/></e>
     <e lm="podařené"><par n="né__adv"/><i>podařen</i><par n="nov/é__adj"/></e>
     <e lm="podhalaňský"><par n="né__adv"/><i>podhalaň</i><par n="če/ský__adj"/></e>
-    <e lm="podle"><i>podle</i><par n="daleko__adv"/></e>
+    <e lm="podlivá"><i>podlivá</i><par n="daleko__adv"/></e>
     <e lm="podle"><p><l>podleji</l><r>podle</r></p><par n="dál__adv"/></e>
     <e lm="podmořský"><par n="né__adv"/><i>podmoř</i><par n="če/ský__adj"/></e>
     <e lm="podnikavý"><par n="né__adv"/><i>podnikav</i><par n="nov/ý__adj"/></e>
@@ -65888,7 +65888,7 @@
     <e lm="posmrtné"><par n="né__adv"/><i>posmrtn</i><par n="nov/é__adj"/></e>
     <e lm="pospolô"><i>pospolô</i><par n="tehdá__adv"/></e>
     <e lm="postmoderni"><par n="né__adv"/><i>postmodern</i><par n="dnešn/i__adj"/></e>
-    <e lm="postupně"><i>postupně</i><par n="daleko__adv"/></e>
+    <e lm="postôpně"><i>postôpně</i><par n="daleko__adv"/></e>
     <e lm="postupně"><p><l>postupněji</l><r>postupně</r></p><par n="dál__adv"/></e>
     <e lm="posuvný"><par n="né__adv"/><i>posuvn</i><par n="nov/ý__adj"/></e>
     <e lm="posvátný"><par n="né__adv"/><i>posvátn</i><par n="nov/ý__adj"/></e>
@@ -65990,7 +65990,7 @@
     <e lm="pákistánský"><par n="né__adv"/><i>pákistán</i><par n="če/ský__adj"/></e>
     <e lm="pánský"><par n="né__adv"/><i>pán</i><par n="če/ský__adj"/></e>
     <e lm="pásový"><par n="né__adv"/><i>pásov</i><par n="nov/ý__adj"/></e>
-    <e lm="písemně"><i>písemně</i><par n="daleko__adv"/></e>
+    <e lm="pisemně"><i>pisemně</i><par n="daleko__adv"/></e>
     <e lm="písemně"><p><l>písemněji</l><r>písemně</r></p><par n="dál__adv"/></e>
     <e lm="písečný"><par n="né__adv"/><i>písečn</i><par n="nov/ý__adj"/></e>
     <e lm="pískovcový"><par n="né__adv"/><i>pískovcov</i><par n="nov/ý__adj"/></e>
@@ -66021,7 +66021,7 @@
     <e lm="příjezdový"><par n="né__adv"/><i>příjezdov</i><par n="nov/ý__adj"/></e>
     <e lm="přikladné"><par n="né__adv"/><i>přikladn</i><par n="nov/é__adj"/></e>
     <e lm="příkrý"><par n="né__adv"/><p><l>příkřejš</l><r>příkrý</r></p><par n="menš/í__adj"/></e>
-    <e lm="přímo"><i>přímo</i><par n="daleko__adv"/></e>
+    <e lm="přimo"><i>přimo</i><par n="daleko__adv"/></e>
     <e lm="přimořské"><par n="né__adv"/><i>přimoř</i><par n="morav/ské__adj"/></e>
     <e lm="přímo"><p><l>příměji</l><r>přímo</r></p><par n="dál__adv"/></e>
     <e lm="přípravný"><par n="né__adv"/><i>přípravn</i><par n="nov/ý__adj"/></e>
@@ -66036,7 +66036,7 @@
     <e lm="půvabný"><par n="né__adv"/><i>půvabn</i><par n="nov/ý__adj"/></e>
     <e lm="původní"><par n="né__adv"/><i>původn</i><par n="finančn/í__adj"/></e>
     <e lm="racionální"><par n="né__adv"/><i>racionáln</i><par n="finančn/í__adj"/></e>
-    <e lm="racionálně"><i>racionálně</i><par n="daleko__adv"/></e>
+    <e lm="racijonálně"><i>racijonálně</i><par n="daleko__adv"/></e>
     <e lm="racionálně"><p><l>racionálněji</l><r>racionálně</r></p><par n="dál__adv"/></e>
     <e lm="radikální"><par n="né__adv"/><i>radikáln</i><par n="finančn/í__adj"/></e>
     <e lm="radioaktivní"><par n="né__adv"/><i>radioaktivn</i><par n="finančn/í__adj"/></e>
@@ -66166,7 +66166,7 @@
     <e lm="slzný"><par n="né__adv"/><i>slzn</i><par n="nov/ý__adj"/></e>
     <e lm="smrtelné"><par n="né__adv"/><i>smrteln</i><par n="nov/é__adj"/></e>
     <e lm="smôtné"><par n="né__adv"/><i>smôtn</i><par n="nov/é__adj"/></e>
-    <e lm="smoťně"><i>smoťně</i><par n="daleko__adv"/></e>
+    <e lm="smôťně"><i>smôťně</i><par n="daleko__adv"/></e>
     <e lm="smoťně"><p><l>smoťněji</l><r>smoťně</r></p><par n="dál__adv"/></e>
     <e lm="smyčcový"><par n="né__adv"/><i>smyčcov</i><par n="nov/ý__adj"/></e>
     <e lm="smíšený"><par n="né__adv"/><i>smíšen</i><par n="nov/ý__adj"/></e>
@@ -66417,7 +66417,7 @@
     <e lm="uruguayský"><par n="né__adv"/><i>uruguay</i><par n="če/ský__adj"/></e>
     <e lm="urychlený"><par n="né__adv"/><i>urychlen</i><par n="nov/ý__adj"/></e>
     <e lm="uspokojivý"><par n="né__adv"/><i>uspokojiv</i><par n="nov/ý__adj"/></e>
-    <e lm="ostavičně"><i>ostavičně</i><par n="daleko__adv"/></e>
+    <e lm="ôstavičně"><i>ôstavičně</i><par n="daleko__adv"/></e>
     <e lm="ostavičně"><p><l>ostavičněji</l><r>ostavičně</r></p><par n="dál__adv"/></e>
     <e lm="ustrašený"><par n="né__adv"/><i>ustrašen</i><par n="nov/ý__adj"/></e>
     <e lm="utopický"><par n="né__adv"/><i>utopi</i><par n="exotermi/cký__adj"/></e>
@@ -66517,7 +66517,7 @@
     <e lm="včêl"><i>včêl</i><par n="tehdá__adv"/></e>
     <e lm="vídeňský"><par n="né__adv"/><i>vídeň</i><par n="če/ský__adj"/></e>
     <e lm="víkendový"><par n="né__adv"/><i>víkendov</i><par n="cel/ý__adj"/></e>
-    <e lm="vítězoslavně"><i>vítězoslavně</i><par n="daleko__adv"/></e>
+    <e lm="vitězoslavně"><i>vitězoslavně</i><par n="daleko__adv"/></e>
     <e lm="vítězoslavně"><p><l>vítězoslavněji</l><r>vítězoslavně</r></p><par n="dál__adv"/></e>
     <e lm="vébušné"><par n="né__adv"/><i>vébušn</i><par n="nov/é__adj"/></e>
     <e lm="véchoďni"><par n="né__adv"/><i>véchoďn</i><par n="dnešn/i__adj"/></e>
@@ -66595,7 +66595,7 @@
     <e lm="ziskové"><par n="né__adv"/><i>ziskov</i><par n="nov/é__adj"/></e>
     <e lm="zlášč"><i>zlášč</i><par n="tehdá__adv"/></e>
     <e lm="zlověstný"><par n="né__adv"/><i>zlověstn</i><par n="nov/ý__adj"/></e>
-    <e lm="zlověstně"><i>zlověstně</i><par n="daleko__adv"/></e>
+    <e lm="zlověsťně"><i>zlověsťně</i><par n="daleko__adv"/></e>
     <e lm="zlověstně"><p><l>zlověstněji</l><r>zlověstně</r></p><par n="dál__adv"/></e>
     <e r="LR" lm="zlověstný"><par n="né__adv"/><p><l>zlozvěstn</l><r>zlověstn</r></p><par n="nov/ý__adj"/></e>
     <e lm="zmatené"><par n="né__adv"/><i>zmaten</i><par n="nov/é__adj"/></e>
@@ -66635,7 +66635,7 @@
     <e lm="zápaďni"><par n="né__adv"/><i>zápaďn</i><par n="dnešn/i__adj"/></e>
     <e lm="zárodečný"><par n="né__adv"/><i>zárodečn</i><par n="nov/ý__adj"/></e>
     <e lm="zároveň"><i>zároveň</i><par n="tehdá__adv"/></e>
-    <e lm="zásadně"><i>zásadně</i><par n="daleko__adv"/></e>
+    <e lm="zásaďně"><i>zásaďně</i><par n="daleko__adv"/></e>
     <e lm="zásadně"><p><l>zásadněji</l><r>zásadně</r></p><par n="dál__adv"/></e>
     <e lm="závislé"><par n="né__adv"/><i>závisl</i><par n="mal/é__adj"/></e>
     <e r="LR" lm="závislý"><par n="né__adv"/><p><l>závisn</l><r>závisl</r></p><par n="nov/ý__adj"/></e>
@@ -66657,7 +66657,7 @@
     <e lm="ónosné"><par n="né__adv"/><i>ónosn</i><par n="nov/é__adj"/></e>
     <e lm="úplatný"><par n="né__adv"/><i>úplatn</i><par n="nov/ý__adj"/></e>
     <e lm="óplné"><par n="né__adv"/><i>ópln</i><par n="nov/é__adj"/></e>
-    <e lm="úplně"><i>úplně</i><par n="daleko__adv"/></e>
+    <e lm="óplně"><i>óplně</i><par n="daleko__adv"/></e>
     <e lm="úplně"><p><l>úplněji</l><r>úplně</r></p><par n="dál__adv"/></e>
     <e lm="órodné"><par n="né__adv"/><i>órodn</i><par n="nov/é__adj"/></e>
     <e lm="ústecký"><par n="né__adv"/><i>úste</i><par n="exotermi/cký__adj"/></e>
@@ -66675,7 +66675,7 @@
     <e lm="časně"><p><l>časněji</l><r>časně</r></p><par n="dál__adv"/></e>
     <e lm="časovaný"><par n="né__adv"/><i>časovan</i><par n="nov/ý__adj"/></e>
     <e lm="časté"><par n="né__adv"/><i>čast</i><par n="nov/é__adj"/></e>
-    <e lm="často"><i>často</i><par n="daleko__adv"/></e>
+    <e lm="zhôsta"><i>zhôsta</i><par n="daleko__adv"/></e>
     <e lm="často"><p><l>častěji</l><r>často</r></p><par n="dál__adv"/></e>
     <e lm="české"><par n="né__adv"/><i>če</i><par n="morav/ské__adj"/></e>
     <e lm="čekaně"><i>čekaně</i><par n="daleko__adv"/></e>
@@ -66718,7 +66718,7 @@
     <e lm="šlechtické"><par n="né__adv"/><i>šlechti</i><par n="haná/cké__adj"/></e>
     <e lm="španělský"><par n="né__adv"/><i>španěl</i><par n="če/ský__adj"/></e>
     <e lm="špatné"><par n="né__adv"/><i>špatn</i><par n="nov/é__adj"/></e>
-    <e lm="špatně"><i>špatně</i><par n="daleko__adv"/></e>
+    <e lm="špaťně"><i>špaťně</i><par n="daleko__adv"/></e>
     <e lm="špatně"><p><l>špatněji</l><r>špatně</r></p><par n="dál__adv"/></e>
     <e lm="špinavé"><par n="né__adv"/><i>špinav</i><par n="nov/é__adj"/></e>
     <e lm="štědrý"><par n="né__adv"/><p><l>štědřejš</l><r>štědrý</r></p><par n="menš/í__adj"/></e>
@@ -66737,7 +66737,7 @@
     <e lm="židovský"><par n="né__adv"/><i>židov</i><par n="če/ský__adj"/></e>
     <e lm="žilinský"><par n="né__adv"/><i>žilin</i><par n="če/ský__adj"/></e>
     <e lm="žêvé"><par n="né__adv"/><i>žêv</i><par n="nov/é__adj"/></e>
-    <e lm="živelně"><i>živelně</i><par n="daleko__adv"/></e>
+    <e lm="žêvelně"><i>žêvelně</i><par n="daleko__adv"/></e>
     <e lm="živelně"><p><l>živelněji</l><r>živelně</r></p><par n="dál__adv"/></e>
     <e lm="žêvotné"><par n="né__adv"/><i>žêvotn</i><par n="nov/é__adj"/></e>
     <e lm="žêvotodárné"><par n="né__adv"/><i>žêvotodárn</i><par n="nov/é__adj"/></e>
@@ -68955,6 +68955,7 @@
   -->
 
   <!-- additional words
+    <e lm="véznamně"><i>véznamně</i><par n="daleko__adv"/></e>
     <e lm="óčeťnictvi"><i>óčeťnictvi</i><par n="hospodářstvi__n"/></e>
     <e lm="sték"><i>sté</i><par n="ro/k__n"/></e>
     <e lm="vémlôva"><i>vémlôv</i><par n="rêb/a__n"/></e>
