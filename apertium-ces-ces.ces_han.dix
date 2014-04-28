@@ -1851,7 +1851,7 @@
 
     <e>
       <p>
-        <l>ňa</l>
+        <l>ni</l>
         <r>ni<s n="n"/><s n="nt"/><s n="pl"/><s n="nom"/></r>
       </p>
     </e>
@@ -1872,7 +1872,7 @@
 
     <e>
       <p>
-        <l>ň</l>
+        <l>ni</l>
         <r>ni<s n="n"/><s n="nt"/><s n="pl"/><s n="gen"/></r>
       </p>
     </e>
@@ -1893,7 +1893,7 @@
 
     <e>
       <p>
-        <l>ňam</l>
+        <l>nim</l>
         <r>ni<s n="n"/><s n="nt"/><s n="pl"/><s n="dat"/></r>
       </p>
     </e>
@@ -1914,7 +1914,7 @@
 
     <e>
       <p>
-        <l>ňa</l>
+        <l>ni</l>
         <r>ni<s n="n"/><s n="nt"/><s n="pl"/><s n="acc"/></r>
       </p>
     </e>
@@ -1928,7 +1928,7 @@
 
     <e>
       <p>
-        <l>ňa</l>
+        <l>ni</l>
         <r>ni<s n="n"/><s n="nt"/><s n="pl"/><s n="voc"/></r>
       </p>
     </e>
@@ -1942,14 +1942,14 @@
 
     <e r="LR">
       <p>
-        <l>nich</l>
+        <l>ňách</l>
         <r>ni<s n="n"/><s n="nt"/><s n="pl"/><s n="loc"/></r>
       </p>
     </e>
 
     <e>
       <p>
-        <l>ňách</l>
+        <l>nich</l>
         <r>ni<s n="n"/><s n="nt"/><s n="pl"/><s n="loc"/></r>
       </p>
     </e>
@@ -1963,7 +1963,7 @@
 
     <e>
       <p>
-        <l>ňama</l>
+        <l>nima</l>
         <r>ni<s n="n"/><s n="nt"/><s n="pl"/><s n="ins"/></r>
       </p>
     </e>
@@ -61093,7 +61093,7 @@
     <e lm="nebožtík"><i>nebožtí</i><par n="vl/k__n"/></e>
     <e lm="nedokonalost"><i>nedokonalost</i><par n="věc__n"/></e>
     <e lm="nedopalek"><i>nedopal</i><par n="rên/ek__n"/></e>
-    <e lm="nedopatření"><i>nedopatření</i><par n="hospodářství__n"/></e>
+    <e lm="nedopatřeni"><i>nedopatře</i><par n="stave/ni__n"/></e>
     <e lm="nedostatek"><i>nedostat</i><par n="rên/ek__n"/></e>
     <e lm="nedostupnost"><i>nedostupnost</i><par n="věc__n"/></e>
     <e lm="nedočkavost"><i>nedočkavost</i><par n="věc__n"/></e>
@@ -61277,7 +61277,7 @@
     <e lm="oblak"><i>obla</i><par n="bu/k__n"/></e>
     <e lm="oblast"><i>oblast</i><par n="věc__n"/></e>
     <e lm="obleček"><i>obleč</i><par n="rên/ek__n"/></e>
-    <e lm="obležení"><i>obležení</i><par n="hospodářství__n"/></e>
+    <e lm="obleženi"><i>obleže</i><par n="stave/ni__n"/></e>
     <e lm="obligace"><i>obligac</i><par n="alergi/e__n"/></e>
     <e lm="obličej"><i>obličej</i><par n="keř__n"/></e>
     <e lm="oblók"><i>obló</i><par n="ro/k__n"/></e>
@@ -61311,7 +61311,7 @@
     <e lm="ocas"><i>ocas</i><par n="bor__n"/></e>
     <e lm="ocel"><i>ocel</i><par n="mříž__n"/></e>
     <e lm="oceán"><i>oceán</i><par n="byt__n"/></e>
-    <e lm="ochlopeni"><i>ochlope</i><par n="stave/ni__n"/></e>
+    <e lm="ochlôpeni"><i>ochlôpe</i><par n="stave/ni__n"/></e>
     <e lm="ochota"><i>ochot</i><par n="rêb/a__n"/></e>
     <e lm="ochrana"><i>ochran</i><par n="rêb/a__n"/></e>
     <e lm="ochranka"><i>ochran</i><par n="dív/ka__n"/></e>
@@ -62539,7 +62539,7 @@
     <e lm="sebeorganizace"><i>sebeorganizac</i><par n="alergi/e__n"/></e>
     <e lm="seberealizace"><i>seberealizac</i><par n="alergi/e__n"/></e>
     <e lm="sebevražda"><i>sebevražd</i><par n="rêb/a__n"/></e>
-    <e lm="sebezapření"><i>sebezapření</i><par n="hospodářství__n"/></e>
+    <e lm="sebezapřeni"><i>sebezapře</i><par n="stave/ni__n"/></e>
     <e lm="secese"><i>seces</i><par n="alergi/e__n"/></e>
     <e lm="sedlo"><i>sed</i><par n="más/lo__n"/></e>
     <e lm="sedadlo"><i>sedad</i><par n="más/lo__n"/></e>
@@ -62801,7 +62801,7 @@
     <e lm="spánek"><i>spán</i><par n="rên/ek__n"/></e>
     <e lm="spása"><i>spás</i><par n="kabel/a__n"/></e>
     <e lm="spínač"><i>spínač</i><par n="keř__n"/></e>
-    <e lm="spřežení"><i>spřežení</i><par n="hospodářství__n"/></e>
+    <e lm="spřeženi"><i>spřeže</i><par n="stave/ni__n"/></e>
     <e lm="sračka"><i>srač</i><par n="srač/ka__n"/></e>
     <e lm="srnka"><i>srn</i><par n="dív/ka__n"/></e>
     <e lm="srozumitelnost"><i>srozumitelnost</i><par n="věc__n"/></e>
@@ -63314,7 +63314,7 @@
     <e lm="vařečka"><i>vařeč</i><par n="dív/ka__n"/></e>
     <e lm="vdova"><i>vdov</i><par n="rêb/a__n"/></e>
     <e lm="vděčnost"><i>vděčnost</i><par n="věc__n"/></e>
-    <e lm="vedení"><i>vedení</i><par n="hospodářství__n"/></e>
+    <e lm="vedeni"><i>vede</i><par n="stave/ni__n"/></e>
     <e lm="vegetace"><i>vegetac</i><par n="alergi/e__n"/></e>
     <e lm="vegetarián"><i>vegetarián</i><par n="man__n"/></e>
     <e lm="vektor"><i>vektor</i><par n="bor__n"/></e>
@@ -63581,7 +63581,7 @@
     <e lm="věta"><i>vět</i><par n="rêb/a__n"/></e>
     <e lm="větřík"><i>větří</i><par n="ro/k__n"/></e>
     <e lm="věčêna"><i>věčên</i><par n="rêb/a__n"/></e>
-    <e lm="vězení"><i>vězení</i><par n="hospodářství__n"/></e>
+    <e lm="vězeni"><i>věze</i><par n="stave/ni__n"/></e>
     <e lm="věznica"><i>věznic</i><par n="bečêc/a__n"/></e>
     <e lm="věčnost"><i>věčnost</i><par n="věc__n"/></e>
     <e lm="věž"><i>věž</i><par n="mříž__n"/></e>
@@ -68984,6 +68984,65 @@
   -->
 
   <!-- additional words
+    <e lm="pokóšeni"><i>pokóše</i><par n="stave/ni__n"/></e>
+    <e lm="seskôpeni"><i>seskôpe</i><par n="stave/ni__n"/></e>
+    <e lm="navéšeni"><i>navéše</i><par n="stave/ni__n"/></e>
+    <e lm="chlôbeni"><i>chlôbe</i><par n="stave/ni__n"/></e>
+    <e lm="vtěleni"><i>vtěle</i><par n="stave/ni__n"/></e>
+    <e lm="sbliženi"><i>sbliže</i><par n="stave/ni__n"/></e>
+    <e lm="potvrzeni"><i>potvrze</i><par n="stave/ni__n"/></e>
+    <e lm="snášeni"><i>snáše</i><par n="stave/ni__n"/></e>
+    <e lm="posileni"><i>posile</i><par n="stave/ni__n"/></e>
+    <e lm="ôpáleni"><i>ôpále</i><par n="stave/ni__n"/></e>
+    <e lm="přetiženi"><i>přetiže</i><par n="stave/ni__n"/></e>
+    <e lm="přêhlášeni"><i>přêhláše</i><par n="stave/ni__n"/></e>
+    <e lm="zuženi"><i>zuže</i><par n="stave/ni__n"/></e>
+    <e lm="vzkřišeni"><i>vzkřiše</i><par n="stave/ni__n"/></e>
+    <e lm="zakřêveni"><i>zakřêve</i><par n="stave/ni__n"/></e>
+    <e lm="vêlepšeni"><i>vêlepše</i><par n="stave/ni__n"/></e>
+    <e lm="pářeni"><i>páře</i><par n="stave/ni__n"/></e>
+    <e lm="překročeni"><i>překroče</i><par n="stave/ni__n"/></e>
+    <e lm="sezeni"><i>seze</i><par n="stave/ni__n"/></e>
+    <e lm="zdlóženi"><i>zdlóže</i><par n="stave/ni__n"/></e>
+    <e lm="zbrojeni"><i>zbroje</i><par n="stave/ni__n"/></e>
+    <e lm="poôčeni"><i>poôče</i><par n="stave/ni__n"/></e>
+    <e lm="poškozeni"><i>poškoze</i><par n="stave/ni__n"/></e>
+    <e lm="svoleni"><i>svole</i><par n="stave/ni__n"/></e>
+    <e lm="přerôšeni"><i>přerôše</i><par n="stave/ni__n"/></e>
+    <e lm="zvéšeni"><i>zvéše</i><par n="stave/ni__n"/></e>
+    <e lm="vêtrženi"><i>vêtrže</i><par n="stave/ni__n"/></e>
+    <e lm="vêtyčeni"><i>vêtyče</i><par n="stave/ni__n"/></e>
+    <e lm="přêpojeni"><i>přêpoje</i><par n="stave/ni__n"/></e>
+    <e lm="přetečeni"><i>přeteče</i><par n="stave/ni__n"/></e>
+    <e lm="óročeni"><i>óroče</i><par n="stave/ni__n"/></e>
+    <e lm="třeni"><i>tře</i><par n="stave/ni__n"/></e>
+    <e lm="poniženi"><i>poniže</i><par n="stave/ni__n"/></e>
+    <e lm="pôstošeni"><i>pôstoše</i><par n="stave/ni__n"/></e>
+    <e lm="vêkolejeni"><i>vêkoleje</i><par n="stave/ni__n"/></e>
+    <e lm="ochlazeni"><i>ochlaze</i><par n="stave/ni__n"/></e>
+    <e lm="přestrojeni"><i>přestroje</i><par n="stave/ni__n"/></e>
+    <e lm="spláceni"><i>spláce</i><par n="stave/ni__n"/></e>
+    <e lm="předzesileni"><i>předzesile</i><par n="stave/ni__n"/></e>
+    <e lm="vêsidleni"><i>vêsidle</i><par n="stave/ni__n"/></e>
+    <e lm="nastaveni"><i>nastave</i><par n="stave/ni__n"/></e>
+    <e lm="sebeôpáleni"><i>sebeôpále</i><par n="stave/ni__n"/></e>
+    <e lm="povoleni"><i>povole</i><par n="stave/ni__n"/></e>
+    <e lm="vêhlášeni"><i>vêhláše</i><par n="stave/ni__n"/></e>
+    <e lm="hóbařeni"><i>hóbaře</i><par n="stave/ni__n"/></e>
+    <e lm="vêstópeni"><i>vêstópe</i><par n="stave/ni__n"/></e>
+    <e lm="nasêceni"><i>nasêce</i><par n="stave/ni__n"/></e>
+    <e lm="pochopeni"><i>pochope</i><par n="stave/ni__n"/></e>
+    <e lm="odcêzeni"><i>odcêze</i><par n="stave/ni__n"/></e>
+    <e lm="hnojeni"><i>hnoje</i><par n="stave/ni__n"/></e>
+    <e lm="zjeveni"><i>zjeve</i><par n="stave/ni__n"/></e>
+    <e lm="osvobozeni"><i>osvoboze</i><par n="stave/ni__n"/></e>
+    <e lm="ôsneseni"><i>ôsnese</i><par n="stave/ni__n"/></e>
+    <e lm="kvašeni"><i>kvaše</i><par n="stave/ni__n"/></e>
+    <e lm="zapřeni"><i>zapře</i><par n="stave/ni__n"/></e>
+    <e lm="krváceni"><i>krváce</i><par n="stave/ni__n"/></e>
+    <e lm="ověřeni"><i>ověře</i><par n="stave/ni__n"/></e>
+    <e lm="zesileni"><i>zesile</i><par n="stave/ni__n"/></e>
+    <e lm="osvojeni"><i>osvoje</i><par n="stave/ni__n"/></e>
     <e lm="véznamně"><i>véznamně</i><par n="daleko__adv"/></e>
     <e lm="óčeťnictvi"><i>óčeťnictvi</i><par n="hospodářstvi__n"/></e>
     <e lm="sték"><i>sté</i><par n="ro/k__n"/></e>
