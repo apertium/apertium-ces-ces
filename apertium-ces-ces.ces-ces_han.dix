@@ -5190,7 +5190,7 @@
 		<e><p><l>rolník<s n="n"/><s n="ma"/></l><r>rolnik<s n="n"/><s n="ma"/></r></p></e>
 		<e><p><l>zemědělec<s n="n"/><s n="ma"/></l><r>zemnědělec<s n="n"/><s n="ma"/></r></p></e>
 		<e><p><l>vegetace<s n="n"/><s n="f"/></l><r>vegetace<s n="n"/><s n="f"/></r></p></e>
-		<e><p><l>kolo<s n="n"/><s n="mi"/></l><r>kolo<s n="n"/><s n="mi"/></r></p></e>
+		<e><p><l>kolo<s n="n"/><s n="nt"/></l><r>kolo<s n="n"/><s n="nt"/></r></p></e>
 		<e><p><l>kapitola<s n="n"/><s n="mi"/></l><r>kapitola<s n="n"/><s n="mi"/></r></p></e>
 		<e><p><l>věhlas<s n="n"/><s n="mi"/></l><r>věhlas<s n="n"/><s n="mi"/></r></p></e>
 		<e r="LR"><p><l>pokyn<s n="n"/><s n="mi"/></l><r>pokyn<s n="n"/><s n="mi"/></r></p></e>
@@ -8005,7 +8005,7 @@
 		<e><p><l>židle<s n="n"/><s n="nt"/></l><r>stolêca<s n="n"/><s n="nt"/></r></p></e>
 		<e><p><l>keř<s n="n"/><s n="mi"/></l><r>keř<s n="n"/><s n="mi"/></r></p></e>
 		<e><p><l>lanthan<s n="n"/><s n="mi"/></l><r>lanthan<s n="n"/><s n="mi"/></r></p></e>
-		<e><p><l>léčivo<s n="n"/><s n="mi"/></l><r>léčivo<s n="n"/><s n="mi"/></r></p></e>
+		<e><p><l>léčivo<s n="n"/><s n="nt"/></l><r>léčivo<s n="n"/><s n="nt"/></r></p></e>
 		<e><p><l>písmeno<s n="n"/><s n="f"/></l><r>pismeno<s n="n"/><s n="f"/></r></p></e>
 		<e><p><l>lithium<s n="n"/><s n="mi"/></l><r>lithium<s n="n"/><s n="mi"/></r></p></e>
 		<e><p><l>zrcadlovka<s n="n"/><s n="f"/></l><r>zrcadlovka<s n="n"/><s n="f"/></r></p></e>
