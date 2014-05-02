@@ -1276,8 +1276,8 @@
 		<e><p><l>koželuh<s n="n"/><s n="ma"/></l><r>koželuh<s n="n"/><s n="ma"/></r></p></e>
 		<e><p><l>kvantifikátor<s n="n"/><s n="mi"/></l><r>kvantifikátor<s n="n"/><s n="mi"/></r></p></e>
 		<e><p><l>koupaliště<s n="n"/><s n="nt"/></l><r>koupaliště<s n="n"/><s n="nt"/></r></p></e>
-	<!-- @LF	<e><p><l>medyněk<s n="n"/><s n="f"/></l><r>medyněk<s n="n"/><s n="f"/></r></p></e> -->
-		<e><p><l>klusák<s n="n"/><s n="mi"/></l><r>klusák<s n="n"/><s n="mi"/></r></p></e>
+	<!-- @LF	<e><p><l>medyněk<s n="n"/><s n="mi"/></l><r>medyněk<s n="n"/><s n="mi"/></r></p></e> -->
+		<e><p><l>klusák<s n="n"/><s n="ma"/></l><r>klusák<s n="n"/><s n="ma"/></r></p></e>
 		<e><p><l>lambda<s n="n"/><s n="f"/></l><r>lambda<s n="n"/><s n="f"/></r></p></e>
 		<e><p><l>lití<s n="n"/><s n="nt"/></l><r>lití<s n="n"/><s n="nt"/></r></p></e>
 		<e><p><l>les<s n="n"/><s n="mi"/></l><r>les<s n="n"/><s n="mi"/></r></p></e>
@@ -1441,7 +1441,7 @@
 		<e><p><l>nopál<s n="n"/><s n="f"/></l><r>nopál<s n="n"/><s n="f"/></r></p></e>
 		<e><p><l>orchidea<s n="n"/><s n="f"/></l><r>orchidea<s n="n"/><s n="f"/></r></p></e>
 		<e><p><l>orchidej<s n="n"/><s n="f"/></l><r>orchidej<s n="n"/><s n="f"/></r></p></e>
-		<e><p><l>varhaník<s n="n"/><s n="ma"/></l><r>vrzánik<s n="n"/><s n="ma"/></r></p></e>
+		<e><p><l>varhaník<s n="n"/><s n="ma"/></l><r>varhanik<s n="n"/><s n="ma"/></r></p></e>
 	<!-- @LF	<e><p><l>hasivka<s n="n"/><s n="f"/></l><r>hasivka<s n="n"/><s n="f"/></r></p></e>
 		<e><p><l>ortodonce<s n="n"/><s n="f"/></l><r>ortodonce<s n="n"/><s n="f"/></r></p></e>
 		<e><p><l>ořešák<s n="n"/><s n="mi"/></l><r>ořešák<s n="n"/><s n="mi"/></r></p></e>
@@ -1472,7 +1472,7 @@
 		<e><p><l>mzda<s n="n"/><s n="f"/></l><r>mzda<s n="n"/><s n="f"/></r></p></e>
 		<e><p><l>penzionát<s n="n"/><s n="mi"/></l><r>penzionát<s n="n"/><s n="mi"/></r></p></e>
 		<e><p><l>periodikum<s n="n"/><s n="mi"/></l><r>periodikum<s n="n"/><s n="mi"/></r></p></e>
-		<e><p><l>bubeník<s n="n"/><s n="ma"/></l><r>bubeník<s n="n"/><s n="ma"/></r></p></e>
+		<e><p><l>bubeník<s n="n"/><s n="ma"/></l><r>bôbenik<s n="n"/><s n="ma"/></r></p></e>
 		<e><p><l>nástupiště<s n="n"/><s n="mi"/></l><r>nástopišťe<s n="n"/><s n="mi"/></r></p></e>
 		<e><p><l>pet<s n="n"/><s n="mi"/></l><r>pet<s n="n"/><s n="mi"/></r></p></e>
 		<e><p><l>pískoviště<s n="n"/><s n="f"/></l><r>pískoviště<s n="n"/><s n="f"/></r></p></e>
@@ -1843,8 +1843,8 @@
 		<e><p><l>čich<s n="n"/><s n="mi"/></l><r>čich<s n="n"/><s n="mi"/></r></p></e>
 		<e><p><l>textilnictví<s n="n"/><s n="nt"/></l><r>textilnictví<s n="n"/><s n="nt"/></r></p></e>
 		<e><p><l>fibrin<s n="n"/><s n="mi"/></l><r>fibrin<s n="n"/><s n="mi"/></r></p></e>
-		<e><p><l>obsah<s n="n"/><s n="nt"/></l><r>obsah<s n="n"/><s n="nt"/></r></p></e>
-		<e><p><l>zabiják<s n="n"/><s n="mi"/></l><r>zabiják<s n="n"/><s n="mi"/></r></p></e>
+		<e><p><l>obsah<s n="n"/><s n="mi"/></l><r>obsah<s n="n"/><s n="mi"/></r></p></e>
+		<e><p><l>zabiják<s n="n"/><s n="ma"/></l><r>zabiják<s n="n"/><s n="ma"/></r></p></e>
 		<e><p><l>porucha<s n="n"/><s n="nt"/></l><r>porocha<s n="n"/><s n="nt"/></r></p></e>
 		<!-- verb<e><p><l>zamračit<s n="n"/><s n="nt"/></l><r>zamračet<s n="n"/><s n="nt"/></r></p></e> -->
 		<e><p><l>zarudnutí<s n="n"/><s n="nt"/></l><r>zarudnutí<s n="n"/><s n="nt"/></r></p></e>
@@ -2850,7 +2850,7 @@
 		<e><p><l>dol<s n="n"/><s n="mi"/></l><r>dul<s n="n"/><s n="mi"/></r></p></e>
 		<e><p><l>dostup<s n="n"/><s n="mi"/></l><r>dostup<s n="n"/><s n="mi"/></r></p></e>
 		<e><p><l>draga<s n="n"/><s n="f"/></l><r>draga<s n="n"/><s n="f"/></r></p></e>
-		<e><p><l>dráteník<s n="n"/><s n="ma"/></l><r>dráteník<s n="n"/><s n="ma"/></r></p></e>
+		<e><p><l>dráteník<s n="n"/><s n="ma"/></l><r>drátenik<s n="n"/><s n="ma"/></r></p></e>
 		<e><p><l>dřevořez<s n="n"/><s n="mi"/></l><r>dřevořez<s n="n"/><s n="mi"/></r></p></e>
 		<e><p><l>drezína<s n="n"/><s n="f"/></l><r>drezina<s n="n"/><s n="f"/></r></p></e>
 		<e><p><l>drink<s n="n"/><s n="mi"/></l><r>drink<s n="n"/><s n="mi"/></r></p></e>
@@ -2907,7 +2907,7 @@
 		<e><p><l>kačer<s n="n"/><s n="ma"/></l><r>kačer<s n="n"/><s n="ma"/></r></p></e>
 		<e><p><l>kamenina<s n="n"/><s n="f"/></l><r>kamenina<s n="n"/><s n="f"/></r></p></e>
 		<e><p><l>kanárek<s n="n"/><s n="ma"/></l><r>kanárek<s n="n"/><s n="ma"/></r></p></e>
-		<e><p><l>kanovník<s n="n"/><s n="ma"/></l><r>kanovník<s n="n"/><s n="ma"/></r></p></e>
+		<e><p><l>kanovník<s n="n"/><s n="ma"/></l><r>kanovnik<s n="n"/><s n="ma"/></r></p></e>
 		<e><p><l>kapitulace<s n="n"/><s n="f"/></l><r>kapitolaca<s n="n"/><s n="f"/></r></p></e>
 		<e><p><l>karoten<s n="n"/><s n="mi"/></l><r>karoten<s n="n"/><s n="mi"/></r></p></e>
 		<e><p><l>kašmír<s n="n"/><s n="mi"/></l><r>kašmír<s n="n"/><s n="mi"/></r></p></e>
@@ -2951,7 +2951,7 @@
 		<e><p><l>laminát<s n="n"/><s n="mi"/></l><r>laminát<s n="n"/><s n="mi"/></r></p></e>
 		<e><p><l>lapidárium<s n="n"/><s n="nt"/></l><r>lapidárium<s n="n"/><s n="nt"/></r></p></e>
 		<e><p><l>lávka<s n="n"/><s n="f"/></l><r>lávka<s n="n"/><s n="f"/></r></p></e>
-		<e><p><l>lazebník<s n="n"/><s n="ma"/></l><r>lazebník<s n="n"/><s n="ma"/></r></p></e>
+		<e><p><l>lazebník<s n="n"/><s n="ma"/></l><r>lazebnik<s n="n"/><s n="ma"/></r></p></e>
 		<e><p><l>leasing<s n="n"/><s n="mi"/></l><r>leasing<s n="n"/><s n="mi"/></r></p></e>
 		<e><p><l>leknín<s n="n"/><s n="mi"/></l><r>leknín<s n="n"/><s n="mi"/></r></p></e>
 		<e><p><l>litografie<s n="n"/><s n="f"/></l><r>litografie<s n="n"/><s n="f"/></r></p></e>
@@ -3144,7 +3144,7 @@
 		<e><p><l>benediktin<s n="n"/><s n="ma"/></l><r>benediktin<s n="n"/><s n="ma"/></r></p></e>
 		<e><p><l>bernardýn<s n="n"/><s n="ma"/></l><r>bernardín<s n="n"/><s n="ma"/></r></p></e>
 		<e><p><l>znalec<s n="n"/><s n="ma"/></l><r>znalec<s n="n"/><s n="ma"/></r></p></e>
-		<e><p><l>chudák<s n="n"/><s n="ma"/></l><r>chudák<s n="n"/><s n="ma"/></r></p></e>
+		<e><p><l>chudák<s n="n"/><s n="ma"/></l><r>chôdák<s n="n"/><s n="ma"/></r></p></e>
 		<e c="mp-mi!wtf!"><p><l>biedermeier<s n="n"/><s n="mi"/></l><r>biedermeier<s n="n"/><s n="mi"/></r></p></e>
 		<e><p><l>bojar<s n="n"/><s n="ma"/></l><r>bojar<s n="n"/><s n="ma"/></r></p></e>
 		<e><p><l>bojovník<s n="n"/><s n="ma"/></l><r>bojovnik<s n="n"/><s n="ma"/></r></p></e>
@@ -3176,7 +3176,7 @@
 		<e><p><l>kanystr<s n="n"/><s n="mi"/></l><r>kanystr<s n="n"/><s n="mi"/></r></p></e>
 		<e><p><l>směnárna<s n="n"/><s n="mi"/></l><r>směnárna<s n="n"/><s n="mi"/></r></p></e>
 		<e><p><l>kaplan<s n="n"/><s n="ma"/></l><r>kaplan<s n="n"/><s n="ma"/></r></p></e>
-		<e><p><l>kapelník<s n="n"/><s n="ma"/></l><r>kapelník<s n="n"/><s n="ma"/></r></p></e>
+		<e><p><l>kapelník<s n="n"/><s n="ma"/></l><r>kapelnik<s n="n"/><s n="ma"/></r></p></e>
 		<e><p><l>karbon<s n="n"/><s n="mi"/></l><r>karbon<s n="n"/><s n="mi"/></r></p></e>
 		<e><p><l>kaštan<s n="n"/><s n="mi"/></l><r>kaštan<s n="n"/><s n="mi"/></r></p></e>
 		<e><p><l>katar<s n="n"/><s n="mi"/></l><r>katar<s n="n"/><s n="mi"/></r></p></e>
@@ -3186,7 +3186,7 @@
 		<e><p><l>kolos<s n="n"/><s n="ma"/></l><r>kolos<s n="n"/><s n="ma"/></r></p></e>
 		<e><p><l>korál<s n="n"/><s n="mi"/></l><r>korál<s n="n"/><s n="mi"/></r></p></e>
 		<e><p><l>ufon<s n="n"/><s n="ma"/></l><r>ufon<s n="n"/><s n="ma"/></r></p></e>
-		<e><p><l>králík<s n="n"/><s n="ma"/></l><r>králík<s n="n"/><s n="ma"/></r></p></e>
+		<e><p><l>králík<s n="n"/><s n="ma"/></l><r>králik<s n="n"/><s n="ma"/></r></p></e>
 		<e><p><l>kurzor<s n="n"/><s n="mi"/></l><r>kurzor<s n="n"/><s n="mi"/></r></p></e>
 		<e><p><l>mrzák<s n="n"/><s n="ma"/></l><r>mrzák<s n="n"/><s n="ma"/></r></p></e>
 		<e><p><l>manekýn<s n="n"/><s n="mi"/></l><r>manekýn<s n="n"/><s n="mi"/></r></p></e>
@@ -3210,15 +3210,15 @@
 		<e><p><l>pirueta<s n="n"/><s n="f"/></l><r>pirueta<s n="n"/><s n="f"/></r></p></e>
 		<e><p><l>náměstí<s n="n"/><s n="nt"/></l><r>náměsti<s n="n"/><s n="nt"/></r></p></e>
 		<e><p><l>plavec<s n="n"/><s n="ma"/></l><r>plavec<s n="n"/><s n="ma"/></r></p></e>
-		<e><p><l>pošťák<s n="n"/><s n="ma"/></l><r>pošťák<s n="n"/><s n="ma"/></r></p></e>
+		<e><p><l>pošťák<s n="n"/><s n="ma"/></l><r>pošmistr<s n="n"/><s n="ma"/></r></p></e>
 		<e><p><l>pokora<s n="n"/><s n="f"/></l><r>pokora<s n="n"/><s n="f"/></r></p></e>
-		<e><p><l>pomocník<s n="n"/><s n="ma"/></l><r>pomucnik<s n="n"/><s n="ma"/></r></p></e>
+		<e><p><l>pomocník<s n="n"/><s n="ma"/></l><r>pomocnik<s n="n"/><s n="ma"/></r></p></e>
 		<e><p><l>pop<s n="n"/><s n="mi"/></l><r>pop<s n="n"/><s n="mi"/></r></p></e>
 		<e><p><l>půst<s n="n"/><s n="mi"/></l><r>půst<s n="n"/><s n="mi"/></r></p></e>
 		<e><p><l>důvod<s n="n"/><s n="mi"/></l><r>duvod<s n="n"/><s n="mi"/></r></p></e>
 		<e c="mp-mi!wtf!"><p><l>převodník<s n="n"/><s n="mi"/></l><r>převodník<s n="n"/><s n="mi"/></r></p></e>
 		<e><p><l>případ<s n="n"/><s n="mi"/></l><r>případ<s n="n"/><s n="mi"/></r></p></e>
-		<e><p><l>poustevník<s n="n"/><s n="ma"/></l><r>poustevník<s n="n"/><s n="ma"/></r></p></e>
+		<e><p><l>poustevník<s n="n"/><s n="ma"/></l><r>póstevnik<s n="n"/><s n="ma"/></r></p></e>
 		<e><p><l>karcinom<s n="n"/><s n="mi"/></l><r>karcinom<s n="n"/><s n="mi"/></r></p></e>
 		<e><p><l>rak<s n="n"/><s n="ma"/></l><r>rak<s n="n"/><s n="ma"/></r></p></e>
 		<e><p><l>červ<s n="n"/><s n="ma"/></l><r>čerf<s n="n"/><s n="ma"/></r></p></e>
@@ -3351,14 +3351,14 @@
 		<e><p><l>diesel<s n="n"/><s n="mi"/></l><r>diesel<s n="n"/><s n="mi"/></r></p></e>
 		<e><p><l>dobrota<s n="n"/><s n="f"/></l><r>dobrota<s n="n"/><s n="f"/></r></p></e>
 		<e><p><l>dohled<s n="n"/><s n="mi"/></l><r>dohled<s n="n"/><s n="mi"/></r></p></e>
-		<e><p><l>služebník<s n="n"/><s n="m"/></l><r>služebník<s n="n"/><s n="m"/></r></p></e>
+		<e><p><l>služebník<s n="n"/><s n="m"/></l><r>slôžebnik<s n="n"/><s n="ma"/></r></p></e>
 		<e><p><l>dravec<s n="n"/><s n="ma"/></l><r>dravec<s n="n"/><s n="ma"/></r></p></e>
 		<e><p><l>cestář<s n="n"/><s n="ma"/></l><r>cestář<s n="n"/><s n="ma"/></r></p></e>
 		<e><p><l>silničář<s n="n"/><s n="ma"/></l><r>silničář<s n="n"/><s n="ma"/></r></p></e>
 		<e><p><l>drozd<s n="n"/><s n="ma"/></l><r>drozd<s n="n"/><s n="ma"/></r></p></e>
 		<e><p><l>dabing<s n="n"/><s n="mi"/></l><r>dabing<s n="n"/><s n="mi"/></r></p></e>
 		<e><p><l>nádraží<s n="n"/><s n="nt"/></l><r>nádraži<s n="n"/><s n="nt"/></r></p></e>
-		<e><p><l>obojživelník<s n="n"/><s n="ma"/></l><r>obojživelník<s n="n"/><s n="ma"/></r></p></e>
+		<e><p><l>obojživelník<s n="n"/><s n="ma"/></l><r>obóžêvelnik<s n="n"/><s n="ma"/></r></p></e>
 		<e><p><l>hodnostář<s n="n"/><s n="ma"/></l><r>hodnostář<s n="n"/><s n="ma"/></r></p></e>
 		<e><p><l>ozvěna<s n="n"/><s n="f"/></l><r>ozvěna<s n="n"/><s n="f"/></r></p></e>
 		<e><p><l>efekt<s n="n"/><s n="mi"/></l><r>efekt<s n="n"/><s n="mi"/></r></p></e>
@@ -3411,11 +3411,11 @@
 		<e><p><l>svátek<s n="n"/><s n="nt"/></l><r>svátek<s n="n"/><s n="nt"/></r></p></e>
 		<e c="mp-mi!wtf!"><p><l>imobilizér<s n="n"/><s n="mi"/></l><r>imobilizér<s n="n"/><s n="mi"/></r></p></e>
 		<e><p><l>implantát<s n="n"/><s n="mi"/></l><r>implantát<s n="n"/><s n="mi"/></r></p></e>
-		<e><p><l>krocan<s n="n"/><s n="ma"/></l><r>morák<s n="n"/><s n="ma"/></r></p></e>
+		<e><p><l>krocan<s n="n"/><s n="ma"/></l><r>krocan<s n="n"/><s n="ma"/></r></p></e>
 		<e><p><l>invalida<s n="n"/><s n="ma"/></l><r>invalêda<s n="n"/><s n="ma"/></r></p></e>
 		<e><p><l>inventář<s n="n"/><s n="mi"/></l><r>inventář<s n="n"/><s n="mi"/></r></p></e>
 		<e><p><l>jakobín<s n="n"/><s n="ma"/></l><r>jakobín<s n="n"/><s n="ma"/></r></p></e>
-		<e><p><l>jezevčík<s n="n"/><s n="ma"/></l><r>jezevčík<s n="n"/><s n="ma"/></r></p></e>
+		<e><p><l>jezevčík<s n="n"/><s n="ma"/></l><r>jezevčik<s n="n"/><s n="ma"/></r></p></e>
 		<e><p><l>klon<s n="n"/><s n="mi"/></l><r>klon<s n="n"/><s n="mi"/></r></p></e>
 		<e><p><l>hedvábí<s n="n"/><s n="nt"/></l><r>hedvábi<s n="n"/><s n="nt"/></r></p></e>
 		<e><p><l>jmelí<s n="n"/><s n="nt"/></l><r>jmeli<s n="n"/><s n="nt"/></r></p></e>
@@ -3438,13 +3438,13 @@
 		<e><p><l>klíč<s n="n"/><s n="mi"/></l><r>klíč<s n="n"/><s n="mi"/></r></p></e>
 		<e><p><l>lhář<s n="n"/><s n="m"/></l><r>lhář<s n="n"/><s n="m"/></r></p></e>
 		<e><p><l>kokos<s n="n"/><s n="mi"/></l><r>kokos<s n="n"/><s n="mi"/></r></p></e>
-		<e><p><l>kolibřík<s n="n"/><s n="mi"/></l><r>kolibřik<s n="n"/><s n="mi"/></r></p></e>
+		<e><p><l>kolibřík<s n="n"/><s n="mi"/></l><r>kolibřik<s n="n"/><s n="ma"/></r></p></e>
 		<e><p><l>koláč<s n="n"/><s n="mi"/></l><r>koláč<s n="n"/><s n="mi"/></r></p></e>
 		<e><p><l>komentář<s n="n"/><s n="mi"/></l><r>komentář<s n="n"/><s n="mi"/></r></p></e>
 		<e><p><l>koncept<s n="n"/><s n="mi"/></l><r>koncept<s n="n"/><s n="mi"/></r></p></e>
 		<e><p><l>myšlenka<s n="n"/><s n="mi"/></l><r>mêšlenka<s n="n"/><s n="mi"/></r></p></e>
 		<e><p><l>konec<s n="n"/><s n="mi"/></l><r>konec<s n="n"/><s n="mi"/></r></p></e>
-		<e><p><l>koník<s n="n"/><s n="ma"/></l><r>koník<s n="n"/><s n="ma"/></r></p></e>
+		<e><p><l>koník<s n="n"/><s n="ma"/></l><r>konik<s n="n"/><s n="ma"/></r></p></e>
 		<e><p><l>konopí<s n="n"/><s n="nt"/></l><r>konopi<s n="n"/><s n="nt"/></r></p></e>
 		<e><p><l>konzul<s n="n"/><s n="ma"/></l><r>konzul<s n="n"/><s n="ma"/></r></p></e>
 		<e><p><l>kontrarozvědka<s n="n"/><s n="f"/></l><r>kontrarozvědka<s n="n"/><s n="f"/></r></p></e>
@@ -3452,7 +3452,7 @@
 		<e><p><l>koráb<s n="n"/><s n="mi"/></l><r>koráb<s n="n"/><s n="mi"/></r></p></e>
 		<e><p><l>korál<s n="n"/><s n="mi"/></l><r>korál<s n="n"/><s n="mi"/></r></p></e>
 		<e><p><l>kovář<s n="n"/><s n="ma"/></l><r>kovář<s n="n"/><s n="ma"/></r></p></e>
-		<e><p><l>trpaslík<s n="n"/><s n="ma"/></l><r>trpaslík<s n="n"/><s n="ma"/></r></p></e>
+		<e><p><l>trpaslík<s n="n"/><s n="ma"/></l><r>trpaslik<s n="n"/><s n="ma"/></r></p></e>
 		<e><p><l>kravata<s n="n"/><s n="f"/></l><r>šlajfka<s n="n"/><s n="f"/></r></p></e>
 		<e><p><l>kroužek<s n="n"/><s n="mi"/></l><r>króžek<s n="n"/><s n="mi"/></r></p></e>
 		<e><p><l>obratlovec<s n="n"/><s n="ma"/></l><r>obratlovec<s n="n"/><s n="ma"/></r></p></e>
@@ -3521,16 +3521,16 @@
 		<e><p><l>náboj<s n="n"/><s n="mi"/></l><r>náboj<s n="n"/><s n="mi"/></r></p></e>
 		<e><p><l>nadace<s n="n"/><s n="f"/></l><r>nadace<s n="n"/><s n="f"/></r></p></e>
 		<e><p><l>nájezd<s n="n"/><s n="mi"/></l><r>nájezd<s n="n"/><s n="mi"/></r></p></e>
-		<e><p><l>nájezdník<s n="n"/><s n="ma"/></l><r>nájezdník<s n="n"/><s n="ma"/></r></p></e>
+		<e><p><l>nájezdník<s n="n"/><s n="ma"/></l><r>nájezdnik<s n="n"/><s n="ma"/></r></p></e>
 		<e><p><l>hlava<s n="n"/><s n="f"/></l><r>kebôla<s n="n"/><s n="f"/></r></p></e>
 		<e><p><l>pokrývka<s n="n"/><s n="f"/></l><r>pokrývka<s n="n"/><s n="f"/></r></p></e>
 		<e><p><l>náhon<s n="n"/><s n="mi"/></l><r>náhon<s n="n"/><s n="mi"/></r></p></e>
 		<e><p><l>pohon<s n="n"/><s n="mi"/></l><r>pohon<s n="n"/><s n="mi"/></r></p></e>
 		<e><p><l>napětí<s n="n"/><s n="nt"/></l><r>napjeti<s n="n"/><s n="nt"/></r></p></e>
 		<e><p><l>aparát<s n="n"/><s n="mi"/></l><r>aparát<s n="n"/><s n="mi"/></r></p></e>
-		<e><p><l>následník<s n="n"/><s n="ma"/></l><r>následník<s n="n"/><s n="ma"/></r></p></e>
+		<e><p><l>následník<s n="n"/><s n="ma"/></l><r>následnik<s n="n"/><s n="ma"/></r></p></e>
 		<e><p><l>medvěd<s n="n"/><s n="ma"/></l><r>medvěď<s n="n"/><s n="ma"/></r></p></e>
-		<e><p><l>nekuřák<s n="n"/><s n="ma"/></l><r>nekuřák<s n="n"/><s n="ma"/></r></p></e>
+		<e><p><l>nekuřák<s n="n"/><s n="ma"/></l><r>nekôřák<s n="n"/><s n="ma"/></r></p></e>
 		<e><p><l>neúroda<s n="n"/><s n="f"/></l><r>neóroda<s n="n"/><s n="f"/></r></p></e>
 		<e><p><l>přenašeč<s n="n"/><s n="ma"/></l><r>přenašeč<s n="n"/><s n="ma"/></r></p></e>
 		<e><p><l>novorozenec<s n="n"/><s n="ma"/></l><r>novorozenec<s n="n"/><s n="ma"/></r></p></e>
@@ -3559,7 +3559,7 @@
 		<e><p><l>náprava<s n="n"/><s n="f"/></l><r>náprava<s n="n"/><s n="f"/></r></p></e>
 		<e><p><l>hmyz<s n="n"/><s n="ma"/></l><r>hmyz<s n="n"/><s n="ma"/></r></p></e>
 		<e><p><l>ovčák<s n="n"/><s n="ma"/></l><r>ovčák<s n="n"/><s n="ma"/></r></p></e>
-		<e><p><l>pavouk<s n="n"/><s n="ma"/></l><r>pók<s n="n"/><s n="ma"/></r></p></e>
+		<e><p><l>pavouk<s n="n"/><s n="ma"/></l><r>pavók<s n="n"/><s n="ma"/></r></p></e>
 		<e><p><l>pakt<s n="n"/><s n="mi"/></l><r>pakt<s n="n"/><s n="mi"/></r></p></e>
 		<e><p><l>pancíř<s n="n"/><s n="mi"/></l><r>pancéř<s n="n"/><s n="mi"/></r></p></e>
 		<e><p><l>panel<s n="n"/><s n="mi"/></l><r>panel<s n="n"/><s n="mi"/></r></p></e>
@@ -3638,7 +3638,7 @@
 		<e><p><l>průnik<s n="n"/><s n="mi"/></l><r>průnik<s n="n"/><s n="mi"/></r></p></e>
 		<e><p><l>antioxidant<s n="n"/><s n="mi"/></l><r>antioxidant<s n="n"/><s n="mi"/></r></p></e>
 		<e><p><l>předměstí<s n="n"/><s n="nt"/></l><r>předměsti<s n="n"/><s n="nt"/></r></p></e>
-		<e><p><l>živnostník<s n="n"/><s n="m"/></l><r>živnostník<s n="n"/><s n="m"/></r></p></e>
+		<e><p><l>živnostník<s n="n"/><s n="ma"/></l><r>žêvnosťnik<s n="n"/><s n="ma"/></r></p></e>
 		<e><p><l>přehled<s n="n"/><s n="mi"/></l><r>přehled<s n="n"/><s n="mi"/></r></p></e>
 		<e><p><l>přehlídka<s n="n"/><s n="f"/></l><r>přehlídka<s n="n"/><s n="f"/></r></p></e>
 		<e><p><l>přejezd<s n="n"/><s n="mi"/></l><r>přejezd<s n="n"/><s n="mi"/></r></p></e>
@@ -3651,7 +3651,7 @@
 		<e><p><l>příklad<s n="n"/><s n="mi"/></l><r>příklad<s n="n"/><s n="mi"/></r></p></e>
 		<e><p><l>přísloví<s n="n"/><s n="nt"/></l><r>přislovi<s n="n"/><s n="nt"/></r></p></e>
 		<e><p><l>včela<s n="n"/><s n="f"/></l><r>včela<s n="n"/><s n="f"/></r></p></e>
-		<e><p><l>pták<s n="n"/><s n="ma"/></l><r>fták<s n="n"/><s n="ma"/></r></p></e>
+		<e><p><l>pták<s n="n"/><s n="ma"/></l><r>pták<s n="n"/><s n="ma"/></r></p></e>
 		<e><p><l>puč<s n="n"/><s n="mi"/></l><r>puč<s n="n"/><s n="mi"/></r></p></e>
 		<e><p><l>pudl<s n="n"/><s n="ma"/></l><r>pudl<s n="n"/><s n="ma"/></r></p></e>
 		<e><p><l>pudr<s n="n"/><s n="mi"/></l><r>pudr<s n="n"/><s n="mi"/></r></p></e>
@@ -3708,7 +3708,7 @@
 		<e><p><l>pokraj<s n="n"/><s n="mi"/></l><r>pokraj<s n="n"/><s n="mi"/></r></p></e>
 		<e><p><l>slon<s n="n"/><s n="ma"/></l><r>slón<s n="n"/><s n="ma"/></r></p></e>
 		<e><p><l>drak<s n="n"/><s n="ma"/></l><r>drak<s n="n"/><s n="ma"/></r></p></e>
-		<e><p><l>dvojník<s n="n"/><s n="ma"/></l><r>dvojník<s n="n"/><s n="ma"/></r></p></e>
+		<e><p><l>dvojník<s n="n"/><s n="ma"/></l><r>dvojnik<s n="n"/><s n="ma"/></r></p></e>
 		<e><p><l>spojenectví<s n="n"/><s n="nt"/></l><r>spojenectvi<s n="n"/><s n="nt"/></r></p></e>
 		<e><p><l>soul<s n="n"/><s n="mi"/></l><r>soul<s n="n"/><s n="mi"/></r></p></e>
 		<e><p><l>sova<s n="n"/><s n="f"/></l><r>sova<s n="n"/><s n="f"/></r></p></e>
@@ -3731,7 +3731,7 @@
 		<e><p><l>oblast<s n="n"/><s n="f"/></l><r>oblast<s n="n"/><s n="f"/></r></p></e>
 		<e><p><l>dědina<s n="n"/><s n="f"/></l><r>dědina<s n="n"/><s n="f"/></r></p></e>
 		<e><p><l>stařec<s n="n"/><s n="ma"/></l><r>stařec<s n="n"/><s n="ma"/></r></p></e>
-		<e><p><l>stařík<s n="n"/><s n="ma"/></l><r>stařék<s n="n"/><s n="ma"/></r></p></e>
+		<e><p><l>stařík<s n="n"/><s n="ma"/></l><r>stařik<s n="n"/><s n="ma"/></r></p></e>
 		<e><p><l>stáž<s n="n"/><s n="f"/></l><r>stáž<s n="n"/><s n="f"/></r></p></e>
 		<e><p><l>stodola<s n="n"/><s n="f"/></l><r>stodola<s n="n"/><s n="f"/></r></p></e>
 		<e><p><l>striptýz<s n="n"/><s n="mi"/></l><r>striptýz<s n="n"/><s n="mi"/></r></p></e>
@@ -3761,7 +3761,7 @@
 		<e><p><l>taxikář<s n="n"/><s n="ma"/></l><r>taxikář<s n="n"/><s n="ma"/></r></p></e>
 		<e><p><l>talent<s n="n"/><s n="mi"/></l><r>talent<s n="n"/><s n="mi"/></r></p></e>
 		<e><p><l>talíř<s n="n"/><s n="mi"/></l><r>talíř<s n="n"/><s n="mi"/></r></p></e>
-		<e><p><l>tanečník<s n="n"/><s n="ma"/></l><r>trdelnik<s n="n"/><s n="ma"/></r></p></e>
+		<e><p><l>tanečník<s n="n"/><s n="ma"/></l><r>tanečnik<s n="n"/><s n="ma"/></r></p></e>
 		<e><p><l>gauč<s n="n"/><s n="mi"/></l><r>gauč<s n="n"/><s n="mi"/></r></p></e>
 		<e><p><l>teletext<s n="n"/><s n="mi"/></l><r>teletext<s n="n"/><s n="mi"/></r></p></e>
 		<e><p><l>terapeut<s n="n"/><s n="ma"/></l><r>terapeut<s n="n"/><s n="ma"/></r></p></e>
@@ -3773,14 +3773,14 @@
 		<e><p><l>tramvaj<s n="n"/><s n="f"/></l><r>tramvaj<s n="n"/><s n="f"/></r></p></e>
 		<e><p><l>trojboj<s n="n"/><s n="mi"/></l><r>trojboj<s n="n"/><s n="mi"/></r></p></e>
 		<e><p><l>trubadúr<s n="n"/><s n="ma"/></l><r>trubadúr<s n="n"/><s n="ma"/></r></p></e>
-		<e><p><l>čmelák<s n="n"/><s n="ma"/></l><r>meďák<s n="n"/><s n="ma"/></r></p></e>
+		<e><p><l>čmelák<s n="n"/><s n="ma"/></l><r>čmelák<s n="n"/><s n="ma"/></r></p></e>
 		<e><p><l>turnaj<s n="n"/><s n="mi"/></l><r>turnaj<s n="n"/><s n="mi"/></r></p></e>
 		<e><p><l>tvrz<s n="n"/><s n="f"/></l><r>tvrz<s n="n"/><s n="f"/></r></p></e>
 		<e><p><l>tyfus<s n="n"/><s n="mi"/></l><r>tyfus<s n="n"/><s n="mi"/></r></p></e>
 		<e><p><l>tymián<s n="n"/><s n="mi"/></l><r>tymián<s n="n"/><s n="mi"/></r></p></e>
 		<e><p><l>tisíc<s n="n"/><s n="mi"/></l><r>tisic<s n="n"/><s n="mi"/></r></p></e>
 		<e><p><l>cit<s n="n"/><s n="mi"/></l><r>cet<s n="n"/><s n="mi"/></r></p></e>
-		<e><p><l>podílník<s n="n"/><s n="ma"/></l><r>podílník<s n="n"/><s n="ma"/></r></p></e>
+		<e><p><l>podílník<s n="n"/><s n="ma"/></l><r>podilnik<s n="n"/><s n="ma"/></r></p></e>
 		<e><p><l>šot<s n="n"/><s n="mi"/></l><r>šot<s n="n"/><s n="mi"/></r></p></e>
 		<e><p><l>soustava<s n="n"/><s n="f"/></l><r>sóstava<s n="n"/><s n="f"/></r></p></e>
 		<e><p><l>hlaváč<s n="n"/><s n="ma"/></l><r>hlaváč<s n="n"/><s n="ma"/></r></p></e>
@@ -3810,7 +3810,7 @@
 		<e><p><l>vitráž<s n="n"/><s n="f"/></l><r>vitráž<s n="n"/><s n="f"/></r></p></e>
 		<e><p><l>vklad<s n="n"/><s n="mi"/></l><r>vklad<s n="n"/><s n="mi"/></r></p></e>
 		<e><p><l>vladař<s n="n"/><s n="m"/></l><r>vladař<s n="n"/><s n="m"/></r></p></e>
-		<e><p><l>vlastník<s n="n"/><s n="ma"/></l><r>vlasnik<s n="n"/><s n="ma"/></r></p></e>
+		<e><p><l>vlastník<s n="n"/><s n="ma"/></l><r>vlastnik<s n="n"/><s n="ma"/></r></p></e>
 		<e><p><l>interiér<s n="n"/><s n="mi"/></l><r>interiér<s n="n"/><s n="mi"/></r></p></e>
 		<e><p><l>vnitřek<s n="n"/><s n="mi"/></l><r>vnitřek<s n="n"/><s n="mi"/></r></p></e>
 		<e><p><l>vodopád<s n="n"/><s n="mi"/></l><r>vodopád<s n="n"/><s n="mi"/></r></p></e>
@@ -3831,7 +3831,7 @@
 		<e><p><l>výpad<s n="n"/><s n="mi"/></l><r>vépad<s n="n"/><s n="mi"/></r></p></e>
 		<e><p><l>displej<s n="n"/><s n="mi"/></l><r>displej<s n="n"/><s n="mi"/></r></p></e>
 		<e><p><l>výtvor<s n="n"/><s n="mi"/></l><r>výtvor<s n="n"/><s n="mi"/></r></p></e>
-		<e><p><l>rozvědčík<s n="n"/><s n="ma"/></l><r>rozvědčík<s n="n"/><s n="ma"/></r></p></e>
+		<e><p><l>rozvědčík<s n="n"/><s n="ma"/></l><r>rozvědčik<s n="n"/><s n="ma"/></r></p></e>
 		<e><p><l>ohled<s n="n"/><s n="mi"/></l><r>ohled<s n="n"/><s n="mi"/></r></p></e>
 		<e><p><l>zesilovač<s n="n"/><s n="mi"/></l><r>zesilovač<s n="n"/><s n="mi"/></r></p></e>
 		<e><p><l>zabiják<s n="n"/><s n="ma"/></l><r>zabiják<s n="n"/><s n="ma"/></r></p></e>
@@ -3865,7 +3865,7 @@
 		<e><p><l>přízvuk<s n="n"/><s n="mi"/></l><r>přizvuk<s n="n"/><s n="mi"/></r></p></e>
 		<e><p><l>aktivista<s n="n"/><s n="ma"/></l><r>aktivista<s n="n"/><s n="ma"/></r></p></e>
 		<e><p><l>ambulance<s n="n"/><s n="mi"/></l><r>ambulance<s n="n"/><s n="mi"/></r></p></e>
-		<e><p><l>lékárník<s n="n"/><s n="ma"/></l><r>lékárník<s n="n"/><s n="ma"/></r></p></e>
+		<e><p><l>lékárník<s n="n"/><s n="ma"/></l><r>lékárnik<s n="n"/><s n="ma"/></r></p></e>
 		<e><p><l>artista<s n="n"/><s n="ma"/></l><r>artista<s n="n"/><s n="ma"/></r></p></e>
 		<e><p><l>ateista<s n="n"/><s n="ma"/></l><r>ateista<s n="n"/><s n="ma"/></r></p></e>
 		<e><p><l>autobus<s n="n"/><s n="mi"/></l><r>autobus<s n="n"/><s n="mi"/></r></p></e>
@@ -3917,7 +3917,7 @@
 		<e><p><l>světlost<s n="n"/><s n="f"/></l><r>světlost<s n="n"/><s n="f"/></r></p></e>
 		<e><p><l>karikaturista<s n="n"/><s n="ma"/></l><r>karikaturista<s n="n"/><s n="ma"/></r></p></e>
 		<e><p><l>klon<s n="n"/><s n="mi"/></l><r>klon<s n="n"/><s n="mi"/></r></p></e>
-		<e><p><l>klusák<s n="n"/><s n="mi"/></l><r>klusák<s n="n"/><s n="mi"/></r></p></e>
+		<e><p><l>klusák<s n="n"/><s n="ma"/></l><r>klusák<s n="n"/><s n="ma"/></r></p></e>
 		<e><p><l>milenec<s n="n"/><s n="ma"/></l><r>milenec<s n="n"/><s n="ma"/></r></p></e>
 		<e><p><l>koka<s n="n"/><s n="f"/></l><r>koka<s n="n"/><s n="f"/></r></p></e>
 		<e><p><l>kolonista<s n="n"/><s n="ma"/></l><r>kolonista<s n="n"/><s n="ma"/></r></p></e>
@@ -3965,7 +3965,7 @@
 		<e><p><l>patronace<s n="n"/><s n="f"/></l><r>patronace<s n="n"/><s n="f"/></r></p></e>
 		<e><p><l>záštita<s n="n"/><s n="f"/></l><r>záštita<s n="n"/><s n="f"/></r></p></e>
 		<e><p><l>klavírista<s n="n"/><s n="ma"/></l><r>klavírista<s n="n"/><s n="ma"/></r></p></e>
-		<e><p><l>průkopník<s n="n"/><s n="ma"/></l><r>průkopník<s n="n"/><s n="ma"/></r></p></e>
+		<e><p><l>průkopník<s n="n"/><s n="ma"/></l><r>prukopnik<s n="n"/><s n="ma"/></r></p></e>
 		<e><p><l>hanebnost<s n="n"/><s n="f"/></l><r>hanebnost<s n="n"/><s n="f"/></r></p></e>
 		<e><p><l>příručka<s n="n"/><s n="mi"/></l><r>přiručka<s n="n"/><s n="mi"/></r></p></e>
 		<e><p><l>polder<s n="n"/><s n="mi"/></l><r>polder<s n="n"/><s n="mi"/></r></p></e>
@@ -4023,7 +4023,7 @@
 		<e><p><l>výtažek<s n="n"/><s n="mi"/></l><r>vétažek<s n="n"/><s n="mi"/></r></p></e>
 		<e><p><l>výtisk<s n="n"/><s n="mi"/></l><r>vytisk<s n="n"/><s n="mi"/></r></p></e>
 		<e><p><l>vyhnanství<s n="n"/><s n="nt"/></l><r>vêhnanstvi<s n="n"/><s n="nt"/></r></p></e>
-		<e><p><l>zabiják<s n="n"/><s n="mi"/></l><r>zabiják<s n="n"/><s n="mi"/></r></p></e>
+		<e><p><l>zabiják<s n="n"/><s n="ma"/></l><r>zabiják<s n="n"/><s n="ma"/></r></p></e>
 		<e><p><l>zahraničí<s n="n"/><s n="nt"/></l><r>zahraniči<s n="n"/><s n="nt"/></r></p></e>
 		<e><p><l>spolek<s n="n"/><s n="mi"/></l><r>spolek<s n="n"/><s n="mi"/></r></p></e>
 		<e><p><l>svaz<s n="n"/><s n="mi"/></l><r>svaz<s n="n"/><s n="mi"/></r></p></e>
@@ -4328,7 +4328,7 @@
 		<e><p><l>autor<s n="n"/><s n="ma"/></l><r>autor<s n="n"/><s n="ma"/></r></p></e>
 		<e><p><l>líc<s n="n"/><s n="mi"/></l><r>škraň<s n="n"/><s n="mi"/></r></p></e>
 		<e><p><l>vědec<s n="n"/><s n="ma"/></l><r>vědec<s n="n"/><s n="ma"/></r></p></e>
-		<e><p><l>výzkumník<s n="n"/><s n="ma"/></l><r>výzkumník<s n="n"/><s n="ma"/></r></p></e>
+		<e><p><l>výzkumník<s n="n"/><s n="ma"/></l><r>vyzkumnik<s n="n"/><s n="ma"/></r></p></e>
 		<e><p><l>výzkum<s n="n"/><s n="nt"/></l><r>výzkum<s n="n"/><s n="nt"/></r></p></e>
 		<e><p><l>kufr<s n="n"/><s n="mi"/></l><r>kofr<s n="n"/><s n="mi"/></r></p></e>
 		<e><p><l>bajonet<s n="n"/><s n="mi"/></l><r>bajonét<s n="n"/><s n="mi"/></r></p></e>
@@ -4474,7 +4474,7 @@
 		<e><p><l>disciplína<s n="n"/><s n="f"/></l><r>disciplina<s n="n"/><s n="f"/></r></p></e>
 		<e><p><l>diskont<s n="n"/><s n="nt"/></l><r>diskont<s n="n"/><s n="nt"/></r></p></e>
 		<e><p><l>disk<s n="n"/><s n="mi"/></l><r>disk<s n="n"/><s n="mi"/></r></p></e>
-		<e><p><l>činovník<s n="n"/><s n="ma"/></l><r>činovník<s n="n"/><s n="ma"/></r></p></e>
+		<e><p><l>činovník<s n="n"/><s n="ma"/></l><r>činovnik<s n="n"/><s n="ma"/></r></p></e>
 		<e><p><l>funkcionář<s n="n"/><s n="ma"/></l><r>funkcionář<s n="n"/><s n="ma"/></r></p></e>
 		<e><p><l>činnost<s n="n"/><s n="f"/></l><r>činosť<s n="n"/><s n="f"/></r></p></e>
 		<e><p><l>činnost<s n="n"/><s n="nt"/></l><r>činosť<s n="n"/><s n="nt"/></r></p></e>
@@ -4662,7 +4662,7 @@
 		<e><p><l>katastrofa<s n="n"/><s n="f"/></l><r>katastrofa<s n="n"/><s n="f"/></r></p></e>
 		<e><p><l>kat<s n="n"/><s n="f"/></l><r>kat<s n="n"/><s n="f"/></r></p></e>
 		<e><p><l>katedrála<s n="n"/><s n="f"/></l><r>katedrála<s n="n"/><s n="f"/></r></p></e>
-		<e><p><l>katolík<s n="n"/><s n="ma"/></l><r>katolík<s n="n"/><s n="ma"/></r></p></e>
+		<e><p><l>katolík<s n="n"/><s n="ma"/></l><r>katolik<s n="n"/><s n="ma"/></r></p></e>
 		<e><p><l>kousek<s n="n"/><s n="mi"/></l><r>kósek<s n="n"/><s n="mi"/></r></p></e>
 		<e><p><l>kus<s n="n"/><s n="mi"/></l><r>kôs<s n="n"/><s n="mi"/></r></p></e>
 		<e><p><l>ústraní<s n="n"/><s n="mi"/></l><r>ústraní<s n="n"/><s n="mi"/></r></p></e>
@@ -4676,7 +4676,7 @@
 		<e><p><l>klaun<s n="n"/><s n="ma"/></l><r>klaon<s n="n"/><s n="ma"/></r></p></e>
 		<e><p><l>klávesnice<s n="n"/><s n="f"/></l><r>klávesnica<s n="n"/><s n="f"/></r></p></e>
 		<e><p><l>klient<s n="n"/><s n="ma"/></l><r>klijent<s n="n"/><s n="ma"/></r></p></e>
-		<e><p><l>zákazník<s n="n"/><s n="ma"/></l><r>zákazník<s n="n"/><s n="ma"/></r></p></e>
+		<e><p><l>zákazník<s n="n"/><s n="ma"/></l><r>zákaznik<s n="n"/><s n="ma"/></r></p></e>
 		<e><p><l>klip<s n="n"/><s n="f"/></l><r>klip<s n="n"/><s n="f"/></r></p></e>
 		<e><p><l>klub<s n="n"/><s n="mi"/></l><r>klub<s n="n"/><s n="mi"/></r></p></e>
 		<e><p><l>klam<s n="n"/><s n="mi"/></l><r>balôta<s n="n"/><s n="f"/></r></p></e>
@@ -4834,7 +4834,7 @@
 		<e><p><l>měsíčník<s n="n"/><s n="mi"/></l><r>měsičnik<s n="n"/><s n="mi"/></r></p></e>
 		<e c="mp-mi!wtf!"><p><l>bohatství<s n="n"/><s n="mi"/></l><r>bohatství<s n="n"/><s n="mi"/></r></p></e>
 		<e><p><l>milionář<s n="n"/><s n="ma"/></l><r>milijonář<s n="n"/><s n="ma"/></r></p></e>
-		<e><p><l>milovník<s n="n"/><s n="ma"/></l><r>milovník<s n="n"/><s n="ma"/></r></p></e>
+		<e><p><l>milovník<s n="n"/><s n="ma"/></l><r>milovnik<s n="n"/><s n="ma"/></r></p></e>
 		<e><p><l>vyznavač<s n="n"/><s n="ma"/></l><r>vyznavač<s n="n"/><s n="ma"/></r></p></e>
 		<e><p><l>mina<s n="n"/><s n="f"/></l><r>mina<s n="n"/><s n="f"/></r></p></e>
 		<e><p><l>nálož<s n="n"/><s n="f"/></l><r>náloš<s n="n"/><s n="f"/></r></p></e>
@@ -4850,7 +4850,7 @@
 		<e><p><l>mozek<s n="n"/><s n="mi"/></l><r>mozek<s n="n"/><s n="mi"/></r></p></e>
 		<e><p><l>mravenec<s n="n"/><s n="f"/></l><r>brablenec<s n="n"/><s n="f"/></r></p></e>
 		<e><p><l>muzeum<s n="n"/><s n="nt"/></l><r>mozejom<s n="n"/><s n="nt"/></r></p></e>
-		<e><p><l>hudebník<s n="n"/><s n="ma"/></l><r>hudebník<s n="n"/><s n="ma"/></r></p></e>
+		<e><p><l>hudebník<s n="n"/><s n="ma"/></l><r>hudebnik<s n="n"/><s n="ma"/></r></p></e>
 		<e><p><l>pomlčka<s n="n"/><s n="mi"/></l><r>pomlčka<s n="n"/><s n="mi"/></r></p></e>
 		<e><p><l>nátlak<s n="n"/><s n="mi"/></l><r>nátlak<s n="n"/><s n="mi"/></r></p></e>
 		<e><p><l>tlak<s n="n"/><s n="mi"/></l><r>tlak<s n="n"/><s n="mi"/></r></p></e>
@@ -4898,7 +4898,7 @@
 		<e><p><l>areál<s n="n"/><s n="mi"/></l><r>areál<s n="n"/><s n="mi"/></r></p></e>
 		<e><p><l>obvod<s n="n"/><s n="mi"/></l><r>obvod<s n="n"/><s n="mi"/></r></p></e>
 		<e><p><l>oceán<s n="n"/><s n="mi"/></l><r>oceján<s n="n"/><s n="mi"/></r></p></e>
-		<e><p><l>dobrovolník<s n="n"/><s n="ma"/></l><r>dobrovolník<s n="n"/><s n="ma"/></r></p></e>
+		<e><p><l>dobrovolník<s n="n"/><s n="ma"/></l><r>dobrovolnik<s n="n"/><s n="ma"/></r></p></e>
 		<e><p><l>óda<s n="n"/><s n="f"/></l><r>óda<s n="n"/><s n="f"/></r></p></e>
 		<e><p><l>úsečka<s n="n"/><s n="f"/></l><r>usečka<s n="n"/><s n="f"/></r></p></e>
 		<e><p><l>pobočka<s n="n"/><s n="f"/></l><r>pobočka<s n="n"/><s n="f"/></r></p></e>
@@ -4959,7 +4959,7 @@
 		<e><p><l>pavučina<s n="n"/><s n="f"/></l><r>póčêna<s n="n"/><s n="f"/></r></p></e>
 		<e><p><l>balík<s n="n"/><s n="mi"/></l><r>balik<s n="n"/><s n="mi"/></r></p></e>
 		<e><p><l>paket<s n="n"/><s n="mi"/></l><r>paket<s n="n"/><s n="mi"/></r></p></e>
-		<e><p><l>kuřák<s n="n"/><s n="ma"/></l><r>kořák<s n="n"/><s n="ma"/></r></p></e>
+		<e><p><l>kuřák<s n="n"/><s n="ma"/></l><r>kôřák<s n="n"/><s n="ma"/></r></p></e>
 		<e><p><l>palác<s n="n"/><s n="mi"/></l><r>palác<s n="n"/><s n="mi"/></r></p></e>
 		<e><p><l>památka<s n="n"/><s n="f"/></l><r>památka<s n="n"/><s n="f"/></r></p></e>
 		<e><p><l>suvenýr<s n="n"/><s n="f"/></l><r>suvenýr<s n="n"/><s n="f"/></r></p></e>
@@ -5004,7 +5004,7 @@
 		<e><p><l>peří<s n="n"/><s n="nt"/></l><r>peři<s n="n"/><s n="nt"/></r></p></e>
 		<e><p><l>pirát<s n="n"/><s n="ma"/></l><r>pirát<s n="n"/><s n="ma"/></r></p></e>
 		<e><p><l>kraslice<s n="n"/><s n="f"/></l><r>kraslêca<s n="n"/><s n="f"/></r></p></e>
-		<e><p><l>básník<s n="n"/><s n="ma"/></l><r>básník<s n="n"/><s n="ma"/></r></p></e>
+		<e><p><l>básník<s n="n"/><s n="ma"/></l><r>básnik<s n="n"/><s n="ma"/></r></p></e>
 		<e><p><l>pistole<s n="n"/><s n="f"/></l><r>pistola<s n="n"/><s n="f"/></r></p></e>
 		<e><p><l>pizza<s n="n"/><s n="f"/></l><r>pizza<s n="n"/><s n="f"/></r></p></e>
 		<e><p><l>plakát<s n="n"/><s n="mi"/></l><r>plakát<s n="n"/><s n="mi"/></r></p></e>
@@ -5031,7 +5031,7 @@
 		<e r="RL"><p><l>obdoba<s n="n"/><s n="nt"/></l><r>obdoba<s n="n"/><s n="nt"/></r></p></e>
 		<e><p><l>podoba<s n="n"/><s n="f"/></l><r>podoba<s n="n"/><s n="f"/></r></p></e>
 		<e><p><l>podobnost<s n="n"/><s n="nt"/></l><r>podobnost<s n="n"/><s n="nt"/></r></p></e>
-		<e><p><l>poddůstojník<s n="n"/><s n="ma"/></l><r>poddostojnik<s n="n"/><s n="ma"/></r></p></e>
+		<e><p><l>poddůstojník<s n="n"/><s n="ma"/></l><r>poddustojnik<s n="n"/><s n="ma"/></r></p></e>
 		<e><p><l>podpis<s n="n"/><s n="mi"/></l><r>podpis<s n="n"/><s n="mi"/></r></p></e>
 		<e><p><l>cesta<s n="n"/><s n="f"/></l><r>cesta<s n="n"/><s n="f"/></r></p></e>
 		<e><p><l>báze<s n="n"/><s n="f"/></l><r>báze<s n="n"/><s n="f"/></r></p></e>
@@ -5090,8 +5090,8 @@
 		<e><p><l>praxe<s n="n"/><s n="f"/></l><r>praxe<s n="n"/><s n="f"/></r></p></e>
 		<e><p><l>pračka<s n="n"/><s n="f"/></l><r>pračka<s n="n"/><s n="f"/></r></p></e>
 		<e><p><l>pravděpodobnost<s n="n"/><s n="nt"/></l><r>pravděpodobnost<s n="n"/><s n="nt"/></r></p></e>
-		<e><p><l>právník<s n="n"/><s n="f"/></l><r>právník<s n="n"/><s n="f"/></r></p></e>
-		<e><p><l>právník<s n="n"/><s n="ma"/></l><r>právník<s n="n"/><s n="ma"/></r></p></e>
+		<e><p><l>právník<s n="n"/><s n="f"/></l><r>právnik<s n="n"/><s n="f"/></r></p></e>
+		<e><p><l>právník<s n="n"/><s n="ma"/></l><r>právnik<s n="n"/><s n="ma"/></r></p></e>
 		<e><p><l>predikát<s n="n"/><s n="mi"/></l><r>predikát<s n="n"/><s n="mi"/></r></p></e>
 		<e><p><l>dárek<s n="n"/><s n="mi"/></l><r>dárek<s n="n"/><s n="mi"/></r></p></e>
 		<e><p><l>kondom<s n="n"/><s n="f"/></l><r>kondom<s n="n"/><s n="f"/></r></p></e>
@@ -5183,7 +5183,7 @@
 		<e><p><l>ručník<s n="n"/><s n="mi"/></l><r>rôčnik<s n="n"/><s n="mi"/></r></p></e>
 		<e><p><l>rukavice<s n="n"/><s n="f"/></l><r>rôkavica<s n="n"/><s n="f"/></r></p></e>
 		<e><p><l>práce<s n="n"/><s n="f"/></l><r>práca<s n="n"/><s n="f"/></r></p></e>
-		<e><p><l>dělník<s n="n"/><s n="ma"/></l><r>dělník<s n="n"/><s n="ma"/></r></p></e>
+		<e><p><l>dělník<s n="n"/><s n="ma"/></l><r>dělnik<s n="n"/><s n="ma"/></r></p></e>
 		<e><p><l>rodák<s n="n"/><s n="ma"/></l><r>rodák<s n="n"/><s n="ma"/></r></p></e>
 		<e><p><l>zemědělství<s n="n"/><s n="nt"/></l><r>zemnědělstvi<s n="n"/><s n="nt"/></r></p></e>
 		<e><p><l>rolník<s n="n"/><s n="ma"/></l><r>rolnik<s n="n"/><s n="ma"/></r></p></e>
@@ -5249,7 +5249,7 @@
 		<e><p><l>sýkora<s n="n"/><s n="f"/></l><r>sékora<s n="n"/><s n="f"/></r></p></e>
 		<e><p><l>motor<s n="n"/><s n="mi"/></l><r>motór<s n="n"/><s n="mi"/></r></p></e>
 		<e><p><l>stroj<s n="n"/><s n="mi"/></l><r>stroj<s n="n"/><s n="mi"/></r></p></e>
-		<e><p><l>silák<s n="n"/><s n="ma"/></l><r>silák<s n="n"/><s n="ma"/></r></p></e>
+		<e><p><l>silák<s n="n"/><s n="ma"/></l><r>sêlák<s n="n"/><s n="ma"/></r></p></e>
 		<e><p><l>modus<s n="n"/><s n="f"/></l><r>modus<s n="n"/><s n="f"/></r></p></e>
 		<e><p><l>stupnice<s n="n"/><s n="f"/></l><r>stôpnica<s n="n"/><s n="f"/></r></p></e>
 		<e><p><l>zkamenělina<s n="n"/><s n="f"/></l><r>zkamenělêna<s n="n"/><s n="f"/></r></p></e>
@@ -5295,8 +5295,8 @@
 		<e><p><l>stoka<s n="n"/><s n="mi"/></l><r>stoka<s n="n"/><s n="mi"/></r></p></e>
 		<e><p><l>styk<s n="n"/><s n="mi"/></l><r>stêk<s n="n"/><s n="mi"/></r></p></e>
 		<e><p><l>hasič<s n="n"/><s n="ma"/></l><r>hasič<s n="n"/><s n="ma"/></r></p></e>
-		<e><p><l>požárník<s n="n"/><s n="ma"/></l><r>požárník<s n="n"/><s n="ma"/></r></p></e>
-		<e><p><l>strážník<s n="n"/><s n="ma"/></l><r>strážník<s n="n"/><s n="ma"/></r></p></e>
+		<e><p><l>požárník<s n="n"/><s n="ma"/></l><r>požárnik<s n="n"/><s n="ma"/></r></p></e>
+		<e><p><l>strážník<s n="n"/><s n="ma"/></l><r>strážnik<s n="n"/><s n="ma"/></r></p></e>
 		<e><p><l>stráž<s n="n"/><s n="f"/></l><r>pikéta<s n="n"/><s n="f"/></r></p></e>
 		<e r="LR"><p><l>areál<s n="n"/><s n="f"/></l><r>areál<s n="n"/><s n="f"/></r></p></e>
 		<e><p><l>region<s n="n"/><s n="f"/></l><r>region<s n="n"/><s n="f"/></r></p></e>
@@ -5397,7 +5397,7 @@
 		<e c="mp-mi!wtf!"><p><l>kouč<s n="n"/><s n="mi"/></l><r>kouč<s n="n"/><s n="mi"/></r></p></e>
 		<e><p><l>trenér<s n="n"/><s n="ma"/></l><r>trenér<s n="n"/><s n="ma"/></r></p></e>
 		<e><p><l>výcvik<s n="n"/><s n="mi"/></l><r>vycvik<s n="n"/><s n="mi"/></r></p></e>
-		<e><p><l>začátečník<s n="n"/><s n="mi"/></l><r>začátečník<s n="n"/><s n="mi"/></r></p></e>
+		<e><p><l>začátečník<s n="n"/><s n="mi"/></l><r>začátečnik<s n="n"/><s n="ma"/></r></p></e>
 		<e r="LR"><p><l>tělo<s n="n"/><s n="f"/></l><r>tělo<s n="n"/><s n="f"/></r></p></e>
 		<e><p><l>trojice<s n="n"/><s n="f"/></l><r>trojica<s n="n"/><s n="f"/></r></p></e>
 		<e><p><l>mrtvola<s n="n"/><s n="nt"/></l><r>mrtvola<s n="n"/><s n="nt"/></r></p></e>
@@ -5482,7 +5482,7 @@
 		<e><p><l>chloupek<s n="n"/><s n="mi"/></l><r>chlópek<s n="n"/><s n="mi"/></r></p></e>
 		<e><p><l>vlas<s n="n"/><s n="mi"/></l><r>vlas<s n="n"/><s n="mi"/></r></p></e>
 		<e><p><l>závěr<s n="n"/><s n="mi"/></l><r>závěr<s n="n"/><s n="mi"/></r></p></e>
-		<e><p><l>válečník<s n="n"/><s n="ma"/></l><r>válečník<s n="n"/><s n="ma"/></r></p></e>
+		<e><p><l>válečník<s n="n"/><s n="ma"/></l><r>válečnik<s n="n"/><s n="ma"/></r></p></e>
 		<e><p><l>sáček<s n="n"/><s n="mi"/></l><r>sáček<s n="n"/><s n="mi"/></r></p></e>
 		<e><p><l>vak<s n="n"/><s n="mi"/></l><r>vak<s n="n"/><s n="mi"/></r></p></e>
 		<e><p><l>vosk<s n="n"/><s n="mi"/></l><r>vosk<s n="n"/><s n="mi"/></r></p></e>
@@ -5553,7 +5553,7 @@
 		<e><p><l>důvěra<s n="n"/><s n="nt"/></l><r>duvěra<s n="n"/><s n="nt"/></r></p></e>
 		<e><p><l>důvěryhodnost<s n="n"/><s n="nt"/></l><r>duvěrehodnosť<s n="n"/><s n="nt"/></r></p></e>
 		<e><p><l>podmínka<s n="n"/><s n="mi"/></l><r>podmínka<s n="n"/><s n="mi"/></r></p></e>
-		<e><p><l>závodník<s n="n"/><s n="ma"/></l><r>závodník<s n="n"/><s n="ma"/></r></p></e>
+		<e><p><l>závodník<s n="n"/><s n="ma"/></l><r>závodnik<s n="n"/><s n="ma"/></r></p></e>
 		<e><p><l>uzávěr<s n="n"/><s n="mi"/></l><r>uzávěr<s n="n"/><s n="mi"/></r></p></e>
 		<e><p><l>ventil<s n="n"/><s n="mi"/></l><r>ventil<s n="n"/><s n="mi"/></r></p></e>
 		<e><p><l>množina<s n="n"/><s n="f"/></l><r>množêna<s n="n"/><s n="f"/></r></p></e>
@@ -5670,14 +5670,14 @@
 		<e><p><l>mlčenlivost<s n="n"/><s n="f"/></l><r>mlčenlevosť<s n="n"/><s n="f"/></r></p></e>
 		<e><p><l>dispozice<s n="n"/><s n="f"/></l><r>dispozêca<s n="n"/><s n="f"/></r></p></e>
 		<e><p><l>panenství<s n="n"/><s n="nt"/></l><r>panenstvi<s n="n"/><s n="nt"/></r></p></e>
-		<e><p><l>dlužník<s n="n"/><s n="ma"/></l><r>dložnik<s n="n"/><s n="ma"/></r></p></e>
+		<e><p><l>dlužník<s n="n"/><s n="ma"/></l><r>dlôžnik<s n="n"/><s n="ma"/></r></p></e>
 		<e><p><l>expertíza<s n="n"/><s n="f"/></l><r>expertíza<s n="n"/><s n="f"/></r></p></e>
 		<e><p><l>expozice<s n="n"/><s n="f"/></l><r>expozica<s n="n"/><s n="f"/></r></p></e>
 		<e><p><l>elektrárna<s n="n"/><s n="f"/></l><r>elektrárňa<s n="n"/><s n="f"/></r></p></e>
 		<e><p><l>elipsa<s n="n"/><s n="f"/></l><r>elêpsa<s n="n"/><s n="f"/></r></p></e>
 		<e><p><l>epos<s n="n"/><s n="mi"/></l><r>epos<s n="n"/><s n="mi"/></r></p></e>
 		<e><p><l>erudice<s n="n"/><s n="f"/></l><r>erudica<s n="n"/><s n="f"/></r></p></e>
-		<e><p><l>továrník<s n="n"/><s n="ma"/></l><r>továrník<s n="n"/><s n="ma"/></r></p></e>
+		<e><p><l>továrník<s n="n"/><s n="ma"/></l><r>továrnik<s n="n"/><s n="ma"/></r></p></e>
 		<e><p><l>živnost<s n="n"/><s n="mi"/></l><r>živnost<s n="n"/><s n="mi"/></r></p></e>
 		<e><p><l>farmář<s n="n"/><s n="ma"/></l><r>farmář<s n="n"/><s n="ma"/></r></p></e>
 		<e><p><l>hranolek<s n="n"/><s n="mi"/></l><r>hranolek<s n="n"/><s n="mi"/></r></p></e>
@@ -5696,11 +5696,11 @@
 		<e><p><l>pohostinnost<s n="n"/><s n="f"/></l><r>pohostinnost<s n="n"/><s n="f"/></r></p></e>
 		<e><p><l>žula<s n="n"/><s n="f"/></l><r>žula<s n="n"/><s n="f"/></r></p></e>
 		<e><p><l>hráz<s n="n"/><s n="f"/></l><r>hráz<s n="n"/><s n="f"/></r></p></e>
-		<e><p><l>tlouštík<s n="n"/><s n="ma"/></l><r>tlouštík<s n="n"/><s n="ma"/></r></p></e>
+		<e><p><l>tlouštík<s n="n"/><s n="ma"/></l><r>klóščik<s n="n"/><s n="ma"/></r></p></e>
 		<e><p><l>grimasa<s n="n"/><s n="mi"/></l><r>grimasa<s n="n"/><s n="mi"/></r></p></e>
 		<e><p><l>zdvořilost<s n="n"/><s n="f"/></l><r>zdvořêlosť<s n="n"/><s n="f"/></r></p></e>
 		<e><p><l>knoflíček<s n="n"/><s n="mi"/></l><r>knofliček<s n="n"/><s n="mi"/></r></p></e>
-		<e><p><l>horník<s n="n"/><s n="ma"/></l><r>horník<s n="n"/><s n="ma"/></r></p></e>
+		<e><p><l>horník<s n="n"/><s n="ma"/></l><r>hornik<s n="n"/><s n="ma"/></r></p></e>
 		<e><p><l>hloupost<s n="n"/><s n="nt"/></l><r>hlóposť<s n="n"/><s n="nt"/></r></p></e>
 		<e><p><l>hypnóza<s n="n"/><s n="f"/></l><r>hypnóza<s n="n"/><s n="f"/></r></p></e>
 		<e><p><l>hřivna<s n="n"/><s n="f"/></l><r>hřevna<s n="n"/><s n="f"/></r></p></e>
@@ -5712,7 +5712,7 @@
 		<e><p><l>jídelníček<s n="n"/><s n="mi"/></l><r>jidelniček<s n="n"/><s n="mi"/></r></p></e>
 		<e><p><l>almužna<s n="n"/><s n="f"/></l><r>almožna<s n="n"/><s n="f"/></r></p></e>
 		<e c="mp-mi!wtf!"><p><l>klenotnictví<s n="n"/><s n="mi"/></l><r>klenotnictví<s n="n"/><s n="mi"/></r></p></e>
-		<e><p><l>junák<s n="n"/><s n="ma"/></l><r>jonák<s n="n"/><s n="ma"/></r></p></e>
+		<e><p><l>junák<s n="n"/><s n="ma"/></l><r>junák<s n="n"/><s n="ma"/></r></p></e>
 		<e><p><l>kajakář<s n="n"/><s n="ma"/></l><r>kajakář<s n="n"/><s n="ma"/></r></p></e>
 		<e><p><l>kaktus<s n="n"/><s n="mi"/></l><r>kaktos<s n="n"/><s n="mi"/></r></p></e>
 		<e><p><l>kameník<s n="n"/><s n="ma"/></l><r>kamenik<s n="n"/><s n="ma"/></r></p></e>
@@ -5747,13 +5747,13 @@
 		<e><p><l>knihkupec<s n="n"/><s n="ma"/></l><r>knihkopec<s n="n"/><s n="ma"/></r></p></e>
 		<e><p><l>kulisa<s n="n"/><s n="f"/></l><r>kôlêsa<s n="n"/><s n="f"/></r></p></e>
 		<e><p><l>koutek<s n="n"/><s n="mi"/></l><r>kótek<s n="n"/><s n="mi"/></r></p></e>
-		<e><p><l>pytlák<s n="n"/><s n="ma"/></l><r>petlák<s n="n"/><s n="ma"/></r></p></e>
+		<e><p><l>pytlák<s n="n"/><s n="ma"/></l><r>pêtlák<s n="n"/><s n="ma"/></r></p></e>
 		<e><p><l>lakovna<s n="n"/><s n="f"/></l><r>lakyrňa<s n="n"/><s n="f"/></r></p></e>
 		<e><p><l>léčebna<s n="n"/><s n="f"/></l><r>léčebna<s n="n"/><s n="f"/></r></p></e>
 		<e><p><l>průkaz<s n="n"/><s n="f"/></l><r>průkaz<s n="n"/><s n="f"/></r></p></e>
 		<e><p><l>povaleč<s n="n"/><s n="ma"/></l><r>povaleč<s n="n"/><s n="ma"/></r></p></e>
 		<e><p><l>levice<s n="n"/><s n="f"/></l><r>levica<s n="n"/><s n="f"/></r></p></e>
-		<e><p><l>lesník<s n="n"/><s n="ma"/></l><r>lesník<s n="n"/><s n="ma"/></r></p></e>
+		<e><p><l>lesník<s n="n"/><s n="ma"/></l><r>lesnik<s n="n"/><s n="ma"/></r></p></e>
 		<e><p><l>výtopna<s n="n"/><s n="f"/></l><r>výtopna<s n="n"/><s n="f"/></r></p></e>
 		<e><p><l>letec<s n="n"/><s n="ma"/></l><r>letec<s n="n"/><s n="ma"/></r></p></e>
 		<e><p><l>mateřství<s n="n"/><s n="nt"/></l><r>mateřstvi<s n="n"/><s n="nt"/></r></p></e>
@@ -5773,14 +5773,14 @@
 		<e><p><l>mísa<s n="n"/><s n="f"/></l><r>misa<s n="n"/><s n="f"/></r></p></e>
 		<e><p><l>mezipřistání<s n="n"/><s n="nt"/></l><r>mezipřistání<s n="n"/><s n="nt"/></r></p></e>
 		<e><p><l>mšice<s n="n"/><s n="f"/></l><r>mšêca<s n="n"/><s n="f"/></r></p></e>
-		<e><p><l>zedník<s n="n"/><s n="ma"/></l><r>zeďnik<s n="n"/><s n="ma"/></r></p></e>
-		<e><p><l>mučedník<s n="n"/><s n="ma"/></l><r>močelnik<s n="n"/><s n="ma"/></r></p></e>
+		<e><p><l>zedník<s n="n"/><s n="ma"/></l><r>zednik<s n="n"/><s n="ma"/></r></p></e>
+		<e><p><l>mučedník<s n="n"/><s n="ma"/></l><r>môčednik<s n="n"/><s n="ma"/></r></p></e>
 		<e><p><l>zmatek<s n="n"/><s n="mi"/></l><r>zmata<s n="n"/><s n="mi"/></r></p></e>
 		<e><p><l>návěs<s n="n"/><s n="f"/></l><r>návěs<s n="n"/><s n="f"/></r></p></e>
 		<e><p><l>záhlaví<s n="n"/><s n="mi"/></l><r>záhlaví<s n="n"/><s n="mi"/></r></p></e>
 		<e><p><l>rozkaz<s n="n"/><s n="mi"/></l><r>rozkaz<s n="n"/><s n="mi"/></r></p></e>
 		<e><p><l>náležitost<s n="n"/><s n="f"/></l><r>náležitost<s n="n"/><s n="f"/></r></p></e>
-		<e><p><l>útočník<s n="n"/><s n="ma"/></l><r>ótočnik<s n="n"/><s n="ma"/></r></p></e>
+		<e><p><l>útočník<s n="n"/><s n="ma"/></l><r>utočnik<s n="n"/><s n="ma"/></r></p></e>
 		<e><p><l>nedostatek<s n="n"/><s n="mi"/></l><r>nedostatek<s n="n"/><s n="mi"/></r></p></e>
 		<e><p><l>nedopatření<s n="n"/><s n="nt"/></l><r>nedopatřeni<s n="n"/><s n="nt"/></r></p></e>
 		<e><p><l>nedopalek<s n="n"/><s n="f"/></l><r>nedopalek<s n="n"/><s n="f"/></r></p></e>
@@ -5790,7 +5790,7 @@
 		<e><p><l>méněcennost<s n="n"/><s n="nt"/></l><r>méněcennost<s n="n"/><s n="nt"/></r></p></e>
 		<e><p><l>nepořádek<s n="n"/><s n="mi"/></l><r>nepořádek<s n="n"/><s n="mi"/></r></p></e>
 		<e><p><l>průhlednost<s n="n"/><s n="f"/></l><r>průhlednost<s n="n"/><s n="f"/></r></p></e>
-		<e><p><l>nešťastník<s n="n"/><s n="ma"/></l><r>nešťastník<s n="n"/><s n="ma"/></r></p></e>
+		<e><p><l>nešťastník<s n="n"/><s n="ma"/></l><r>neščasnik<s n="n"/><s n="ma"/></r></p></e>
 		<e><p><l>nepozornost<s n="n"/><s n="f"/></l><r>nepozornost<s n="n"/><s n="f"/></r></p></e>
 		<e><p><l>spokojenost<s n="n"/><s n="nt"/></l><r>spokojenost<s n="n"/><s n="nt"/></r></p></e>
 		<e><p><l>nespokojenost<s n="n"/><s n="nt"/></l><r>nespokojenost<s n="n"/><s n="nt"/></r></p></e>
@@ -5822,7 +5822,7 @@
 		<e><p><l>opilství<s n="n"/><s n="nt"/></l><r>opilstvi<s n="n"/><s n="nt"/></r></p></e>
 		<e><p><l>vypravěč<s n="n"/><s n="ma"/></l><r>vêkladač<s n="n"/><s n="ma"/></r></p></e>
 		<e><p><l>oráč<s n="n"/><s n="ma"/></l><r>oráč<s n="n"/><s n="ma"/></r></p></e>
-		<e><p><l>řečník<s n="n"/><s n="ma"/></l><r>řečník<s n="n"/><s n="ma"/></r></p></e>
+		<e><p><l>řečník<s n="n"/><s n="ma"/></l><r>řečnik<s n="n"/><s n="ma"/></r></p></e>
 		<e><p><l>pravopis<s n="n"/><s n="f"/></l><r>pravopis<s n="n"/><s n="f"/></r></p></e>
 		<e><p><l>oříšek<s n="n"/><s n="ma"/></l><r>ořišek<s n="n"/><s n="ma"/></r></p></e>
 		<e r="LR"><p><l>oříšek<s n="n"/><s n="mi"/></l><r>ořišek<s n="n"/><s n="mi"/></r></p></e>
@@ -5843,7 +5843,7 @@
 		<e><p><l>smůla<s n="n"/><s n="ma"/></l><r>smola<s n="n"/><s n="ma"/></r></p></e>
 		<e><p><l>zmocněnec<s n="n"/><s n="ma"/></l><r>zmocněnec<s n="n"/><s n="ma"/></r></p></e>
 		<e><p><l>pekárna<s n="n"/><s n="f"/></l><r>pekárňa<s n="n"/><s n="f"/></r></p></e>
-		<e><p><l>prvok<s n="n"/><s n="mi"/></l><r>prvok<s n="n"/><s n="mi"/></r></p></e>
+		<e><p><l>prvok<s n="n"/><s n="ma"/></l><r>prvok<s n="n"/><s n="ma"/></r></p></e>
 		<e><p><l>horlivost<s n="n"/><s n="f"/></l><r>horlevosť<s n="n"/><s n="f"/></r></p></e>
 		<e><p><l>pirátství<s n="n"/><s n="nt"/></l><r>pirátstvi<s n="n"/><s n="nt"/></r></p></e>
 		<e><p><l>pivnice<s n="n"/><s n="f"/></l><r>pivnica<s n="n"/><s n="f"/></r></p></e>
@@ -5859,7 +5859,7 @@
 		<e><p><l>žhář<s n="n"/><s n="ma"/></l><r>žhář<s n="n"/><s n="ma"/></r></p></e>
 		<e><p><l>podvozek<s n="n"/><s n="mi"/></l><r>podvozek<s n="n"/><s n="mi"/></r></p></e>
 		<e><p><l>pohanství<s n="n"/><s n="nt"/></l><r>pohanstvi<s n="n"/><s n="nt"/></r></p></e>
-		<e><p><l>pohraničník<s n="n"/><s n="ma"/></l><r>pohraničník<s n="n"/><s n="ma"/></r></p></e>
+		<e><p><l>pohraničník<s n="n"/><s n="ma"/></l><r>pohraničnik<s n="n"/><s n="ma"/></r></p></e>
 		<e><p><l>dóza<s n="n"/><s n="mi"/></l><r>dóza<s n="n"/><s n="mi"/></r></p></e>
 		<e><p><l>poklesek<s n="n"/><s n="mi"/></l><r>poklesek<s n="n"/><s n="mi"/></r></p></e>
 		<e><p><l>příbuznost<s n="n"/><s n="nt"/></l><r>příbuznost<s n="n"/><s n="nt"/></r></p></e>
@@ -5869,7 +5869,7 @@
 		<e><p><l>citlivost<s n="n"/><s n="f"/></l><r>cetlevosť<s n="n"/><s n="f"/></r></p></e>
 		<e><p><l>romanopisec<s n="n"/><s n="ma"/></l><r>romanopisec<s n="n"/><s n="ma"/></r></p></e>
 		<e><p><l>zdrženlivost<s n="n"/><s n="f"/></l><r>zdrženlevosť<s n="n"/><s n="f"/></r></p></e>
-		<e><p><l>prostředník<s n="n"/><s n="ma"/></l><r>prostředník<s n="n"/><s n="ma"/></r></p></e>
+		<e><p><l>prostředník<s n="n"/><s n="ma"/></l><r>prostřednik<s n="n"/><s n="ma"/></r></p></e>
 		<e><p><l>pracovnice<s n="n"/><s n="f"/></l><r>pracovnica<s n="n"/><s n="f"/></r></p></e>
 		<e><p><l>čistírna<s n="n"/><s n="f"/></l><r>čêstirna<s n="n"/><s n="f"/></r></p></e>
 		<e><p><l>pravdomluvnost<s n="n"/><s n="f"/></l><r>pravdomlovnosť<s n="n"/><s n="f"/></r></p></e>
@@ -5918,7 +5918,7 @@
 		<e r="LR"><p><l>specifičnost<s n="n"/><s n="f"/></l><r>specifičnost<s n="n"/><s n="f"/></r></p></e>
 		<e><p><l>spirála<s n="n"/><s n="f"/></l><r>spirála<s n="n"/><s n="f"/></r></p></e>
 		<e><p><l>vnímavost<s n="n"/><s n="f"/></l><r>vnímavost<s n="n"/><s n="f"/></r></p></e>
-		<e><p><l>zpovědník<s n="n"/><s n="ma"/></l><r>zpovědník<s n="n"/><s n="ma"/></r></p></e>
+		<e><p><l>zpovědník<s n="n"/><s n="ma"/></l><r>zpovědnik<s n="n"/><s n="ma"/></r></p></e>
 		<e><p><l>stanice<s n="n"/><s n="f"/></l><r>stanica<s n="n"/><s n="f"/></r></p></e>
 		<e><p><l>loděnice<s n="n"/><s n="f"/></l><r>loděnica<s n="n"/><s n="f"/></r></p></e>
 		<e><p><l>truhlář<s n="n"/><s n="ma"/></l><r>truhlář<s n="n"/><s n="ma"/></r></p></e>
@@ -5945,7 +5945,7 @@
 		<e><p><l>mrtvola<s n="n"/><s n="f"/></l><r>mrtvola<s n="n"/><s n="f"/></r></p></e>
 		<e><p><l>tuberkulóza<s n="n"/><s n="f"/></l><r>tubera<s n="n"/><s n="f"/></r></p></e>
 		<e><p><l>běženec<s n="n"/><s n="ma"/></l><r>běženec<s n="n"/><s n="ma"/></r></p></e>
-		<e><p><l>uprchlík<s n="n"/><s n="ma"/></l><r>uprchlík<s n="n"/><s n="ma"/></r></p></e>
+		<e><p><l>uprchlík<s n="n"/><s n="ma"/></l><r>ôprchlik<s n="n"/><s n="ma"/></r></p></e>
 		<e><p><l>poctivost<s n="n"/><s n="f"/></l><r>poctivosť<s n="n"/><s n="f"/></r></p></e>
 		<e><p><l>úmrtnost<s n="n"/><s n="f"/></l><r>úmrtnost<s n="n"/><s n="f"/></r></p></e>
 		<e><p><l>univerzálnost<s n="n"/><s n="f"/></l><r>univerzálnost<s n="n"/><s n="f"/></r></p></e>
@@ -5978,7 +5978,7 @@
 		<e><p><l>životnost<s n="n"/><s n="f"/></l><r>žêvotnosť<s n="n"/><s n="f"/></r></p></e>
 		<e><p><l>vitrína<s n="n"/><s n="f"/></l><r>vitrina<s n="n"/><s n="f"/></r></p></e>
 		<e><p><l>bojovnost<s n="n"/><s n="f"/></l><r>bojovnost<s n="n"/><s n="f"/></r></p></e>
-		<e><p><l>dobrovolník<s n="n"/><s n="mi"/></l><r>dobrovolník<s n="n"/><s n="mi"/></r></p></e>
+		<e><p><l>dobrovolník<s n="n"/><s n="mi"/></l><r>dobrovolnik<s n="n"/><s n="ma"/></r></p></e>
 		<e><p><l>citlivost<s n="n"/><s n="f"/></l><r>cetlevosť<s n="n"/><s n="f"/></r></p></e>
 		<e><p><l>horolezec<s n="n"/><s n="ma"/></l><r>horolezec<s n="n"/><s n="ma"/></r></p></e>
 		<e><p><l>střídmost<s n="n"/><s n="f"/></l><r>střídmost<s n="n"/><s n="f"/></r></p></e>
@@ -6010,17 +6010,17 @@
 		<e><p><l>výdělek<s n="n"/><s n="mi"/></l><r>védělek<s n="n"/><s n="mi"/></r></p></e>
 		<e><p><l>užitek<s n="n"/><s n="mi"/></l><r>ôžetek<s n="n"/><s n="mi"/></r></p></e>
 		<e><p><l>žárlivost<s n="n"/><s n="f"/></l><r>žárlivost<s n="n"/><s n="f"/></r></p></e>
-		<e><p><l>zbojník<s n="n"/><s n="ma"/></l><r>zbunik<s n="n"/><s n="ma"/></r></p></e>
+		<e><p><l>zbojník<s n="n"/><s n="ma"/></l><r>zbojnik<s n="n"/><s n="ma"/></r></p></e>
 		<e><p><l>záludnost<s n="n"/><s n="f"/></l><r>zálôda<s n="n"/><s n="f"/></r></p></e>
 		<e><p><l>nula<s n="n"/><s n="nt"/></l><r>nula<s n="n"/><s n="nt"/></r></p></e>
-		<e><p><l>bídník<s n="n"/><s n="ma"/></l><r>biďnik<s n="n"/><s n="ma"/></r></p></e>
+		<e><p><l>bídník<s n="n"/><s n="ma"/></l><r>bidnik<s n="n"/><s n="ma"/></r></p></e>
 		<e><p><l>lamač<s n="n"/><s n="ma"/></l><r>lamač<s n="n"/><s n="ma"/></r></p></e>
 		<e><p><l>utěrka<s n="n"/><s n="f"/></l><r>utěrka<s n="n"/><s n="f"/></r></p></e>
 		<e><p><l>sliznice<s n="n"/><s n="f"/></l><r>slêznica<s n="n"/><s n="f"/></r></p></e>
 		<e><p><l>smrtelník<s n="n"/><s n="ma"/></l><r>smrtelnik<s n="n"/><s n="ma"/></r></p></e>
 		<e><p><l>popelnice<s n="n"/><s n="f"/></l><r>popelnica<s n="n"/><s n="f"/></r></p></e>
 		<e><p><l>plachetnice<s n="n"/><s n="f"/></l><r>placheťnica<s n="n"/><s n="f"/></r></p></e>
-		<e><p><l>četník<s n="n"/><s n="ma"/></l><r>četník<s n="n"/><s n="ma"/></r></p></e>
+		<e><p><l>četník<s n="n"/><s n="ma"/></l><r>četnik<s n="n"/><s n="ma"/></r></p></e>
 		<e><p><l>vroucnost<s n="n"/><s n="f"/></l><r>vrócnosť<s n="n"/><s n="f"/></r></p></e>
 		<e><p><l>požadavek<s n="n"/><s n="nt"/></l><r>požadavek<s n="n"/><s n="nt"/></r></p></e>
 		<e><p><l>starožitnost<s n="n"/><s n="mi"/></l><r>starožitnost<s n="n"/><s n="mi"/></r></p></e>
@@ -7647,7 +7647,7 @@
 		<e><p><l>dol<s n="n"/><s n="mi"/></l><r>dul<s n="n"/><s n="mi"/></r></p></e>
 		<e><p><l>dostup<s n="n"/><s n="mi"/></l><r>dostup<s n="n"/><s n="mi"/></r></p></e>
 		<e><p><l>draga<s n="n"/><s n="f"/></l><r>draga<s n="n"/><s n="f"/></r></p></e>
-		<e><p><l>dráteník<s n="n"/><s n="ma"/></l><r>dráteník<s n="n"/><s n="ma"/></r></p></e>
+		<e><p><l>dráteník<s n="n"/><s n="ma"/></l><r>drátenik<s n="n"/><s n="ma"/></r></p></e>
 		<e><p><l>dřevořez<s n="n"/><s n="mi"/></l><r>dřevořez<s n="n"/><s n="mi"/></r></p></e>
 		<e><p><l>drezína<s n="n"/><s n="f"/></l><r>drezina<s n="n"/><s n="f"/></r></p></e>
 		<e><p><l>drink<s n="n"/><s n="mi"/></l><r>drink<s n="n"/><s n="mi"/></r></p></e>
@@ -7709,7 +7709,7 @@
 		<e><p><l>kalužina<s n="n"/><s n="f"/></l><r>kalôžina<s n="n"/><s n="f"/></r></p></e>
 		<e><p><l>kamenina<s n="n"/><s n="f"/></l><r>kamenina<s n="n"/><s n="f"/></r></p></e>
 		<e><p><l>kanárek<s n="n"/><s n="ma"/></l><r>kanárek<s n="n"/><s n="ma"/></r></p></e>
-		<e><p><l>kanovník<s n="n"/><s n="ma"/></l><r>kanovník<s n="n"/><s n="ma"/></r></p></e>
+		<e><p><l>kanovník<s n="n"/><s n="ma"/></l><r>kanovnik<s n="n"/><s n="ma"/></r></p></e>
 		<e><p><l>kapitulace<s n="n"/><s n="f"/></l><r>kapitolaca<s n="n"/><s n="f"/></r></p></e>
 		<e><p><l>karoten<s n="n"/><s n="mi"/></l><r>karoten<s n="n"/><s n="mi"/></r></p></e>
 		<e><p><l>kašmír<s n="n"/><s n="mi"/></l><r>kašmír<s n="n"/><s n="mi"/></r></p></e>
@@ -13931,6 +13931,11 @@
 -->
 
 <!-- additional words
+		<e><p><l>óčastnik<s n="n"/><s n="ma"/></l><r>učastnik<s n="n"/><s n="ma"/></r></p></e>
+		<e><p><l>vysokoškolák<s n="n"/><s n="ma"/></l><r>vêsokoškolák<s n="n"/><s n="ma"/></r></p></e>
+		<e><p><l>panovník<s n="n"/><s n="ma"/></l><r>panovnik<s n="n"/><s n="ma"/></r></p></e>
+		<e><p><l>fešák<s n="n"/><s n="ma"/></l><r>fešák<s n="n"/><s n="ma"/></r></p></e>
+		<e><p><l>příslušník<s n="n"/><s n="ma"/></l><r>přéslôšnik<s n="n"/><s n="ma"/></r></p></e>
 		<e><p><l>zesílení<s n="n"/><s n="nt"/></l><r>zesileni<s n="n"/><s n="nt"/></r></p></e>
 		<e><p><l>upálení<s n="n"/><s n="nt"/></l><r>ôpáleni<s n="n"/><s n="nt"/></r></p></e>
 		<e><p><l>zapření<s n="n"/><s n="nt"/></l><r>zapřeni<s n="n"/><s n="nt"/></r></p></e>
@@ -13964,7 +13969,7 @@
 		<e><p><l>biftek<s n="n"/><s n="mi"/></l><r>biftek<s n="n"/><s n="mi"/></r></p></e>
 		<e><p><l>piják<s n="n"/><s n="mi"/></l><r>piják<s n="n"/><s n="mi"/></r></p></e>
 		<e><p><l>svlak<s n="n"/><s n="mi"/></l><r>slak<s n="n"/><s n="mi"/></r></p></e>
-		<e><p><l>kozák<s n="n"/><s n="mi"/></l><r>kozák<s n="n"/><s n="mi"/></r></p></e>
+		<e><p><l>kozák<s n="n"/><s n="mi"/></l><r>kozák<s n="n"/><s n="ma"/></r></p></e>
 		<e><p><l>punk<s n="n"/><s n="mi"/></l><r>pônk<s n="n"/><s n="mi"/></r></p></e>
 		<e><p><l>orienťák<s n="n"/><s n="mi"/></l><r>orienťák<s n="n"/><s n="mi"/></r></p></e>
 		<e><p><l>stejk<s n="n"/><s n="mi"/></l><r>sték<s n="n"/><s n="mi"/></r></p></e>
