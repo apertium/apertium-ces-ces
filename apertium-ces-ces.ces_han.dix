@@ -13091,702 +13091,702 @@
     </pardef>
 
 
-    <pardef n="BASE__kterékole">
+    <pardef n="BASE__kerékolê">
     <e>
       <p>
-        <l>rékole</l>
+        <l>rékolê</l>
         <r><s n="prn"/><s n="ind"/><s n="ma"/><s n="sg"/><s n="nom"/></r>
       </p>
     </e>
 
     <e>
       <p>
-        <l>réhokole</l>
+        <l>réhokolê</l>
         <r><s n="prn"/><s n="ind"/><s n="ma"/><s n="sg"/><s n="gen"/></r>
       </p>
     </e>
 
     <e>
       <p>
-        <l>réhokole</l>
+        <l>réhokolê</l>
         <r><s n="prn"/><s n="ind"/><s n="ma"/><s n="sg"/><s n="acc"/></r>
       </p>
     </e>
 
     <e>
       <p>
-        <l>rémôkole</l>
+        <l>rémôkolê</l>
         <r><s n="prn"/><s n="ind"/><s n="ma"/><s n="sg"/><s n="dat"/></r>
       </p>
     </e>
 
     <e>
       <p>
-        <l>rémkole</l>
+        <l>rémkolê</l>
         <r><s n="prn"/><s n="ind"/><s n="ma"/><s n="sg"/><s n="ins"/></r>
       </p>
     </e>
 
     <e>
       <p>
-        <l>rémkole</l>
+        <l>rémkolê</l>
         <r><s n="prn"/><s n="ind"/><s n="ma"/><s n="sg"/><s n="loc"/></r>
       </p>
     </e>
 
     <e>
       <p>
-        <l>rékole</l>
+        <l>rékolê</l>
         <r><s n="prn"/><s n="ind"/><s n="ma"/><s n="pl"/><s n="acc"/></r>
       </p>
     </e>
 
     <e>
       <p>
-        <l>řikole</l>
+        <l>řikolê</l>
         <r><s n="prn"/><s n="ind"/><s n="ma"/><s n="pl"/><s n="nom"/></r>
       </p>
     </e>
 
     <e>
       <p>
-        <l>réchkole</l>
+        <l>réchkolê</l>
         <r><s n="prn"/><s n="ind"/><s n="ma"/><s n="pl"/><s n="gen"/></r>
       </p>
     </e>
 
     <e>
       <p>
-        <l>rémkole</l>
+        <l>rémkolê</l>
         <r><s n="prn"/><s n="ind"/><s n="ma"/><s n="pl"/><s n="dat"/></r>
       </p>
     </e>
 
     <e>
       <p>
-        <l>rémakole</l>
+        <l>rémakolê</l>
         <r><s n="prn"/><s n="ind"/><s n="ma"/><s n="pl"/><s n="ins"/></r>
       </p>
     </e>
 
     <e>
       <p>
-        <l>réchkole</l>
+        <l>réchkolê</l>
         <r><s n="prn"/><s n="ind"/><s n="ma"/><s n="pl"/><s n="loc"/></r>
       </p>
     </e>
 
     <e>
       <p>
-        <l>rékole</l>
+        <l>rékolê</l>
         <r><s n="prn"/><s n="ind"/><s n="mi"/><s n="sg"/><s n="acc"/></r>
       </p>
     </e>
 
     <e>
       <p>
-        <l>rékole</l>
+        <l>rékolê</l>
         <r><s n="prn"/><s n="ind"/><s n="mi"/><s n="sg"/><s n="nom"/></r>
       </p>
     </e>
 
     <e>
       <p>
-        <l>réhokole</l>
+        <l>réhokolê</l>
         <r><s n="prn"/><s n="ind"/><s n="mi"/><s n="sg"/><s n="gen"/></r>
       </p>
     </e>
 
     <e>
       <p>
-        <l>rémôkole</l>
+        <l>rémôkolê</l>
         <r><s n="prn"/><s n="ind"/><s n="mi"/><s n="sg"/><s n="dat"/></r>
       </p>
     </e>
 
     <e>
       <p>
-        <l>rémkole</l>
+        <l>rémkolê</l>
         <r><s n="prn"/><s n="ind"/><s n="mi"/><s n="sg"/><s n="ins"/></r>
       </p>
     </e>
 
     <e>
       <p>
-        <l>rémkole</l>
+        <l>rémkolê</l>
         <r><s n="prn"/><s n="ind"/><s n="mi"/><s n="sg"/><s n="loc"/></r>
       </p>
     </e>
 
     <e>
       <p>
-        <l>rékole</l>
+        <l>rékolê</l>
         <r><s n="prn"/><s n="ind"/><s n="mi"/><s n="pl"/><s n="acc"/></r>
       </p>
     </e>
 
     <e>
       <p>
-        <l>rékole</l>
+        <l>rékolê</l>
         <r><s n="prn"/><s n="ind"/><s n="mi"/><s n="pl"/><s n="nom"/></r>
       </p>
     </e>
 
     <e>
       <p>
-        <l>réchkole</l>
+        <l>réchkolê</l>
         <r><s n="prn"/><s n="ind"/><s n="mi"/><s n="pl"/><s n="gen"/></r>
       </p>
     </e>
 
     <e>
       <p>
-        <l>rymkole</l>
+        <l>rymkolê</l>
         <r><s n="prn"/><s n="ind"/><s n="mi"/><s n="pl"/><s n="dat"/></r>
       </p>
     </e>
 
     <e>
       <p>
-        <l>rémakole</l>
+        <l>rémakolê</l>
         <r><s n="prn"/><s n="ind"/><s n="mi"/><s n="pl"/><s n="ins"/></r>
       </p>
     </e>
 
     <e>
       <p>
-        <l>réchkole</l>
+        <l>réchkolê</l>
         <r><s n="prn"/><s n="ind"/><s n="mi"/><s n="pl"/><s n="loc"/></r>
       </p>
     </e>
 
     <e>
       <p>
-        <l>rókole</l>
+        <l>rókolê</l>
         <r><s n="prn"/><s n="ind"/><s n="f"/><s n="sg"/><s n="acc"/></r>
       </p>
     </e>
 
     <e>
       <p>
-        <l>rákole</l>
+        <l>rákolê</l>
         <r><s n="prn"/><s n="ind"/><s n="f"/><s n="sg"/><s n="nom"/></r>
       </p>
     </e>
 
     <e>
       <p>
-        <l>rékole</l>
+        <l>rékolê</l>
         <r><s n="prn"/><s n="ind"/><s n="f"/><s n="sg"/><s n="gen"/></r>
       </p>
     </e>
 
     <e>
       <p>
-        <l>rékole</l>
+        <l>rékolê</l>
         <r><s n="prn"/><s n="ind"/><s n="f"/><s n="sg"/><s n="dat"/></r>
       </p>
     </e>
 
     <e>
       <p>
-        <l>rókole</l>
+        <l>rókolê</l>
         <r><s n="prn"/><s n="ind"/><s n="f"/><s n="sg"/><s n="ins"/></r>
       </p>
     </e>
 
     <e>
       <p>
-        <l>rékole</l>
+        <l>rékolê</l>
         <r><s n="prn"/><s n="ind"/><s n="f"/><s n="sg"/><s n="loc"/></r>
       </p>
     </e>
 
     <e>
       <p>
-        <l>rékole</l>
+        <l>rékolê</l>
         <r><s n="prn"/><s n="ind"/><s n="f"/><s n="pl"/><s n="acc"/></r>
       </p>
     </e>
 
     <e>
       <p>
-        <l>rékole</l>
+        <l>rékolê</l>
         <r><s n="prn"/><s n="ind"/><s n="f"/><s n="pl"/><s n="nom"/></r>
       </p>
     </e>
 
     <e>
       <p>
-        <l>réchkole</l>
+        <l>réchkolê</l>
         <r><s n="prn"/><s n="ind"/><s n="f"/><s n="pl"/><s n="gen"/></r>
       </p>
     </e>
 
     <e>
       <p>
-        <l>rymkole</l>
+        <l>rymkolê</l>
         <r><s n="prn"/><s n="ind"/><s n="f"/><s n="pl"/><s n="dat"/></r>
       </p>
     </e>
 
     <e>
       <p>
-        <l>rémakole</l>
+        <l>rémakolê</l>
         <r><s n="prn"/><s n="ind"/><s n="f"/><s n="pl"/><s n="ins"/></r>
       </p>
     </e>
 
     <e>
       <p>
-        <l>réchkole</l>
+        <l>réchkolê</l>
         <r><s n="prn"/><s n="ind"/><s n="f"/><s n="pl"/><s n="loc"/></r>
       </p>
     </e>
 
     <e>
       <p>
-        <l>rékole</l>
+        <l>rékolê</l>
         <r><s n="prn"/><s n="ind"/><s n="nt"/><s n="sg"/><s n="acc"/></r>
       </p>
     </e>
 
     <e>
       <p>
-        <l>rékole</l>
+        <l>rékolê</l>
         <r><s n="prn"/><s n="ind"/><s n="nt"/><s n="sg"/><s n="nom"/></r>
       </p>
     </e>
 
     <e>
       <p>
-        <l>réhokole</l>
+        <l>réhokolê</l>
         <r><s n="prn"/><s n="ind"/><s n="nt"/><s n="sg"/><s n="gen"/></r>
       </p>
     </e>
 
     <e>
       <p>
-        <l>rémôkole</l>
+        <l>rémôkolê</l>
         <r><s n="prn"/><s n="ind"/><s n="nt"/><s n="sg"/><s n="dat"/></r>
       </p>
     </e>
 
     <e>
       <p>
-        <l>rymkole</l>
+        <l>rymkolê</l>
         <r><s n="prn"/><s n="ind"/><s n="nt"/><s n="sg"/><s n="ins"/></r>
       </p>
     </e>
 
     <e>
       <p>
-        <l>rémkole</l>
+        <l>rémkolê</l>
         <r><s n="prn"/><s n="ind"/><s n="nt"/><s n="sg"/><s n="loc"/></r>
       </p>
     </e>
 
     <e>
       <p>
-        <l>rákole</l>
+        <l>rákolê</l>
         <r><s n="prn"/><s n="ind"/><s n="nt"/><s n="pl"/><s n="acc"/></r>
       </p>
     </e>
 
     <e>
       <p>
-        <l>rákole</l>
+        <l>rákolê</l>
         <r><s n="prn"/><s n="ind"/><s n="nt"/><s n="pl"/><s n="nom"/></r>
       </p>
     </e>
 
     <e>
       <p>
-        <l>réchkole</l>
+        <l>réchkolê</l>
         <r><s n="prn"/><s n="ind"/><s n="nt"/><s n="pl"/><s n="gen"/></r>
       </p>
     </e>
 
     <e>
       <p>
-        <l>rymkole</l>
+        <l>rymkolê</l>
         <r><s n="prn"/><s n="ind"/><s n="nt"/><s n="pl"/><s n="dat"/></r>
       </p>
     </e>
 
     <e>
       <p>
-        <l>rémakole</l>
+        <l>rémakolê</l>
         <r><s n="prn"/><s n="ind"/><s n="nt"/><s n="pl"/><s n="ins"/></r>
       </p>
     </e>
 
     <e>
       <p>
-        <l>rychkole</l>
+        <l>rychkolê</l>
         <r><s n="prn"/><s n="ind"/><s n="nt"/><s n="pl"/><s n="loc"/></r>
       </p>
     </e>
     </pardef>
 
 
-    <pardef n="kte/rékole__prn">
+    <pardef n="ke/rékolê__prn">
     <e>
       <p>
         <l></l>
-        <r>rékole<s n="prn"/><s n="ind"/></r>
+        <r>rékolê<s n="prn"/><s n="ind"/></r>
       </p>
-        <par n="BASE__kterékole"/> 
+        <par n="BASE__kerékolê"/> 
     </e>
     </pardef>
 
 
-    <pardef n="BASE__kterékolev">
+    <pardef n="BASE__kerékolêv">
     <e>
       <p>
-        <l>rékolev</l>
+        <l>rékolêv</l>
         <r><s n="prn"/><s n="ind"/><s n="ma"/><s n="sg"/><s n="nom"/></r>
       </p>
     </e>
 
     <e>
       <p>
-        <l>réhokolev</l>
+        <l>réhokolêv</l>
         <r><s n="prn"/><s n="ind"/><s n="ma"/><s n="sg"/><s n="gen"/></r>
       </p>
     </e>
 
     <e>
       <p>
-        <l>réhokolev</l>
+        <l>réhokolêv</l>
         <r><s n="prn"/><s n="ind"/><s n="ma"/><s n="sg"/><s n="acc"/></r>
       </p>
     </e>
 
     <e>
       <p>
-        <l>rémôkolev</l>
+        <l>rémôkolêv</l>
         <r><s n="prn"/><s n="ind"/><s n="ma"/><s n="sg"/><s n="dat"/></r>
       </p>
     </e>
 
     <e>
       <p>
-        <l>rémkolev</l>
+        <l>rémkolêv</l>
         <r><s n="prn"/><s n="ind"/><s n="ma"/><s n="sg"/><s n="ins"/></r>
       </p>
     </e>
 
     <e>
       <p>
-        <l>rémkolev</l>
+        <l>rémkolêv</l>
         <r><s n="prn"/><s n="ind"/><s n="ma"/><s n="sg"/><s n="loc"/></r>
       </p>
     </e>
 
     <e>
       <p>
-        <l>rékolev</l>
+        <l>rékolêv</l>
         <r><s n="prn"/><s n="ind"/><s n="ma"/><s n="pl"/><s n="acc"/></r>
       </p>
     </e>
 
     <e>
       <p>
-        <l>řikolev</l>
+        <l>řikolêv</l>
         <r><s n="prn"/><s n="ind"/><s n="ma"/><s n="pl"/><s n="nom"/></r>
       </p>
     </e>
 
     <e>
       <p>
-        <l>réchkolev</l>
+        <l>réchkolêv</l>
         <r><s n="prn"/><s n="ind"/><s n="ma"/><s n="pl"/><s n="gen"/></r>
       </p>
     </e>
 
     <e>
       <p>
-        <l>rémkolev</l>
+        <l>rémkolêv</l>
         <r><s n="prn"/><s n="ind"/><s n="ma"/><s n="pl"/><s n="dat"/></r>
       </p>
     </e>
 
     <e>
       <p>
-        <l>rémakolev</l>
+        <l>rémakolêv</l>
         <r><s n="prn"/><s n="ind"/><s n="ma"/><s n="pl"/><s n="ins"/></r>
       </p>
     </e>
 
     <e>
       <p>
-        <l>réchkolev</l>
+        <l>réchkolêv</l>
         <r><s n="prn"/><s n="ind"/><s n="ma"/><s n="pl"/><s n="loc"/></r>
       </p>
     </e>
 
     <e>
       <p>
-        <l>rékolev</l>
+        <l>rékolêv</l>
         <r><s n="prn"/><s n="ind"/><s n="mi"/><s n="sg"/><s n="acc"/></r>
       </p>
     </e>
 
     <e>
       <p>
-        <l>rékolev</l>
+        <l>rékolêv</l>
         <r><s n="prn"/><s n="ind"/><s n="mi"/><s n="sg"/><s n="nom"/></r>
       </p>
     </e>
 
     <e>
       <p>
-        <l>réhokolev</l>
+        <l>réhokolêv</l>
         <r><s n="prn"/><s n="ind"/><s n="mi"/><s n="sg"/><s n="gen"/></r>
       </p>
     </e>
 
     <e>
       <p>
-        <l>rémôkolev</l>
+        <l>rémôkolêv</l>
         <r><s n="prn"/><s n="ind"/><s n="mi"/><s n="sg"/><s n="dat"/></r>
       </p>
     </e>
 
     <e>
       <p>
-        <l>rémkolev</l>
+        <l>rémkolêv</l>
         <r><s n="prn"/><s n="ind"/><s n="mi"/><s n="sg"/><s n="ins"/></r>
       </p>
     </e>
 
     <e>
       <p>
-        <l>rémkolev</l>
+        <l>rémkolêv</l>
         <r><s n="prn"/><s n="ind"/><s n="mi"/><s n="sg"/><s n="loc"/></r>
       </p>
     </e>
 
     <e>
       <p>
-        <l>rékolev</l>
+        <l>rékolêv</l>
         <r><s n="prn"/><s n="ind"/><s n="mi"/><s n="pl"/><s n="acc"/></r>
       </p>
     </e>
 
     <e>
       <p>
-        <l>rékolev</l>
+        <l>rékolêv</l>
         <r><s n="prn"/><s n="ind"/><s n="mi"/><s n="pl"/><s n="nom"/></r>
       </p>
     </e>
 
     <e>
       <p>
-        <l>réchkolev</l>
+        <l>réchkolêv</l>
         <r><s n="prn"/><s n="ind"/><s n="mi"/><s n="pl"/><s n="gen"/></r>
       </p>
     </e>
 
     <e>
       <p>
-        <l>rymkolev</l>
+        <l>rymkolêv</l>
         <r><s n="prn"/><s n="ind"/><s n="mi"/><s n="pl"/><s n="dat"/></r>
       </p>
     </e>
 
     <e>
       <p>
-        <l>rémakolev</l>
+        <l>rémakolêv</l>
         <r><s n="prn"/><s n="ind"/><s n="mi"/><s n="pl"/><s n="ins"/></r>
       </p>
     </e>
 
     <e>
       <p>
-        <l>réchkolev</l>
+        <l>réchkolêv</l>
         <r><s n="prn"/><s n="ind"/><s n="mi"/><s n="pl"/><s n="loc"/></r>
       </p>
     </e>
 
     <e>
       <p>
-        <l>rókolev</l>
+        <l>rókolêv</l>
         <r><s n="prn"/><s n="ind"/><s n="f"/><s n="sg"/><s n="acc"/></r>
       </p>
     </e>
 
     <e>
       <p>
-        <l>rákolev</l>
+        <l>rákolêv</l>
         <r><s n="prn"/><s n="ind"/><s n="f"/><s n="sg"/><s n="nom"/></r>
       </p>
     </e>
 
     <e>
       <p>
-        <l>rékolev</l>
+        <l>rékolêv</l>
         <r><s n="prn"/><s n="ind"/><s n="f"/><s n="sg"/><s n="gen"/></r>
       </p>
     </e>
 
     <e>
       <p>
-        <l>rékolev</l>
+        <l>rékolêv</l>
         <r><s n="prn"/><s n="ind"/><s n="f"/><s n="sg"/><s n="dat"/></r>
       </p>
     </e>
 
     <e>
       <p>
-        <l>rókolev</l>
+        <l>rókolêv</l>
         <r><s n="prn"/><s n="ind"/><s n="f"/><s n="sg"/><s n="ins"/></r>
       </p>
     </e>
 
     <e>
       <p>
-        <l>rékolev</l>
+        <l>rékolêv</l>
         <r><s n="prn"/><s n="ind"/><s n="f"/><s n="sg"/><s n="loc"/></r>
       </p>
     </e>
 
     <e>
       <p>
-        <l>rékolev</l>
+        <l>rékolêv</l>
         <r><s n="prn"/><s n="ind"/><s n="f"/><s n="pl"/><s n="acc"/></r>
       </p>
     </e>
 
     <e>
       <p>
-        <l>rékolev</l>
+        <l>rékolêv</l>
         <r><s n="prn"/><s n="ind"/><s n="f"/><s n="pl"/><s n="nom"/></r>
       </p>
     </e>
 
     <e>
       <p>
-        <l>réchkolev</l>
+        <l>réchkolêv</l>
         <r><s n="prn"/><s n="ind"/><s n="f"/><s n="pl"/><s n="gen"/></r>
       </p>
     </e>
 
     <e>
       <p>
-        <l>rymkolev</l>
+        <l>rymkolêv</l>
         <r><s n="prn"/><s n="ind"/><s n="f"/><s n="pl"/><s n="dat"/></r>
       </p>
     </e>
 
     <e>
       <p>
-        <l>rémakolev</l>
+        <l>rémakolêv</l>
         <r><s n="prn"/><s n="ind"/><s n="f"/><s n="pl"/><s n="ins"/></r>
       </p>
     </e>
 
     <e>
       <p>
-        <l>réchkolev</l>
+        <l>réchkolêv</l>
         <r><s n="prn"/><s n="ind"/><s n="f"/><s n="pl"/><s n="loc"/></r>
       </p>
     </e>
 
     <e>
       <p>
-        <l>rékolev</l>
+        <l>rékolêv</l>
         <r><s n="prn"/><s n="ind"/><s n="nt"/><s n="sg"/><s n="acc"/></r>
       </p>
     </e>
 
     <e>
       <p>
-        <l>rékolev</l>
+        <l>rékolêv</l>
         <r><s n="prn"/><s n="ind"/><s n="nt"/><s n="sg"/><s n="nom"/></r>
       </p>
     </e>
 
     <e>
       <p>
-        <l>réhokolev</l>
+        <l>réhokolêv</l>
         <r><s n="prn"/><s n="ind"/><s n="nt"/><s n="sg"/><s n="gen"/></r>
       </p>
     </e>
 
     <e>
       <p>
-        <l>rémôkolev</l>
+        <l>rémôkolêv</l>
         <r><s n="prn"/><s n="ind"/><s n="nt"/><s n="sg"/><s n="dat"/></r>
       </p>
     </e>
 
     <e>
       <p>
-        <l>rymkolev</l>
+        <l>rymkolêv</l>
         <r><s n="prn"/><s n="ind"/><s n="nt"/><s n="sg"/><s n="ins"/></r>
       </p>
     </e>
 
     <e>
       <p>
-        <l>rémkolev</l>
+        <l>rémkolêv</l>
         <r><s n="prn"/><s n="ind"/><s n="nt"/><s n="sg"/><s n="loc"/></r>
       </p>
     </e>
 
     <e>
       <p>
-        <l>rákolev</l>
+        <l>rákolêv</l>
         <r><s n="prn"/><s n="ind"/><s n="nt"/><s n="pl"/><s n="acc"/></r>
       </p>
     </e>
 
     <e>
       <p>
-        <l>rákolev</l>
+        <l>rákolêv</l>
         <r><s n="prn"/><s n="ind"/><s n="nt"/><s n="pl"/><s n="nom"/></r>
       </p>
     </e>
 
     <e>
       <p>
-        <l>réchkolev</l>
+        <l>réchkolêv</l>
         <r><s n="prn"/><s n="ind"/><s n="nt"/><s n="pl"/><s n="gen"/></r>
       </p>
     </e>
 
     <e>
       <p>
-        <l>rymkolev</l>
+        <l>rymkolêv</l>
         <r><s n="prn"/><s n="ind"/><s n="nt"/><s n="pl"/><s n="dat"/></r>
       </p>
     </e>
 
     <e>
       <p>
-        <l>rémakolev</l>
+        <l>rémakolêv</l>
         <r><s n="prn"/><s n="ind"/><s n="nt"/><s n="pl"/><s n="ins"/></r>
       </p>
     </e>
 
     <e>
       <p>
-        <l>rychkolev</l>
+        <l>rychkolêv</l>
         <r><s n="prn"/><s n="ind"/><s n="nt"/><s n="pl"/><s n="loc"/></r>
       </p>
     </e>
     </pardef>
 
 
-    <pardef n="kte/rékolev__prn">
+    <pardef n="ke/rékolêv__prn">
     <e>
       <p>
         <l>v</l>
-        <r>rékolev<s n="prn"/><s n="ind"/></r>
+        <r>rékolêv<s n="prn"/><s n="ind"/></r>
       </p>
-        <par n="BASE__kterékolev"/>
+        <par n="BASE__kerékolêv"/>
     </e>
     </pardef>
 
@@ -57456,12 +57456,13 @@
     <e r="LR" lm="k"><p><l>k</l><r>k</r></p><par n="za__pr"/></e>
     <e r="LR" lm="ke"><p><l>ke</l><r>k</r></p><par n="za__pr"/></e>
     <e lm="kolem"><i>kolem</i><par n="za__pr"/></e>
+    <e lm="kolevá"><i>kolevá</i><par n="za__pr"/></e>
     <e lm="krom"><i>krom</i><par n="za__pr"/></e>
     <e lm="kromě"><i>kromě</i><par n="za__pr"/></e>
-    <e lm="kromě toho"><i>kromě<b/>toho</i><par n="za__pr"/></e>
+    <e lm="kromě teho"><i>kromě<b/>teho</i><par n="za__pr"/></e>
     <e lm="krát"><i>krát</i><par n="za__pr"/></e>
     <e r="LR" lm="ku"><p><l>ku</l><r>k</r></p><par n="za__pr"/></e>
-    <e lm="kvůli"><i>kvůli</i><par n="za__pr"/></e>
+    <e lm="kvulevá"><i>kvulevá</i><par n="za__pr"/></e>
     <e lm="mêzevá"><i>mêzevá</i><par n="za__pr"/></e>
     <e lm="mimo"><i>mimo</i><par n="za__pr"/></e>
     <e lm="mimoto"><i>mimoto</i><par n="za__pr"/></e>
@@ -57482,7 +57483,6 @@
     <e lm="o"><i>o</i><par n="za__pr"/></e>
     <e r="LR" lm="od"><i>od</i><par n="za__pr"/></e>
     <e r="LR" lm="od"><p><l>ode</l><r>od</r></p><par n="za__pr"/></e>
-    <e lm="okolo"><i>okolo</i><par n="za__pr"/></e>
     <e lm="oproti"><i>oproti</i><par n="za__pr"/></e>
     <e lm="po"><i>po</i><par n="za__pr"/></e>
     <e lm="pobléž"><i>pobléž</i><par n="za__pr"/></e>
@@ -57547,8 +57547,8 @@
     <e lm="kolêk"><i>kolêk</i><par n="kolek__prn"/></e>
     <e lm="kolêkkolêv"><i>kolêk</i><par n="kolik/koliv__prn"/></e>
     <e lm="keré"><i>ke</i><par n="ke/ré__prn"/></e>
-    <e lm="kerékolêv"><i>ke</i><par n="kte/rékolev__prn"/></e>
-    <e lm="kerékolê"><i>ke</i><par n="kte/rékole__prn"/></e>
+    <e lm="kerékolêv"><i>ke</i><par n="ke/rékolêv__prn"/></e>
+    <e lm="kerékolê"><i>ke</i><par n="ke/rékolê__prn"/></e>
     <e lm="muj"><i>m</i><par n="m/uj__prn"/></e>
     <e lm="mnoho"><i>mnoh</i><par n="mnoh/o__prn"/></e>
     <e lm="nic"><i>ni</i><par n="ni/c__prn"/></e>
@@ -61005,7 +61005,7 @@
     <e lm="michačka"><i>michač</i><par n="vidlêč/ka__n"/></e>
     <e lm="mír"><i>mír</i><par n="bor__n"/></e>
     <e lm="misa"><i>mis</i><par n="kabel/a__n"/></e>
-    <e lm="místo"><i>míst</i><par n="aut/o__n"/></e>
+    <e lm="misto"><i>mist</i><par n="aut/o__n"/></e>
     <e lm="místnost"><i>místnost</i><par n="věc__n"/></e>
     <e lm="mítink"><i>mítin</i><par n="ro/k__n"/></e>
     <e lm="míč"><i>míč</i><par n="keř__n"/></e>
@@ -66144,6 +66144,7 @@
     <e lm="skandinávský"><par n="né__adv"/><i>skandináv</i><par n="če/ský__adj"/></e>
     <e lm="skeptický"><par n="né__adv"/><i>skepti</i><par n="exotermi/cký__adj"/></e>
     <e lm="skleníkový"><par n="né__adv"/><i>skleníkov</i><par n="nov/ý__adj"/></e>
+    <e lm="skoro"><i>skoro</i><par n="tehdá__adv"/></e>
     <e lm="skotský"><par n="né__adv"/><i>skot</i><par n="če/ský__adj"/></e>
     <e lm="skópé"><par n="né__adv"/><i>skóp</i><par n="nov/é__adj"/></e>
     <e lm="skromný"><par n="né__adv"/><i>skromn</i><par n="nov/ý__adj"/></e>
@@ -66302,7 +66303,6 @@
     <e lm="tak či onak"><i>tak<b/>či<b/>onak</i><par n="tehdá__adv"/></e>
     <e lm="taktní"><par n="né__adv"/><i>taktn</i><par n="finančn/í__adj"/></e>
     <e lm="takê"><i>takê</i><par n="tehdá__adv"/></e>
-    <e lm="skoro"><i>skoro</i><par n="tehdá__adv"/></e>
     <e lm="talentovaný"><par n="né__adv"/><i>talentovan</i><par n="nov/ý__adj"/></e>
     <e lm="talibanský"><par n="né__adv"/><i>taliban</i><par n="če/ský__adj"/></e>
     <e lm="taneční"><par n="né__adv"/><i>tanečn</i><par n="finančn/í__adj"/></e>
@@ -66377,7 +66377,6 @@
     <e lm="trojský"><par n="né__adv"/><i>troj</i><par n="če/ský__adj"/></e>
     <e lm="tropický"><par n="né__adv"/><i>tropi</i><par n="exotermi/cký__adj"/></e>
     <e r="LR" lm="trojský"><par n="né__adv"/><p><l>troy</l><r>troj</r></p><par n="če/ský__adj"/></e>
-    <e lm="tadema"><i>tadema</i><par n="tehdá__adv"/></e>
     <e lm="tunelový"><par n="né__adv"/><i>tunelov</i><par n="nov/ý__adj"/></e>
     <e lm="tuniský"><par n="né__adv"/><i>tuni</i><par n="če/ský__adj"/></e>
     <e lm="turecký"><par n="né__adv"/><i>ture</i><par n="exotermi/cký__adj"/></e>
@@ -66393,7 +66392,6 @@
     <e lm="typografický"><par n="né__adv"/><i>typografi</i><par n="exotermi/cký__adj"/></e>
     <e lm="tyrkysový"><par n="né__adv"/><i>tyrkysov</i><par n="nov/ý__adj"/></e>
     <e lm="tyrolský"><par n="né__adv"/><i>tyrol</i><par n="če/ský__adj"/></e>
-    <e lm="skoro"><i>skoro</i><par n="tehdá__adv"/></e>
     <e lm="tónové"><par n="né__adv"/><i>tónov</i><par n="nov/é__adj"/></e>
     <e lm="tédně"><i>tédně</i><par n="tehdá__adv"/></e>
     <e lm="týmový"><par n="né__adv"/><i>týmov</i><par n="nov/ý__adj"/></e>
@@ -66429,7 +66427,6 @@
     <e lm="uzbecký"><par n="né__adv"/><i>uzbe</i><par n="exotermi/cký__adj"/></e>
     <e lm="učebnicový"><par n="né__adv"/><i>učebnicov</i><par n="nov/ý__adj"/></e>
     <e lm="ôčené"><par n="né__adv"/><i>ôčen</i><par n="nov/é__adj"/></e>
-    <e lm="jôž"><i>jôž</i><par n="tehdá__adv"/></e>
     <e lm="ôžêtečné"><par n="né__adv"/><i>ôžêtečn</i><par n="nov/é__adj"/></e>
     <e lm="úzký"><par n="né__adv"/><p><l>užš</l><r>úzký</r></p><par n="menš/í__adj"/></e>
     <e lm="vadný"><par n="né__adv"/><i>vadn</i><par n="nov/ý__adj"/></e>
@@ -67611,8 +67608,8 @@
     <e lm="ahoj"><i>ahoj</i><par n="ahoj__ij"/></e>
     <e lm="dobró choť"><i>dobró<b/>choť</i><par n="ahoj__ij"/></e>
     <e lm="dobró noc"><i>dobró<b/>noc</i><par n="ahoj__ij"/></e>
-    <e lm="dobré odpoledne"><i>dobré<b/>odpoleďňa</i><par n="ahoj__ij"/></e>
-    <e lm="dobré ráno"><i>dobré<b/>ráno</i><par n="ahoj__ij"/></e>
+    <e lm="dobry odpoledne"><i>dobry<b/>odpoleďňa</i><par n="ahoj__ij"/></e>
+    <e lm="dobry ráno"><i>dobry<b/>ráno</i><par n="ahoj__ij"/></e>
     <e lm="dobré deň"><i>dobré<b/>deň</i><par n="ahoj__ij"/></e>
     <e lm="dobré večir"><i>dobré<b/>večir</i><par n="ahoj__ij"/></e>
     <e lm="děkoji mockráť"><i>děkoji<b/>mockráť</i><par n="ahoj__ij"/></e>
