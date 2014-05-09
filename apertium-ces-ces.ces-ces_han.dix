@@ -1940,7 +1940,6 @@
 		<e><p><l>dělostřelectvo<s n="n"/><s n="f"/></l><r>dělostřelectvo<s n="n"/><s n="f"/></r></p></e>
 		<e><p><l>dělostřelec<s n="n"/><s n="ma"/></l><r>dělostřelec<s n="n"/><s n="ma"/></r></p></e>
 		<e><p><l>artista<s n="n"/><s n="ma"/></l><r>artista<s n="n"/><s n="ma"/></r></p></e>
-		<e><p><l>umělec<s n="n"/><s n="ma"/></l><r>umělec<s n="n"/><s n="ma"/></r></p></e>
 		<e><p><l>astrofotografie<s n="n"/><s n="f"/></l><r>astrofotografija<s n="n"/><s n="f"/></r></p></e>
 		<e><p><l>astrometrie<s n="n"/><s n="f"/></l><r>astrometrija<s n="n"/><s n="f"/></r></p></e>
 		<e><p><l>asymptota<s n="n"/><s n="f"/></l><r>asymptota<s n="n"/><s n="f"/></r></p></e>
@@ -3822,7 +3821,7 @@
 		<e><p><l>vzhled<s n="n"/><s n="mi"/></l><r>vzhled<s n="n"/><s n="mi"/></r></p></e>
 		<e><p><l>výjezd<s n="n"/><s n="mi"/></l><r>véjezd<s n="n"/><s n="mi"/></r></p></e>
 		<e><p><l>přednáška<s n="n"/><s n="f"/></l><r>přednáška<s n="n"/><s n="f"/></r></p></e>
-		<e><p><l>umělec<s n="n"/><s n="ma"/></l><r>umělec<s n="n"/><s n="ma"/></r></p></e>
+		<e><p><l>umělec<s n="n"/><s n="ma"/></l><r>ômělec<s n="n"/><s n="ma"/></r></p></e>
 		<e><p><l>výkop<s n="n"/><s n="mi"/></l><r>vékop<s n="n"/><s n="mi"/></r></p></e>
 		<e><p><l>výtěr<s n="n"/><s n="mi"/></l><r>vétěr<s n="n"/><s n="mi"/></r></p></e>
 		<e><p><l>výmysl<s n="n"/><s n="mi"/></l><r>vémêsl<s n="n"/><s n="mi"/></r></p></e>
@@ -5870,7 +5869,7 @@
 		<e><p><l>prostředník<s n="n"/><s n="ma"/></l><r>prostřednik<s n="n"/><s n="ma"/></r></p></e>
 		<e><p><l>pracovnice<s n="n"/><s n="f"/></l><r>pracovnica<s n="n"/><s n="f"/></r></p></e>
 		<e><p><l>čistírna<s n="n"/><s n="f"/></l><r>čêstirna<s n="n"/><s n="f"/></r></p></e>
-		<e><p><l>pravdomluvnost<s n="n"/><s n="f"/></l><r>pravdomlovnosť<s n="n"/><s n="f"/></r></p></e>
+		<e><p><l>pravdomluvnost<s n="n"/><s n="f"/></l><r>pravdomlôvnosť<s n="n"/><s n="f"/></r></p></e>
 		<e><p><l>pravice<s n="n"/><s n="f"/></l><r>pravica<s n="n"/><s n="f"/></r></p></e>
 		<e><p><l>proletář<s n="n"/><s n="ma"/></l><r>proletář<s n="n"/><s n="ma"/></r></p></e>
 		<e><p><l>zapisovatelka<s n="n"/><s n="f"/></l><r>zapisovatelka<s n="n"/><s n="f"/></r></p></e>
@@ -8524,7 +8523,7 @@
 		<e><p><l>lidskost<s n="n"/><s n="f"/></l><r>ledskosť<s n="n"/><s n="f"/></r></p></e>
 		<e r="RL"><p><l>lidstvo<s n="n"/><s n="f"/></l><r>ledstvo<s n="n"/><s n="f"/></r></p></e>
 		<e><p><l>línost<s n="n"/><s n="f"/></l><r>linosť<s n="n"/><s n="f"/></r></p></e>
-		<e><p><l>málomluvnost<s n="n"/><s n="f"/></l><r>málomlovnosť<s n="n"/><s n="f"/></r></p></e>
+		<e><p><l>málomluvnost<s n="n"/><s n="f"/></l><r>málomlôvnosť<s n="n"/><s n="f"/></r></p></e>
 		<e><p><l>možnost<s n="n"/><s n="f"/></l><r>možnost<s n="n"/><s n="f"/></r></p></e>
 		<e><p><l>mravopočestnost<s n="n"/><s n="f"/></l><r>mravopočestnosť<s n="n"/><s n="f"/></r></p></e>
 		<e><p><l>mstivost<s n="n"/><s n="f"/></l><r>mstivosť<s n="n"/><s n="f"/></r></p></e>
@@ -11491,7 +11490,7 @@
 		<e r="RL"><p><l>současný<s n="adj"/><s n="sint"/></l><r>sóčasné<s n="adj"/><s n="sint"/></r></p></e>
 		<e><p><l>aktivní<s n="adj"/><s n="sint"/></l><r>aktivni<s n="adj"/><s n="sint"/></r></p></e>
 		<e r="RL"><p><l>činný<s n="adj"/><s n="sint"/></l><r>činé<s n="adj"/><s n="sint"/></r></p></e>
-		<e><p><l>umělecký<s n="adj"/></l><r>umělecký<s n="adj"/></r></p></e>
+		<e><p><l>umělecký<s n="adj"/></l><r>ômělecké<s n="adj"/></r></p></e>
 		<e><p><l>bezplatný<s n="adj"/></l><r>bezplatné<s n="adj"/></r></p></e>
 		<e><p><l>bezohledný<s n="adj"/></l><r>bezohledné<s n="adj"/></r></p></e>
 		<e><p><l>ošklivý<s n="adj"/></l><r>ošklivý<s n="adj"/></r></p></e>
@@ -13696,7 +13695,7 @@
 		<e><p><l>minout<s n="vblex"/><s n="perf"/></l><r>minót<s n="vblex"/><s n="perf"/></r></p></e>
 		<e><p><l>milovat<s n="vblex"/><s n="imperf"/></l><r>milovat<s n="vblex"/><s n="imperf"/></r></p></e>
 		<e><p><l>mlčet<s n="vblex"/></l><r>mlčet<s n="vblex"/></r></p></e>
-		<e><p><l>mluvit<s n="vblex"/></l><r>mlovit<s n="vblex"/></r></p></e>
+		<e><p><l>mluvit<s n="vblex"/></l><r>mlôvit<s n="vblex"/></r></p></e>
 		<e><p><l>plavat<s n="vblex"/></l><r>plavat<s n="vblex"/></r></p></e>
 		<e><p><l>mňoukat<s n="vblex"/></l><r>mňókat<s n="vblex"/></r></p></e>
 		<e><p><l>montovat<s n="vblex"/></l><r>montovat<s n="vblex"/></r></p></e>

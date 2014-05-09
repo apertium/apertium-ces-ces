@@ -8419,14 +8419,14 @@
 
     <e>
       <p>
-        <l>me</l>
+        <l>mê</l>
         <r><s n="imp"/><s n="p1"/><s n="pl"/></r>
       </p>
     </e>
 
     <e>
       <p>
-        <l>mež</l>
+        <l>mêž</l>
         <r><s n="imp"/><s n="emph"/><s n="p1"/><s n="pl"/></r>
       </p>
     </e>
@@ -8499,7 +8499,7 @@
 
     <e>
       <p>
-        <l>i</l>
+        <l>ijó</l>
         <r><s n="p3"/><s n="pl"/></r>
       </p>
     </e>
@@ -9842,14 +9842,14 @@
 
     <e>
       <p>
-        <l>ěje</l>
+        <l>ěja</l>
         <r>ět<s n="vblex"/><s n="imperf"/><s n="tgv"/><s n="pprs"/><s n="ma"/><s n="sg"/></r>
       </p>
     </e>
 
     <e>
       <p>
-        <l>ěje</l>
+        <l>ěja</l>
         <r>ět<s n="vblex"/><s n="imperf"/><s n="tgv"/><s n="pprs"/><s n="mi"/><s n="sg"/></r>
       </p>
     </e>
@@ -9891,7 +9891,7 @@
 
     <e>
       <p>
-        <l>ěj</l>
+        <l>ňé</l>
         <r>ět<s n="vblex"/><s n="imperf"/></r>
       </p>
         <par n="BASE__održ"/>
@@ -9936,7 +9936,7 @@
         <l></l>
         <r>et<s n="vblex"/><s n="imperf"/></r>
       </p>
-        <par n="BASE__čti"/>
+        <par n="BASE__održ"/>
     </e>
 
     <e>
@@ -10183,7 +10183,7 @@
 
     <e>
       <p>
-        <l>ajó</l>
+        <l>aji</l>
         <r>at<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p3"/><s n="pl"/></r>
       </p>
     </e>
@@ -10222,7 +10222,7 @@
 
     <e>
       <p>
-        <l>án</l>
+        <l>an</l>
         <r>at<s n="vblex"/><s n="imperf"/><s n="pp"/><s n="adj"/></r>
       </p>
         <par n="BASE__nov/é"/>
@@ -10279,7 +10279,7 @@
 
     <e>
       <p>
-        <l>aj</l>
+        <l>é</l>
         <r>at<s n="vblex"/><s n="imperf"/></r>
       </p>
         <par n="BASE__održ"/>
@@ -10305,7 +10305,7 @@
 
     <e>
       <p>
-        <l>ej</l>
+        <l>é</l>
         <r>et<s n="vblex"/><s n="imperf"/></r>
       </p>
         <par n="BASE__održ"/>
@@ -10391,7 +10391,7 @@
 
     <e>
       <p>
-        <l>ime</l>
+        <l>imê</l>
         <r>et<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p1"/><s n="pl"/></r>
       </p>
     </e>
@@ -10407,6 +10407,13 @@
       <p>
         <l>ijó</l>
         <r>et<s n="vblex"/><s n="imperf"/><s n="pres"/><s n="p3"/><s n="pl"/></r>
+      </p>
+    </e>
+
+    <e>
+      <p>
+        <l>el</l>
+        <r>et<s n="vblex"/><s n="imperf"/><s n="past"/><s n="m"/><s n="sg"/></r>
       </p>
     </e>
 
@@ -10428,7 +10435,7 @@
 
     <e>
       <p>
-        <l>eic</l>
+        <l>ejic</l>
         <r>et<s n="vblex"/><s n="imperf"/><s n="pprs"/><s n="adj"/></r>
       </p>
         <par n="BASE__dalši"/>
@@ -60996,7 +61003,7 @@
     <e lm="mêčka"><i>mêč</i><par n="vidlêč/ka__n"/></e>
     <e lm="myšlenka"><i>myšlen</i><par n="dív/ka__n"/></e>
     <e lm="mak"><i>ma</i><par n="ro/k__n"/></e>
-    <e lm="málomlovnosť"><i>málomlovnosť</i><par n="věc__n"/></e>
+    <e lm="málomlôvnosť"><i>málomlôvnosť</i><par n="věc__n"/></e>
     <e lm="mánie"><i>máni</i><par n="alergi/e__n"/></e>
     <e lm="máslo"><i>más</i><par n="más/lo__n"/></e>
     <e lm="máta"><i>mát</i><par n="rêb/a__n"/></e>
@@ -61878,7 +61885,7 @@
     <e lm="prasklêna"><i>prasklên</i><par n="rêb/a__n"/></e>
     <e lm="prasák"><i>prasá</i><par n="ťuhý/k__n"/></e>
     <e lm="pravda"><i>pravd</i><par n="rêb/a__n"/></e>
-    <e lm="pravdomlovnosť"><i>pravdomlovnosť</i><par n="věc__n"/></e>
+    <e lm="pravdomlôvnosť"><i>pravdomlôvnosť</i><par n="věc__n"/></e>
     <e lm="pravděpodobnost"><i>pravděpodobnost</i><par n="věc__n"/></e>
     <e lm="pravica"><i>pravic</i><par n="bečêc/a__n"/></e>
     <e lm="pravopis"><i>pravopis</i><par n="bor__n"/></e>
@@ -63226,7 +63233,7 @@
     <e lm="ôlečka"><i>ôleč</i><par n="vidlêč/ka__n"/></e>
     <e lm="ultimátum"><i>ultimát</i><par n="sput/um__n"/></e>
     <e lm="umírněnost"><i>umírněnost</i><par n="věc__n"/></e>
-    <e lm="umělec"><i>uměl</i><par n="chlap/ec__n"/></e>
+    <e lm="ômělec"><i>ôměl</i><par n="chlap/ec__n"/></e>
     <e lm="ôměni"><i>ôměni</i><par n="hospodářstvi__n"/></e>
     <e lm="unie"><i>uni</i><par n="alergi/e__n"/></e>
     <e lm="univerbizace"><i>univerbizac</i><par n="alergi/e__n"/></e>
@@ -66410,7 +66417,7 @@
     <e lm="ôkrôtné"><par n="né__adv"/><i>ôkrôtn</i><par n="nov/é__adj"/></e>
     <e lm="ultrazvôkové"><par n="né__adv"/><i>ultrazvôkov</i><par n="nov/é__adj"/></e>
     <e lm="umírněný"><par n="né__adv"/><i>umírněn</i><par n="nov/ý__adj"/></e>
-    <e lm="umělecký"><par n="né__adv"/><i>uměle</i><par n="exotermi/cký__adj"/></e>
+    <e lm="ômělecké"><par n="né__adv"/><i>ôměle</i><par n="exotermi/cký__adj"/></e>
     <e lm="unikátní"><par n="né__adv"/><i>unikátn</i><par n="finančn/í__adj"/></e>
     <e r="LR" lm="univerzální"><par n="né__adv"/><p><l>universáln</l><r>univerzáln</r></p><par n="finančn/í__adj"/></e>
     <e lm="univerzální"><par n="né__adv"/><i>univerzáln</i><par n="finančn/í__adj"/></e>
@@ -66930,7 +66937,7 @@
     <e lm="milovat"><par n="v_neg"/><i>mil</i><par n="mil/ovat__vblex"/></e>
     <e r="LR" lm="minimalizovat"><par n="v_neg"/><p><l>minimalis</l><r>minimaliz</r></p><par n="mil/ovat__vblex"/></e>
     <e lm="minimalizovat"><par n="v_neg"/><i>minimaliz</i><par n="mil/ovat__vblex"/></e>
-    <e lm="mlovit"><par n="v_neg"/><i>mlo</i><par n="voz/et__vblex"/></e>
+    <e lm="mlôvit"><par n="v_neg"/><i>mlô</i><par n="voz/et__vblex"/></e>
     <e lm="modelovat"><par n="v_neg"/><i>model</i><par n="mil/ovat__vblex"/></e>
     <e lm="modernisovat"><par n="v_neg"/><i>modernis</i><par n="mil/ovat__vblex"/></e>
     <e lm="modifikovat"><par n="v_neg"/><i>modifik</i><par n="mil/ovat__vblex"/></e>
