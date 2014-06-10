@@ -57655,6 +57655,7 @@
     <e lm="analogie"><i>analogi</i><par n="alergi/e__n"/></e>
     <e lm="analýza"><i>analýz</i><par n="kos/a__n"/></e>
     <e lm="ananas"><i>ananas</i><par n="bor__n"/></e>
+    <e lm="ananasovnik"><i>ananasovni</i><par n="chalôpni/k__n"/></e>
     <e lm="anarchie"><i>anarchi</i><par n="alergi/e__n"/></e>
     <e lm="anarchismus"><i>anarchism</i><par n="ile/us__n"/></e>
     <e lm="anatom"><i>anatom</i><par n="man__n"/></e>
@@ -58841,7 +58842,7 @@
     <e lm="dumping"><i>dumpin</i><par n="windsurfin/g__n"/></e>
     <e lm="duna"><i>dun</i><par n="rêb/a__n"/></e>
     <e lm="duplikát"><i>duplikát</i><par n="byt__n"/></e>
-    <e lm="dusičnan"><i>dusičnan</i><par n="bor__n"/></e>
+    <e lm="dôsičnan"><i>dôsičnan</i><par n="bor__n"/></e>
     <e lm="dôsik"><i>dôsi</i><par n="ro/k__n"/></e>
     <e lm="doša"><i>doš</i><par n="doš/a__n"/></e>
     <e lm="dvanáctka"><i>dvanáct</i><par n="dív/ka__n"/></e>
@@ -59326,7 +59327,7 @@
     <e lm="had"><i>had</i><par n="man__n"/></e>
     <e lm="hadica"><i>hadic</i><par n="bečêc/a__n"/></e>
     <e lm="hadrosaurus"><i>hadrosau</i><par n="dinosau/rus__n"/></e>
-    <e lm="hadřík"><i>hadří</i><par n="ro/k__n"/></e>
+    <e lm="hadřik"><i>hadři</i><par n="ro/k__n"/></e>
     <e lm="hafnium"><i>hafni</i><par n="bary/um__n"/></e>
     <e lm="hajzl"><i>hajzl</i><par n="man__n"/></e>
     <e lm="hala"><i>hal</i><par n="kabel/a__n"/></e>
@@ -59619,8 +59620,8 @@
     <e lm="iniciátor"><i>iniciátor</i><par n="bor__n"/></e>
     <e lm="injekce"><i>injekc</i><par n="alergi/e__n"/></e>
     <e lm="inkoust"><i>inkoust</i><par n="bor__n"/></e>
-    <e lm="inkubace"><i>inkubac</i><par n="alergi/e__n"/></e>
-    <e lm="inkubátor"><i>inkubátor</i><par n="bor__n"/></e>
+    <e lm="inkobaca"><i>inkobac</i><par n="alergi/e__n"/></e>
+    <e lm="inkobátor"><i>inkobátor</i><par n="bor__n"/></e>
     <e lm="inovace"><i>inovac</i><par n="alergi/e__n"/></e>
     <e lm="inscenace"><i>inscenac</i><par n="alergi/e__n"/></e>
     <e r="LR" lm="inzerát"><p><l>inserát</l><r>inzerát</r></p><par n="byt__n"/></e>
@@ -60283,7 +60284,7 @@
     <e lm="krčmář"><i>krčmář</i><par n="muž__n"/></e>
     <e lm="kruček"><i>kruč</i><par n="rên/ek__n"/></e>
     <e lm="kura"><i>ku</i><par n="sí/ra__n"/></e>
-    <e lm="kubismus"><i>kubism</i><par n="ile/us__n"/></e>
+    <e lm="kôbismos"><i>kôbism</i><par n="ile/us__n"/></e>
     <e lm="kôbik"><i>kôbi</i><par n="ro/k__n"/></e>
     <e lm="kuchařka"><i>kuchař</i><par n="dív/ka__n"/></e>
     <e lm="kuchař"><i>kuchař</i><par n="muž__n"/></e>
@@ -66422,7 +66423,7 @@
     <e lm="vzácné"><par n="né__adv"/><i>vzácn</i><par n="nov/é__adj"/></e>
     <e lm="vzájemný"><par n="né__adv"/><i>vzájemn</i><par n="nov/ý__adj"/></e>
     <e lm="válečné"><par n="né__adv"/><i>válečn</i><par n="nov/é__adj"/></e>
-    <e lm="vánoční"><par n="né__adv"/><i>vánočn</i><par n="finančn/í__adj"/></e>
+    <e lm="vánočni"><par n="né__adv"/><i>vánočn</i><par n="finančn/í__adj"/></e>
     <e lm="vápencový"><par n="né__adv"/><i>vápencov</i><par n="nov/ý__adj"/></e>
     <e lm="vážné"><par n="né__adv"/><i>vážn</i><par n="nov/é__adj"/></e>
     <e lm="hodně"><p><l>víc</l><r>hodně</r></p><par n="dál__adv"/></e>
