@@ -59586,9 +59586,9 @@
     <e lm="improvizace"><i>improvizac</i><par n="alergi/e__n"/></e>
     <e lm="impuls"><i>impuls</i><par n="bor__n"/></e>
     <e lm="impérium"><i>impéri</i><par n="bary/um__n"/></e>
-    <e lm="imunizace"><i>imuni</i><par n="konver/zace__n"/></e>
-    <e lm="imonita"><i>imonit</i><par n="rêb/a__n"/></e>
-    <e lm="imunizace"><i>imunizac</i><par n="alergi/e__n"/></e>
+    <e lm="imônita"><i>imônit</i><par n="rêb/a__n"/></e>
+    <e lm="imônizaca"><i>imôni</i><par n="konver/zace__n"/></e>
+    <e lm="imônizaca"><i>imônizac</i><par n="alergi/e__n"/></e>
     <e lm="incest"><i>incest</i><par n="bor__n"/></e>
     <e lm="incident"><i>incident</i><par n="bor__n"/></e>
     <e lm="index"><i>index</i><par n="arak__n"/></e>
@@ -61559,7 +61559,7 @@
     <e lm="podrobnost"><i>podrobnost</i><par n="věc__n"/></e>
     <e lm="podsvěti"><i>podsvěti</i><par n="hospodářstvi__n"/></e>
     <e lm="podtext"><i>podtext</i><par n="bor__n"/></e>
-    <e lm="podtitul"><i>podtitul</i><par n="bor__n"/></e>
+    <e lm="podtitôl"><i>podtitôl</i><par n="bor__n"/></e>
     <e lm="podvod"><i>podvod</i><par n="bor__n"/></e>
     <e lm="podvozek"><i>podvoz</i><par n="rên/ek__n"/></e>
     <e lm="podzemi"><i>podzemi</i><par n="hospodářstvi__n"/></e>
@@ -62305,9 +62305,10 @@
     <e lm="rôčnik"><i>rôčni</i><par n="ro/k__n"/></e>
     <e lm="rvačka"><i>rvač</i><par n="vidlêč/ka__n"/></e>
     <e lm="rêba"><i>rêb</i><par n="rêb/a__n"/></e>
-    <e lm="rybka"><i>ryb</i><par n="dív/ka__n"/></e>
-    <e lm="rybolov"><i>rybolov</i><par n="bor__n"/></e>
-    <e lm="rybář"><i>rybář</i><par n="muž__n"/></e>
+    <e lm="rêbák"><i>rêbá</i><par n="ro/k__n"/></e>
+    <e lm="rêbka"><i>rêb</i><par n="dív/ka__n"/></e>
+    <e lm="rêbolov"><i>rêbolov</i><par n="bor__n"/></e>
+    <e lm="rêbář"><i>rêbář</i><par n="muž__n"/></e>
     <e lm="rybíz"><i>rybíz</i><par n="arak__n"/></e>
     <e lm="rybíz"><i>rybíz</i><par n="bor__n"/></e>
     <e lm="rychlost"><i>rychlost</i><par n="věc__n"/></e>
@@ -62978,8 +62979,8 @@
     <e lm="tisicileti"><i>tisicileti</i><par n="hospodářstvi__n"/></e>
     <e r="LR" lm="tisíciletí"><p><l>tisícletí</l><r>tisíciletí</r></p><par n="hospodářství__n"/></e>
     <e lm="titan"><i>titan</i><par n="bor__n"/></e>
-    <e lm="titul"><i>titul</i><par n="arak__n"/></e>
-    <e lm="titulek"><i>titul</i><par n="rên/ek__n"/></e>
+    <e lm="titôl"><i>titôl</i><par n="arak__n"/></e>
+    <e lm="titôlek"><i>titôl</i><par n="rên/ek__n"/></e>
     <e lm="tkanina"><i>tkanin</i><par n="rêb/a__n"/></e>
     <e lm="tlak"><i>tla</i><par n="ro/k__n"/></e>
     <e lm="tlama"><i>tlam</i><par n="rêb/a__n"/></e>
@@ -63711,6 +63712,7 @@
     <e lm="čas"><i>čas</i><par n="bor__n"/></e>
     <e lm="časopis"><i>časopis</i><par n="bor__n"/></e>
     <e lm="časoprostor"><i>časoprostor</i><par n="arak__n"/></e>
+    <e lm="čečuvka"><i>čečuv</i><par n="vidlêč/ka__n"/></e>
     <e lm="čechizace"><i>čechizac</i><par n="alergi/e__n"/></e>
     <e lm="čekárna"><i>čekár</i><par n="mrd/na__n"/></e>
     <e lm="čeleď"><i>čele</i><par n="mě/ď__n"/></e>
@@ -63742,11 +63744,12 @@
     <e lm="člen"><i>člen</i><par n="arak__n"/></e>
     <e lm="členství"><i>členství</i><par n="hospodářství__n"/></e>
     <e lm="člověk"><i>člově</i><par n="člově/k__n"/></e>
-    <e lm="člun"><i>člun</i><par n="arak__n"/></e>
+    <e lm="člôn"><i>člôn</i><par n="arak__n"/></e>
+    <e lm="člôněk"><i>člôn</i><par n="rên/ek__n"/></e>
     <e lm="članěk"><i>član</i><par n="rên/ek__n"/></e>
     <e lm="čmelák"><i>čmelá</i><par n="chalôpni/k__n"/></e>
     <e lm="čokoláda"><i>čokolád</i><par n="rêb/a__n"/></e>
-    <e lm="čečuvka"><i>čečuv</i><par n="vidlêč/ka__n"/></e>
+    <e lm="čokoládové"><i>čokoládov</i><par n="nov/é__adj"/></e>
     <e lm="črta"><i>črt</i><par n="rêb/a__n"/></e>
     <e lm="čtenář"><i>čtenář</i><par n="muž__n"/></e>
     <e lm="čtverec"><i>čtver</i><par n="vál/ec__n"/></e>
@@ -63775,7 +63778,7 @@
     <e lm="řádek"><i>řád</i><par n="rên/ek__n"/></e>
     <e lm="řád"><i>řád</i><par n="arak__n"/></e>
     <e lm="řijen"><i>řij</i><par n="srp/en__n"/></e>
-    <e lm="říje"><i>říj</i><par n="alergi/e__n"/></e>
+    <e lm="řija"><i>řij</i><par n="alergi/e__n"/></e>
     <e lm="řička"><i>řič</i><par n="vidlêč/ka__n"/></e>
     <e lm="šablóna"><i>šablón</i><par n="rêb/a__n"/></e>
     <e lm="šafrán"><i>šafrán</i><par n="bor__n"/></e>
@@ -63798,7 +63801,8 @@
     <e lm="škola"><i>škol</i><par n="kabel/a__n"/></e>
     <e lm="školák"><i>školač</i><par n="dív/ka__n"/></e>
     <e lm="školák"><i>školá</i><par n="chalôpni/k__n"/></e>
-    <e lm="školství"><i>školství</i><par n="hospodářství__n"/></e>    <e r="LR" lm="skořápka"><p><l>škořáp</l><r>skořáp</r></p><par n="dív/ka__n"/></e>
+    <e lm="školství"><i>školství</i><par n="hospodářství__n"/></e>
+    <e r="LR" lm="skořápka"><p><l>škořáp</l><r>skořáp</r></p><par n="dív/ka__n"/></e>
     <e lm="škrob"><i>škrob</i><par n="bor__n"/></e>
     <e lm="škrob"><i>škrob</i><par n="man__n"/></e>
     <e lm="škuner"><i>škuner</i><par n="bor__n"/></e>
@@ -64082,7 +64086,7 @@
     <e lm="kreditní"><i>kreditn</i><par n="právn/í__adj"/></e>
     <e lm="krotký"><i>krotk</i><par n="mal/ý__adj"/></e>
     <e lm="krátký"><i>krátk</i><par n="mal/ý__adj"/></e>
-    <e lm="kukaččí"><i>kukačč</i><par n="právn/í__adj"/></e>
+    <e lm="kôkači"><i>kôkač</i><par n="právn/í__adj"/></e>
     <e lm="kupní"><i>kupn</i><par n="právn/í__adj"/></e>
     <e lm="kôřaci"><i>kôřac</i><par n="právn/í__adj"/></e>
     <e lm="kypré"><i>kyp</i><par n="dob/ré__adj"/></e>
@@ -64954,7 +64958,7 @@
     <e lm="karakumský"><par n="né__adv"/><i>karakum</i><par n="če/ský__adj"/></e>
     <e lm="karlovarský"><par n="né__adv"/><i>karlovar</i><par n="če/ský__adj"/></e>
     <e lm="karpatský"><par n="né__adv"/><i>karpat</i><par n="če/ský__adj"/></e>
-    <e lm="kartografický"><par n="né__adv"/><i>kartografi</i><par n="exotermi/cký__adj"/></e>
+    <e lm="kartografické"><par n="né__adv"/><i>kartografi</i><par n="exotermi/cký__adj"/></e>
     <e lm="kartézský"><par n="né__adv"/><i>kartéz</i><par n="če/ský__adj"/></e>
     <e lm="kaspické"><par n="né__adv"/><i>kaspi</i><par n="haná/cké__adj"/></e>
     <e lm="kastilský"><par n="né__adv"/><i>kastil</i><par n="če/ský__adj"/></e>
@@ -65532,8 +65536,8 @@
     <e lm="novozélandský"><par n="né__adv"/><i>novozéland</i><par n="če/ský__adj"/></e>
     <e lm="nucený"><par n="né__adv"/><i>nucen</i><par n="nov/ý__adj"/></e>
     <e lm="nudný"><par n="né__adv"/><i>nudn</i><par n="nov/ý__adj"/></e>
-    <e lm="nulový"><par n="né__adv"/><i>nulov</i><par n="nov/ý__adj"/></e>
-    <e lm="nultý"><par n="né__adv"/><i>nult</i><par n="nov/ý__adj"/></e>
+    <e lm="nulové"><par n="né__adv"/><i>nulov</i><par n="nov/é__adj"/></e>
+    <e lm="nulté"><par n="né__adv"/><i>nult</i><par n="nov/é__adj"/></e>
     <e lm="numerický"><par n="né__adv"/><i>numeri</i><par n="exotermi/cký__adj"/></e>
     <e lm="notné"><par n="né__adv"/><i>notn</i><par n="nov/é__adj"/></e>
     <e lm="nylonové"><par n="né__adv"/><i>nylonov</i><par n="nov/é__adj"/></e>
@@ -66621,7 +66625,7 @@
     <e lm="řeholní"><par n="né__adv"/><i>řeholn</i><par n="finančn/í__adj"/></e>
     <e lm="řemeslný"><par n="né__adv"/><i>řemesln</i><par n="nov/ý__adj"/></e>
     <e lm="řídký"><par n="né__adv"/><p><l>řidš</l><r>řídký</r></p><par n="menš/í__adj"/></e>
-    <e lm="říjnové"><par n="né__adv"/><i>říjnov</i><par n="nov/é__adj"/></e>
+    <e lm="řijnové"><par n="né__adv"/><i>řijnov</i><par n="nov/é__adj"/></e>
     <e lm="řimské"><par n="né__adv"/><i>řim</i><par n="morav/ské__adj"/></e>
     <e lm="šachový"><par n="né__adv"/><i>šachov</i><par n="nov/ý__adj"/></e>
     <e lm="šarlatánský"><par n="né__adv"/><i>šarlatán</i><par n="če/ský__adj"/></e>
@@ -66794,7 +66798,7 @@
     <e lm="iritovat"><par n="v_neg"/><i>irit</i><par n="mil/ovat__vblex"/></e>
     <e lm="izolovat"><par n="v_neg"/><i>izol</i><par n="mil/ovat__vblex"/></e>
     <e lm="jmenovat"><par n="v_neg"/><i>jmen</i><par n="mil/ovat__vblex"/></e>
-    <e lm="kalkolovat"><par n="v_neg"/><i>kalkol</i><par n="mil/ovat__vblex"/></e>
+    <e lm="kalkôlovat"><par n="v_neg"/><i>kalkôl</i><par n="mil/ovat__vblex"/></e>
     <e lm="kameňovat"><par n="v_neg"/><i>kameň</i><par n="mil/ovat__vblex"/></e>
     <e lm="kandedovat"><par n="v_neg"/><i>kanded</i><par n="mil/ovat__vblex"/></e>
     <e lm="kanonizovat"><par n="v_neg"/><i>kanoniz</i><par n="mil/ovat__vblex"/></e>
@@ -66859,7 +66863,7 @@
     <e lm="nahrazovat"><par n="v_neg"/><i>nahraz</i><par n="mil/ovat__vblex"/></e>
     <e lm="napsat"><par n="v_neg"/><i>nap</i><par n="nap/sat__vblex"/></e>
     <e lm="naplnit"><par n="v_neg"/><i>napl</i><par n="obr/nit__vblex"/></e>
-    <e lm="napompovat"><par n="v_neg"/><i>napomp</i><par n="mil/ovat__vblex"/></e>
+    <e lm="napômpovat"><par n="v_neg"/><i>napômp</i><par n="mil/ovat__vblex"/></e>
     <e lm="nastavovat"><par n="v_neg"/><i>nastav</i><par n="mil/ovat__vblex"/></e>
     <e lm="nastupovat"><par n="v_neg"/><i>nastup</i><par n="mil/ovat__vblex"/></e>
     <e lm="nasvědčovat"><par n="v_neg"/><i>nasvědč</i><par n="mil/ovat__vblex"/></e>
@@ -66949,7 +66953,7 @@
     <e lm="prozrazovat"><par n="v_neg"/><i>prozraz</i><par n="mil/ovat__vblex"/></e>
     <e lm="prošetřovat"><par n="v_neg"/><i>prošetř</i><par n="mil/ovat__vblex"/></e>
     <e lm="publikovat"><par n="v_neg"/><i>publik</i><par n="mil/ovat__vblex"/></e>
-    <e lm="pompovat"><par n="v_neg"/><i>pomp</i><par n="mil/ovat__vblex"/></e>
+    <e lm="pômpovat"><par n="v_neg"/><i>pômp</i><par n="mil/ovat__vblex"/></e>
     <e lm="potovat"><par n="v_neg"/><i>pot</i><par n="mil/ovat__vblex"/></e>
     <e lm="předepsat"><par n="v_neg"/><i>před</i><par n="pod/epsat__vblex"/></e>
     <e r="LR" lm="předepsat" c="catch spelling errors"><par n="v_neg"/><i>předep</i><par n="nap/sat__vblex"/></e>
@@ -68010,7 +68014,7 @@
     <e lm="kabela"><i>kabel</i><par n="kabel/a__n"/></e>
     <e lm="kabinka"><i>kabin</i><par n="dív/ka__n"/></e>
     <e lm="kalhotka"><i>kalhot</i><par n="dív/ka__n"/></e>
-    <e lm="kalkulace"><i>kalkulac</i><par n="alergi/e__n"/></e>
+    <e lm="kalkôlaca"><i>kalkôlac</i><par n="alergi/e__n"/></e>
     <e lm="kamelot"><i>kamelot</i><par n="man__n"/></e>
     <e lm="kapitála"><i>kapitál</i><par n="kos/a__n"/></e>
     <e lm="kapitolka"><i>kapitol</i><par n="dív/ka__n"/></e>
@@ -68144,7 +68148,7 @@
     <e lm="parket"><i>parket</i><par n="bor__n"/></e>
     <e lm="páska"><i>pás</i><par n="zin/ek__n"/></e>
     <e lm="pasta"><i>past</i><par n="rêb/a__n"/></e>
-    <e lm="patitul"><i>patitul</i><par n="bor__n"/></e>
+    <e lm="patitôl"><i>patitôl</i><par n="bor__n"/></e>
     <e lm="patka"><i>pat</i><par n="dív/ka__n"/></e>
     <e lm="patrocinium"><i>patrocini</i><par n="bary/um__n"/></e>
     <e lm="patronka"><i>patron</i><par n="dív/ka__n"/></e>
