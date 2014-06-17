@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <!--
 	Dictionary:
 	Sections: 4
@@ -64052,7 +64052,7 @@
     <e lm="horni"><i>horn</i><par n="dnešn/i__adj"/></e>
     <e lm="hořký"><i>hořk</i><par n="mal/ý__adj"/></e>
     <e lm="hraďni"><i>hraďn</i><par n="dnešn/i__adj"/></e>
-    <e lm="hrubý"><i>hrub</i><par n="mal/ý__adj"/></e>
+    <e lm="hrôbé"><i>hrôb</i><par n="mal/é__adj"/></e>
     <e lm="humanitni"><i>humanitn</i><par n="dnešn/i__adj"/></e>
     <e lm="humanitárni"><i>humanitárn</i><par n="dnešn/i__adj"/></e>
     <e lm="husí"><i>hus</i><par n="právn/í__adj"/></e>
@@ -64829,7 +64829,7 @@
     <e lm="hrozêvě"><i>hrozêvě</i><par n="daleko__adv"/></e>
     <e lm="hrozêvě"><p><l>hrozêvěji</l><r>hrozêvě</r></p><par n="dál__adv"/></e>
     <e lm="hrozný"><par n="né__adv"/><i>hrozn</i><par n="nov/ý__adj"/></e>
-    <e lm="hrubý"><par n="né__adv"/><p><l>hrubš</l><r>hrubý</r></p><par n="menš/í__adj"/></e>
+    <e lm="hrôbé"><par n="né__adv"/><p><l>hrôbš</l><r>hrôbé</r></p><par n="menš/í__adj"/></e>
     <e lm="huculský"><par n="né__adv"/><i>hucul</i><par n="če/ský__adj"/></e>
     <e lm="hudební"><par n="né__adv"/><i>hudebn</i><par n="finančn/í__adj"/></e>
     <e lm="hôsté"><par n="né__adv"/><i>hôst</i><par n="nov/é__adj"/></e>
