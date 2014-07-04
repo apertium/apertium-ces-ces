@@ -1208,15 +1208,15 @@
 		<e><p><l>pouť<s n="n"/><s n="f"/></l><r>póť<s n="n"/><s n="f"/></r></p></e>
 		<e c="mp-mi!wtf!"><p><l>ošetřovatel<s n="n"/><s n="mi"/></l><r>ošetřovatel<s n="n"/><s n="mi"/></r></p></e>
 		<e><p><l>kmen<s n="n"/><s n="nt"/></l><r>kmen<s n="n"/><s n="nt"/></r></p></e>
-	<!-- @LF	<e><p><l>fláma<s n="n"/><s n="ma"/></l><r>fláma<s n="n"/><s n="ma"/></r></p></e>
-		<e><p><l>ochmelka<s n="n"/><s n="ma"/></l><r>ochmelka<s n="n"/><s n="ma"/></r></p></e>
-		<e><p><l>pinakotéka<s n="n"/><s n="f"/></l><r>pinakotéka<s n="n"/><s n="f"/></r></p></e>
-		<e><p><l>pion<s n="n"/><s n="mi"/></l><r>pion<s n="n"/><s n="mi"/></r></p></e> -->
+	<!-- @LF	<e><p><l>fláma<s n="n"/><s n="ma"/></l><r>fláma<s n="n"/><s n="ma"/></r></p></e> -->
+	<!-- @LF	<e><p><l>ochmelka<s n="n"/><s n="ma"/></l><r>ochmelka<s n="n"/><s n="ma"/></r></p></e> -->
+	<!-- @LF	<e><p><l>pinakotéka<s n="n"/><s n="f"/></l><r>pinakotéka<s n="n"/><s n="f"/></r></p></e> -->
+	<!-- @LF	<e><p><l>pion<s n="n"/><s n="mi"/></l><r>pion<s n="n"/><s n="mi"/></r></p></e> -->
 		<e><p><l>svisle<s n="n"/><s n="mi"/></l><r>svisle<s n="n"/><s n="mi"/></r></p></e>
-	<!-- @LF	<e><p><l>pelyněk<s n="n"/><s n="mi"/></l><r>polének<s n="n"/><s n="mi"/></r></p></e>
-		<e><p><l>pipa<s n="n"/><s n="f"/></l><r>pipa<s n="n"/><s n="f"/></r></p></e> -->
+		<e><p><l>pelyněk<s n="n"/><s n="mi"/></l><r>polének<s n="n"/><s n="mi"/></r></p></e>
+		<e><p><l>pípa<s n="n"/><s n="f"/></l><r>pípa<s n="n"/><s n="f"/></r></p></e>
 		<e><p><l>piraňa<s n="n"/><s n="f"/></l><r>piraňa<s n="n"/><s n="f"/></r></p></e>
-	<!-- @LF	<e><p><l>piroga<s n="n"/><s n="f"/></l><r>piroga<s n="n"/><s n="f"/></r></p></e> -->
+		<e><p><l>piroha<s n="n"/><s n="f"/></l><r>piroha<s n="n"/><s n="f"/></r></p></e>
 		<e><p><l>pyrit<s n="n"/><s n="mi"/></l><r>pyrit<s n="n"/><s n="mi"/></r></p></e>
 		<e><p><l>zvýrazňovač<s n="n"/><s n="mi"/></l><r>zvýrazňovač<s n="n"/><s n="mi"/></r></p></e>
 		<e><p><l>pití<s n="n"/><s n="nt"/></l><r>pití<s n="n"/><s n="nt"/></r></p></e>
