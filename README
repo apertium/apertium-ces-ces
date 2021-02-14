@@ -65,12 +65,12 @@ Files and data
 -------------------------------------------------------------------------------
 
 * [`apertium-ces-ces.ces-ces_han.dix`](apertium-ces-ces.ces-ces_han.dix) - Bilingual dictionary
-* [`apertium-ces-ces.ces-ces.t1x`](apertium-ces-ces.ces-ces_han.t1x) - Chunking rules for translating into Czech
-* [`apertium-ces-ces.ces-ces.t1x`](apertium-ces-ces.ces_han-ces.t1x) - Chunking rules for translating into Czech
-* [`apertium-ces-ces.ces-ces.t2x`](apertium-ces-ces.ces-ces_han.t2x) - Interchunk rules for translating into Czech
-* [`apertium-ces-ces.ces-ces.t2x`](apertium-ces-ces.ces_han-ces.t2x) - Interchunk rules for translating into Czech
-* [`apertium-ces-ces.ces-ces.t3x`](apertium-ces-ces.ces-ces_han.t3x) - Postchunk rules for translating into Czech
-* [`apertium-ces-ces.ces-ces.t3x`](apertium-ces-ces.ces_han-ces.t3x) - Postchunk rules for translating into Czech
+* [`apertium-ces-ces.ces-ces_han.t1x`](apertium-ces-ces.ces-ces_han.t1x) - Chunking rules for translating into Czech
+* [`apertium-ces-ces.ces_han-ces.t1x`](apertium-ces-ces.ces_han-ces.t1x) - Chunking rules for translating into Czech
+* [`apertium-ces-ces.ces-ces_han.t2x`](apertium-ces-ces.ces-ces_han.t2x) - Interchunk rules for translating into Czech
+* [`apertium-ces-ces.ces_han-ces.t2x`](apertium-ces-ces.ces_han-ces.t2x) - Interchunk rules for translating into Czech
+* [`apertium-ces-ces.ces-ces_han.t3x`](apertium-ces-ces.ces-ces_han.t3x) - Postchunk rules for translating into Czech
+* [`apertium-ces-ces.ces_han-ces.t3x`](apertium-ces-ces.ces_han-ces.t3x) - Postchunk rules for translating into Czech
 * [`modes.xml`](modes.xml) - Translation modes
 
 For more information
