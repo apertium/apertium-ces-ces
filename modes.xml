@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <modes>
-  <mode name="ces-ces_han">
+  <mode name="ces-ces_han" install="yes" gendebug="yes">
     <pipeline>
       <program name="lt-proc">
         <file name="ces-ces_han.automorf.bin"/>
