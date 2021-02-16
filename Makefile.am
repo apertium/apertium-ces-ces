@@ -7,7 +7,7 @@ LANG2=ces_han
 PREFIX1=$(LANG1)-$(LANG2)
 PREFIX2=$(LANG2)-$(LANG1)
 
-BASENAME=apertium-$(PREFIX1)
+BASENAME=apertium-$(LANG1)-$(LANG1)
 
 TARGETS_COMMON =		\
 	$(PREFIX1).automorf.bin	\
