@@ -1,0 +1,32 @@
+[-NyzQwjlxp9G#0] ^ct/*ct$
+[/-NyzQwjlxp9G]
+[1si36x2Vi-eC#0] ^bratrstvy/bratrstvo<n><nt><pl><ins>$
+[/1si36x2Vi-eC]
+[2iFi3NGGhX8x#0] ^Velkou Británii/Velká Británie<np><top><f><sg><acc>$
+[/2iFi3NGGhX8x]
+[3pF1JKDWuw7t#0] ^domnívány/domnívat<vblex><imperf><pp><impers><mi><pl>/domnívat<vblex><imperf><pp><impers><f><pl>$
+[/3pF1JKDWuw7t]
+[8VxOgeWPDg4e#0] ^praskáni/praskat<vblex><imperf><pp><impers><ma><pl>$
+[/8VxOgeWPDg4e]
+[Gz6rmOFVdgxm#0] ^svatý Mikuláš/svatý Mikuláš<np><ant><ma><sg><voc>/svatý Mikuláš<np><ant><ma><sg><nom>$
+[/Gz6rmOFVdgxm]
+[JcY7RgB2uXxj#0] ^svatého Jiřího/svatý Jiří<np><ant><ma><sg><acc>/svatý Jiří<np><ant><ma><sg><gen>$
+[/JcY7RgB2uXxj]
+[LWht6T4udHPU#0] ^nejm/*nejm$
+[/LWht6T4udHPU]
+[MtKqGvExDDpK#0] ^zanedbávení/zanedbávat<vblex><imperf><pp><adj><ma><pl><voc>/zanedbávat<vblex><imperf><pp><adj><ma><pl><nom>$
+[/MtKqGvExDDpK]
+[Pl0CpucVKPSS#0] ^313,02/313,02<num>$
+[/Pl0CpucVKPSS]
+[eQJpm-Qsio5G#0] ^7/7<num><qnt>$
+[/eQJpm-Qsio5G]
+[io3oI9XtPhJ0#0] ^?/?<sent>$
+[/io3oI9XtPhJ0]
+[mo_b2Mgft861#0] ^svatý Jiří/svatý Jiří<np><ant><ma><sg><voc>/svatý Jiří<np><ant><ma><sg><nom>$
+[/mo_b2Mgft861]
+[pyJ1ybHMfHIx#0] ^Velkou Británií/Velká Británie<np><top><f><sg><ins>$
+[/pyJ1ybHMfHIx]
+[u3IIvJtdfATx#0] ^!/!<sent>$
+[/u3IIvJtdfATx]
+[yBVYquZDg9Qk#0] ^odehrávány/odehrávat<vblex><imperf><pp><impers><mi><pl>/odehrávat<vblex><imperf><pp><impers><f><pl>$
+[/yBVYquZDg9Qk]

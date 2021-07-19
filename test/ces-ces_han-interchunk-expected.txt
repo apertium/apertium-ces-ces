@@ -1,0 +1,32 @@
+[-NyzQwjlxp9G#0] ^unknown<unknown>{^*ct$}$
+[/-NyzQwjlxp9G]
+[1si36x2Vi-eC#0] ^Nom<SN><nt><pl><ins>{^@bratrstvo<n><2><3><4>$}$
+[/1si36x2Vi-eC]
+[2iFi3NGGhX8x#0] ^Nom<SN><f><sg><acc>{^Velká Británie<np><top><2><3><4>$}$
+[/2iFi3NGGhX8x]
+[3pF1JKDWuw7t#0] ^Part<SA><imperf><pp><impers><mi><pl>{^domnívat<vblex><2><pp><impers><nt>$}$
+[/3pF1JKDWuw7t]
+[8VxOgeWPDg4e#0] ^Part<SA><imperf><pp><impers><ma><pl>{^praskat<vblex><2><pp><impers><nt>$}$
+[/8VxOgeWPDg4e]
+[Gz6rmOFVdgxm#0] ^Nom<SN><ma><sg><nom>{^svatý Mikuláš<np><ant><2><3><4>$}$
+[/Gz6rmOFVdgxm]
+[JcY7RgB2uXxj#0] ^Nom<SN><ma><sg><acc>{^svatý Jiří<np><ant><2><3><4>$}$
+[/JcY7RgB2uXxj]
+[LWht6T4udHPU#0] ^unknown<unknown>{^*nejm$}$
+[/LWht6T4udHPU]
+[MtKqGvExDDpK#0] ^Part<SA><imperf><pp><ma><pl><voc>{^zanedbávat<vblex><2><3><4><5><6>$}$
+[/MtKqGvExDDpK]
+[Pl0CpucVKPSS#0] ^Num<NUM>{^313,02<num>$}$
+[/Pl0CpucVKPSS]
+[eQJpm-Qsio5G#0] ^Num<NUM>{^7<num><qnt>$}$
+[/eQJpm-Qsio5G]
+[io3oI9XtPhJ0#0] ^punt<sent>{^?<sent>$}$
+[/io3oI9XtPhJ0]
+[mo_b2Mgft861#0] ^Nom<SN><ma><sg><nom>{^svatý Jiří<np><ant><2><3><4>$}$
+[/mo_b2Mgft861]
+[pyJ1ybHMfHIx#0] ^Nom<SN><f><sg><ins>{^Velká Británie<np><top><2><3><4>$}$
+[/pyJ1ybHMfHIx]
+[u3IIvJtdfATx#0] ^punt<sent>{^!<sent>$}$
+[/u3IIvJtdfATx]
+[yBVYquZDg9Qk#0] ^Part<SA><imperf><pp><impers><mi><pl>{^odehrávat<vblex><2><pp><impers><nt>$}$
+[/yBVYquZDg9Qk]
